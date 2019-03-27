@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Anthony Kevins"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,44 +9,40 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "" 
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Marie Curie Research Fellow", url = "https://www.uu.nl/staff/AVKevins" },  { name = "School of Governance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Utrecht University", url = "https://www.uu.nl/en" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "I am a Marie Curie Research Fellow at Utrecht University's School of Governance."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
+interests = ["Public Opinion", "Social Welfare and Healthcare Policy", "European Politics", "Democratic Representation", "Inequality"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+ [[education.courses]]
+  course = "PhD in Political Science"
+  institution = "McGill University"
+  year = 2014
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+ [[education.courses]]
+  course = "MSc in Comparative Politics"
+  institution = "London School of Economics and Political Science"
+  year = 2007
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+ [[education.courses]]
+  course = "BA in Political Science and Law & Society"
+  institution = "York University"
+  year = 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -54,34 +50,39 @@ user_groups = ["Researchers", "Visitors"]
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "envelope"
+  icon = "at"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#mailto:a.v.kevins@uu.nl"  # For a direct email link, use "mailto:".
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/avkevins"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.dk/citations?user=m-LdYYIAAAAJ&hl=en"
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Anthony_Kevins"
+  
+[[social]]
+#  icon = "github"
+#  icon_pack = "fab"
+#  link = "https://github.com/anthonykevins"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+ icon = "cv"
+ icon_pack = "ai"
+ link = "files/CV.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research investigates the interplay between public opinion and policy, with a special focus on marginalised groups and the welfare state. Some of the questions I've explored include: What factors shape the relationship between societal insiders and outsiders? How can we best understand social policy preferences? And what drives welfare state reform?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My studies have been published in journals such as _Socio-Economic Review_, the _Journal of European Social Policy_, and _Political Studies_. You can also find discussions of my research in [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
