@@ -1,5 +1,7 @@
 To make a website similar to my own, check out the instructions below. If you'd like to host it on GitHub Pages, I would also recommend reviewing this [short guide](https://dev.to/toyotarone/how-to-host-your-hugo-website-on-github-pages-4aa2) once you've got everything looking the way you want it to.
 
+Favicon courtesy of [maxicons](https://www.iconfinder.com/iconsets/landmark-outline), available for use under [Creative Commons License](https://creativecommons.org/licenses/by/3.0/).
+
 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
