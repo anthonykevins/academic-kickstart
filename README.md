@@ -1,4 +1,4 @@
-To make a website similar to my own, check out the instructions below.
+To make a website similar to my own, check out the instructions below. If you'd like to host it on GitHub Pages, I would also recommend checking out this [short guide](https://dev.to/toyotarone/how-to-host-your-hugo-website-on-github-pages-4aa2) once you've got everything looking the way you want it to.
 
 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
