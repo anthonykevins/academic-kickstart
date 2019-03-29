@@ -37,7 +37,7 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Multilanguage setup
-[languages]
+ [languages]
   [languages.en]
     title = "Anthony Kevins"
     weight = 1
