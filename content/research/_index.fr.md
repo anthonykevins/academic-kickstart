@@ -15,7 +15,7 @@ highlight: false
 
 ---
 
-Cette section offre une présentation de mes projets de recherche actuels et passés. Vous pouvez également télécharger toutes mes publications [ici](https://anthonykevins.github.io/publications_fr/) (libre accès) ou consulter mon [CV](https://anthonykevins.github.io/files/CV.pdf).
+Cette section offre une présentation de mes projets de recherche actuels et passés. Vous pouvez également télécharger toutes mes publications [ici](https://anthonykevins.github.io/fr/publications/) (libre accès) ou consulter mon [CV](https://anthonykevins.github.io/files/CV_fr.pdf).
 
 ### Qui devrait avoir un mot à dire ? Préférences pour la représentation différentielle
 

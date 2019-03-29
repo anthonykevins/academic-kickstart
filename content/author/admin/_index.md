@@ -16,7 +16,7 @@ role = ""
 organizations = [ { name = "Marie Curie Research Fellow", url = "https://www.uu.nl/staff/AVKevins" },  { name = "School of Governance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Utrecht University", url = "https://www.uu.nl/en" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a Marie Curie Research Fellow at Utrecht University's School of Governance."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -52,7 +52,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "at"
   icon_pack = "fas"
-  link = "#mailto:a.v.kevins@uu.nl"  # For a direct email link, use "mailto:".
+  link = "mailto:a.v.kevins@uu.nl"  # For a direct email link, use "mailto:".
 
 [[social]]
 #  icon = "twitter"
