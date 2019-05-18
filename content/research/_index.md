@@ -37,10 +37,11 @@ A portion of this research is rooted in an original survey fielded in the US and
 
 ### Insiders and Outsiders
 
-What institutional factors shape relations between insiders and outsiders? Several of my studies explore the division between groups that have historically been protected by social policy and labour market regulations (i.e. insiders) and those we have excluded from that protection (i.e. outsiders). Some of the topics I have addressed with this research include:
+What factors shape relations between insiders and outsiders? Several of my studies explore the division between groups that have historically been protected by social policy and labour market regulations (i.e. insiders) and those we have excluded from that protection (i.e. outsiders). Some of the topics I have addressed with this research include:
 
 -   [The institutional and political determinants of coverage extension (book)](https://www.jstor.org/stable/j.ctt20krz5m) 
 -   [The drivers of social assistance reforms](https://anthonykevins.github.io/files/Political_Actors.pdf)
+-   [The relationship between care work, inequality, and job satisfaction](https://anthonykevins.github.io/files/Bonus_or_Burden.pdf)
 -   [The impact of the insider/outsider divide on generalised trust](https://anthonykevins.github.io/files/Dualised_Trust.pdf)
 
 <a href="https://www.jstor.org/stable/j.ctt20krz5m"> <img style="float: right; margin-right: 7px; margin-left: 7px; margin-top: 7px; margin-bottom: 0px;" src="cover.jpg" alt="" width="190"></a>

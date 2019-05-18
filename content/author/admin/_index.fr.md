@@ -9,11 +9,12 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = ""
+role = "Chercheur Marie Curie"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Chercheur Marie Curie", url = "https://www.uu.nl/staff/AVKevins" }, { name = "École de gouvernance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Université d’Utrecht", url = "https://www.uu.nl/en" } ]
+# organizations = [ { name = "Chercheur Marie Curie", url = "https://www.uu.nl/staff/AVKevins" }, { name = "École de gouvernance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Université d’Utrecht", url = "https://www.uu.nl/en" } ]
+organizations = [ { name = "École de gouvernance"}, { name = "Université d’Utrecht"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -22,7 +23,7 @@ bio = ""
 email = ""
 
 # List (academic) interests or hobbies
-interests = ["Politiques sociales et de santé", "Politiques européennes", "Opinion publique", "Inégalités", "Représentation démocratique"]
+interests = ["Politiques sociales", "Précarité sur le marché du travail", "Opinion publique", "Politiques européennes", "Représentation démocratique", "Inégalités"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -46,13 +47,13 @@ user_groups = ["Researchers", "Visitors"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[social]]
-  icon = "at"
-  icon_pack = "fas"
-  link = "mailto:a.v.kevins@uu.nl"  # For a direct email link, use "mailto:".
+ icon = "cv"
+ icon_pack = "ai"
+ link = "https://anthonykevins.github.io/files/CV_fr.pdf"
 
 [[social]]
 #  icon = "twitter"
@@ -74,12 +75,13 @@ user_groups = ["Researchers", "Visitors"]
 #  icon_pack = "fab"
 #  link = "https://github.com/anthonykevins"
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 [[social]]
- icon = "cv"
- icon_pack = "ai"
- link = "https://anthonykevins.github.io/files/CV_fr.pdf"
+  icon = "envelope"
+  icon_pack = "far"
+  link = "mailto:a.v.kevins@uu.nl"  # For a direct email link, use "mailto:".
 
 +++
 
