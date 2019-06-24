@@ -43,6 +43,7 @@ Mes publications sur ce sujet se focalisent sur :
 
 -   [La problématisation et la résolution des lacunes dans la couverture sociale (livre)](https://www.jstor.org/stable/j.ctt20krz5m) 
 -   [Les facteurs qui façonnent les réformes de l’aide sociale](https://anthonykevins.github.io/files/Political_Actors.pdf)
+-   [La précarité sur le marché du travail et l'opinion publique à l'égard de l'immigration](https://anthonykevins.github.io/files/Immigrant_Sentiment.pdf)
 -   [La confiance généralisée des inclus et des exclus](https://anthonykevins.github.io/files/Dualised_Trust.pdf) 
 
 <a href="https://www.jstor.org/stable/j.ctt20krz5m"> <img style="float: right; margin-right: 7px; margin-left: 7px; margin-top: 7px; margin-bottom: 0px;" src="cover.jpg" alt="" width="190"></a>

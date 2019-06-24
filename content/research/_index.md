@@ -42,6 +42,7 @@ What factors shape relations between insiders and outsiders? Several of my studi
 -   [The institutional and political determinants of coverage extension (book)](https://www.jstor.org/stable/j.ctt20krz5m) 
 -   [The drivers of social assistance reforms](https://anthonykevins.github.io/files/Political_Actors.pdf)
 -   [The relationship between care work, inequality, and job satisfaction](https://anthonykevins.github.io/files/Bonus_or_Burden.pdf)
+-   [The effect of labour market vulnerability on attitudes toward immigrants](https://anthonykevins.github.io/files/Immigrant_Sentiment.pdf)
 -   [The impact of the insider/outsider divide on generalised trust](https://anthonykevins.github.io/files/Dualised_Trust.pdf)
 
 <a href="https://www.jstor.org/stable/j.ctt20krz5m"> <img style="float: right; margin-right: 7px; margin-left: 7px; margin-top: 7px; margin-bottom: 0px;" src="cover.jpg" alt="" width="190"></a>
