@@ -25,7 +25,11 @@ Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
-Naomi Lightman and Anthony Kevins. (Forthcoming) ["Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries"](https://anthonykevins.github.io/files/Bonus_or_Burden.pdf), _European Sociological Review_.
+Anthony Kevins. (Forthcoming) ["Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US"](https://anthonykevins.github.io/files/Race_Class_Both.pdf), _Politics, Groups, and Identities_.
+
+Anthony Kevins and Naomi Lightman. (Forthcoming) ["Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualised Labour Markets"](https://anthonykevins.github.io/files/Immigrant_Sentiment.pdf), _Comparative European Politics_.
+
+Naomi Lightman and Anthony Kevins. (OnlineFirst) ["Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries"](https://anthonykevins.github.io/files/Bonus_or_Burden.pdf), _European Sociological Review_. [doi.org/10.1093/esr/jcz032](http://doi.org/10.1093/esr/jcz032)
   
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (OnlineFirst) ["Motive Attribution and the Moral Politics of the Welfare State"](https://anthonykevins.github.io/files/Motive_Attribution.pdf), _Journal of Social Policy_. [doi.org/10.1017/S0047279419000175](https://doi.org/10.1017/S0047279419000175)<br>
 -Summarized on the [The Social Policy Blog](https://socialpolicyblog.com/2019/05/08/explaining-other-peoples-stances-on-inequality/)
