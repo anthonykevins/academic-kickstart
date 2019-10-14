@@ -17,25 +17,18 @@ highlight: false
 
 Below you will find a brief overview of my teaching experience and training. For more information, please consult my [Teaching Portfolio](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf).
 
-### Courses Taught
+### Current/Recent Teaching
 
-My teaching experience includes undergraduate and graduate course development and instruction, in formats ranging from small seminars to large lectures with several hundred students.
+- Comparative European Politics (Bachelor's Course, Loughborough University, Fall 2019)
+- Smart Scholarship (Bachelor's Core Course, Loughborough University, Fall 2019)
 
-- __Political Institutions__
-  - Bachelor's Core Course, Aarhus University, Spring 2016 & 2017
-  - A survey course on institutionalism and various domestic and supranational institutions, with a particular focus on the European Union
-- __Social Science Methods for Journalists__
-  - Master's Core Course, Aarhus University, Fall 2016
-  - An introduction to social science research design and methods (both quantitative and qualitative)
-- __Democracy and Representation__
-  - Master's Seminar, Aarhus University, Fall 2015
-  - An exploration of the bi-directional link between public opinion and policy making, including patterns of unequal representation
--  __Pragmatism and Politics__
-  - Master's Seminar, Aarhus University, Spring 2015
-  - An examination of the challenges underlying the balance between technocracy and democracy
-- __Politics: Contemporary Europe__
-  - Bachelor's Course, McGill University, Summer & Fall 2013
-  - A survey of welfare state, capitalist, and citizenship regime typologies, as well as the policy changes across them
+### Past Teaching 
+
+- Political Institutions (Bachelor's Core Course, Aarhus University, Spring 2016 & 2017)
+- Social Science Methods for Journalists (Master's Core Course, Aarhus University, Fall 2016)
+- Democracy and Representation (Master's Seminar, Aarhus University, Fall 2015)
+- Pragmatism and Politics (Master's Seminar, Aarhus University, Spring 2015)
+- Politics: Contemporary Europe (Bachelor's Course, McGill University, Summer & Fall 2013)
 
 ### Pedagogical Training
 

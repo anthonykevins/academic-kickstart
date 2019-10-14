@@ -9,12 +9,12 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Chercheur Marie Curie"
+role = "Professeur adjoint"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "Chercheur Marie Curie", url = "https://www.uu.nl/staff/AVKevins" }, { name = "École de gouvernance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Université d’Utrecht", url = "https://www.uu.nl/en" } ]
-organizations = [ { name = "École de gouvernance"}, { name = "Université d’Utrecht"} ]
+organizations = [ { name = "Département de science politique et d'études internationales"}, { name = "Université de Loughborough"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -81,7 +81,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "far"
-  link = "mailto:a.v.kevins@uu.nl"  # For a direct email link, use "mailto:".
+  link = "mailto:a.kevins@lboro.ac.uk"  # For a direct email link, use "mailto:".
 
 +++
 

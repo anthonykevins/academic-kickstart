@@ -15,27 +15,17 @@ highlight: false
 
 ---
 
-Vous trouverez ci-dessous une vue d’ensemble de mes expériences et de ma formation en enseignement.
+Vous trouverez ci-dessous une vue d’ensemble de mes expériences et de ma formation en enseignement. Pour plus de détails, vous pouvez également consulter mon [dossier d'enseignement](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf) (disponible uniquement en anglais).
 
 ### Cours enseignés
 
-Mon expérience d'enseignement inclut le développement et l'enseignement de cours de premier et deuxième cycle, souvent dans des contextes multidisciplinaires.
-
-- __Political Institutions__
-  -   Cours de base de 1<sup>er</sup> cycle, Université d'Aarhus, printemps 2016 et 2017
-  -   Cours portant sur l'institutionnalisme et les institutions domestiques et supranationales, avec un accent particulier mis sur l'Union européenne
-- __Social Science Methods for Journalists__
-  -   Cours de base de 2<sup>e</sup> cycle, Université d'Aarhus, automne 2016
-  -   Introduction aux méthodologies qualitatives et quantitatives pour les étudiants d'un programme interdisciplinaire
-- __Democracy and Representation__
-  -   Cours de 2<sup>e</sup> cycle, Université d'Aarhus, automne 2015
-  -   Une exploration des liens entre l'opinion publique et le processus politique
-- __Pragmatism and Politics__
-  -   Cours de 2<sup>e</sup> cycle, Université d'Aarhus, printemps 2015
-  -   Une étude des défis sous-jacents à l'équilibre entre la technocratie et la démocratie
-- __Politics: Contemporary Europe__
-  -   Cours de 1<sup>er</sup> cycle, Université McGill, été et automne 2013
-  -   Un aperçu des typologies de l'États-providence, du capitalisme et des régimes de citoyenneté, ainsi que l'impact de l'Union européenne sur les politiques dans ces domaines
+- Comparative European Politics (Cours de 1<sup>er</sup> cycle, Université de Loughborough, automne 2017)
+- Smart Scholarship (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough, automne 2019)
+- Political Institutions (Cours de base de 1<sup>er</sup> cycle, Université d'Aarhus, printemps 2016 et 2017)
+- Social Science Methods for Journalists (Cours de base de 2<sup>e</sup> cycle, Université d'Aarhus, automne 2016)
+- Democracy and Representation (Cours de 2<sup>e</sup> cycle, Université d'Aarhus, automne 2015)
+- Pragmatism and Politics (Cours de 2<sup>e</sup> cycle, Université d'Aarhus, printemps 2015)
+- Politics: Contemporary Europe (Cours de 1<sup>er</sup> cycle, Université McGill, été et automne 2013)
 
 ### Formation pédagogique
 

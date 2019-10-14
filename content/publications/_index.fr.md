@@ -23,9 +23,9 @@ Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Articles (dans des revues avec comité de lecture)
 
-Anthony Kevins. (À paraître) [« Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US »](https://anthonykevins.github.io/files/Race_Class_Both.pdf), _Politics, Groups, and Identities_.
+Anthony Kevins et Naomi Lightman. (OnlineFirst) [« Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualized Labour Markets »](https://anthonykevins.github.io/files/Immigrant_Sentiment.pdf), _Comparative European Politics_. [doi.org/10.1057/s41295-019-00194-1](https://doi.org/10.1057/s41295-019-00194-1)
 
-Anthony Kevins et Naomi Lightman. (À paraître) [« Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualised Labour Markets »](https://anthonykevins.github.io/files/Immigrant_Sentiment.pdf), _Comparative European Politics_.
+Anthony Kevins. (OnlineFirst) [« Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US »](https://doi.org/10.1080/21565503.2019.1636833), _Politics, Groups, and Identities_. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
 
 Naomi Lightman et Anthony Kevins. (OnlineFirst) [« Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries »](https://anthonykevins.github.io/files/Bonus_or_Burden.pdf), _European Sociological Review_. [doi.org/10.1093/esr/jcz032](http://doi.org/10.1093/esr/jcz032)
 
@@ -40,7 +40,7 @@ Carsten Jensen et Anthony Kevins. (2019) [« Numbers and Attitudes Towards Welfa
 Anthony Kevins et Kees van Kersbergen. (2019) [« The Effects of Welfare State Universalism on Migrant Integration »](https://anthonykevins.github.io/files/Universalism_Integration.pdf), _Policy & Politics_, 47(1): 115-132. [doi.org/10.1332/030557318X15407315707251](https://doi.org/10.1332/030557318X15407315707251)<br>
 -Résumé sur [Discover Society](https://discoversociety.org/2019/02/06/policy-and-politics-one-of-us-how-welfare-states-help-shape-immigrant-integration/) et le [Policy & Politics Journal Blog](https://policyandpoliticsblog.com/2019/02/20/one-of-us-how-welfare-states-help-shape-immigrant-integration/)
 
-Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (OnlineFirst) [« The Illusion of Class in Welfare State Politics? »](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_, 48(1): 21-41. [dx.doi.org/10.1017/S0047279418000247](https://dx.doi.org/10.1017/S0047279418000247)
+Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (2019) [« The Illusion of Class in Welfare State Politics? »](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_, 48(1): 21-41. [dx.doi.org/10.1017/S0047279418000247](https://dx.doi.org/10.1017/S0047279418000247)
 
 Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (2018) [« Yardsticks of Inequality: Preferences for Redistribution in Advanced Democracies »](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf), _Journal of European Social Policy_, 28(4): 402-418. [doi.org/10.1177/0958928717753579](https://doi.org/10.1177/0958928717753579)
 

@@ -25,9 +25,9 @@ Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
-Anthony Kevins. (Forthcoming) ["Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US"](https://anthonykevins.github.io/files/Race_Class_Both.pdf), _Politics, Groups, and Identities_.
+Anthony Kevins and Naomi Lightman. (OnlineFirst) ["Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualized Labour Markets"](https://anthonykevins.github.io/files/Immigrant_Sentiment.pdf), _Comparative European Politics_. [doi.org/10.1057/s41295-019-00194-1](https://doi.org/10.1057/s41295-019-00194-1)
 
-Anthony Kevins and Naomi Lightman. (Forthcoming) ["Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualised Labour Markets"](https://anthonykevins.github.io/files/Immigrant_Sentiment.pdf), _Comparative European Politics_.
+Anthony Kevins. (OnlineFirst) ["Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US"](https://doi.org/10.1080/21565503.2019.1636833), _Politics, Groups, and Identities_. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
 
 Naomi Lightman and Anthony Kevins. (OnlineFirst) ["Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries"](https://anthonykevins.github.io/files/Bonus_or_Burden.pdf), _European Sociological Review_. [doi.org/10.1093/esr/jcz032](http://doi.org/10.1093/esr/jcz032)
   
