@@ -19,7 +19,7 @@ blackfriday:
 
 ### Livres (avec comité de lecture)
 
-Anthony Kevins. (2017) _[Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World](https://www.jstor.org/stable/j.ctt20krz5m)_, Amsterdam University Press (Série : Changing Welfare States). [[Premier chapitre]](https://anthonykevins.github.io/files/Expanding_Welfare.pdf)
+Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World_](https://anthonykevins.github.io/files/Expanding_Welfare.pdf), Amsterdam University Press (Série : Changing Welfare States).
 
 ### Articles (dans des revues avec comité de lecture)
 
