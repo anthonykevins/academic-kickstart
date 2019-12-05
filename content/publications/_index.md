@@ -28,13 +28,13 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 Anthony Kevins and Naomi Lightman. (OnlineFirst) ["Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualized Labour Markets"](https://anthonykevins.github.io/files/Immigrant_Sentiment.pdf), _Comparative European Politics_. [doi.org/10.1057/s41295-019-00194-1](https://doi.org/10.1057/s41295-019-00194-1)
 
 Anthony Kevins. (OnlineFirst) ["Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US"](https://doi.org/10.1080/21565503.2019.1636833), _Politics, Groups, and Identities_. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
-
-Naomi Lightman and Anthony Kevins. (OnlineFirst) ["Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries"](https://anthonykevins.github.io/files/Bonus_or_Burden.pdf), _European Sociological Review_. [doi.org/10.1093/esr/jcz032](http://doi.org/10.1093/esr/jcz032)
   
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (OnlineFirst) ["Motive Attribution and the Moral Politics of the Welfare State"](https://anthonykevins.github.io/files/Motive_Attribution.pdf), _Journal of Social Policy_. [doi.org/10.1017/S0047279419000175](https://doi.org/10.1017/S0047279419000175)<br>
 -Summarized on the [The Social Policy Blog](https://socialpolicyblog.com/2019/05/08/explaining-other-peoples-stances-on-inequality/)
 
-Anthony Kevins. (OnlineFirst) ["Dualized Trust: Risk, Social Trust, and the Welfare State"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
+Naomi Lightman and Anthony Kevins. (2019) ["Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries"](https://anthonykevins.github.io/files/Bonus_or_Burden.pdf), _European Sociological Review_, 35(6): 825–844. [doi.org/10.1093/esr/jcz032](https://academic.oup.com/esr/article/35/6/825/5521386?guestAccessKey=5a546076-ebad-417e-a168-d998e6b56a96). 
+
+Anthony Kevins. (2019) ["Dualized Trust: Risk, Social Trust, and the Welfare State"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_, 17(4): 875–897. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
 
 Carsten Jensen and Anthony Kevins. (2019) ["Numbers and Attitudes Towards Welfare State Generosity"](http://journals.sagepub.com/doi/pdf/10.1177/0032321718780516), _Political Studies_, 67(2): 496–516. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)<br>
 -Summarized on the [LSE British Politics & Policy Blog](http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/)
