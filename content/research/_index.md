@@ -27,7 +27,7 @@ Funded by the EU's H2020 Programme via a Marie Curie Individual Fellowship (Gran
 
 How committed are citizens to universalism, redistribution, and the welfare state, and what factors shape their commitment? Through my  affiliation with the UNIWEL (Universalism and the Welfare State) project at Aarhus University, I have investigated various topics related to this theme. My published work on the topic has examined:
 
--   [The motives citizens ascribe to their pro- and anti-redistribution compatriots](https://anthonykevins.github.io/files/Motive_Attribution.pdf)
+-   [The motives citizens ascribe to their pro- and anti-redistribution compatriots](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2DC2B5761B7474254AB8BEC75CF9B0D/S0047279419000175a.pdf/motive_attribution_and_the_moral_politics_of_the_welfare_state.pdf)
 -   [The effects of welfare state universalism on immigrant integration](https://anthonykevins.github.io/files/Universalism_Integration.pdf)
 -   [The implications of class identity for social policy preferences](https://anthonykevins.github.io/files/Illusion_Class.pdf)
 -   [The attitudinal effects of the structure of inequality across the income spectrum](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf)

@@ -27,7 +27,7 @@ Anthony Kevins et Naomi Lightman. (OnlineFirst) [« Immigrant Sentiment and Labo
 
 Anthony Kevins. (OnlineFirst) [« Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US »](https://doi.org/10.1080/21565503.2019.1636833), _Politics, Groups, and Identities_. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
 
-Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (OnlineFirst) [« Motive Attribution and the Moral Politics of the Welfare State »](https://anthonykevins.github.io/files/Motive_Attribution.pdf), _Journal of Social Policy_. [doi.org/10.1017/S0047279419000175](https://doi.org/10.1017/S0047279419000175)<br>
+Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (2020) [« Motive Attribution and the Moral Politics of the Welfare State »](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2DC2B5761B7474254AB8BEC75CF9B0D/S0047279419000175a.pdf/motive_attribution_and_the_moral_politics_of_the_welfare_state.pdf), _Journal of Social Policy_, 49(1): 145-165. [doi.org/10.1017/S0047279419000175](https://doi.org/10.1017/S0047279419000175)<br>
 -Résumé sur le [Social Policy Blog](https://socialpolicyblog.com/2019/05/08/explaining-other-peoples-stances-on-inequality/)
 
 Naomi Lightman et Anthony Kevins. (2019) [« Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries »](https://anthonykevins.github.io/files/Bonus_or_Burden.pdf), _European Sociological Review_, 35(6): 825–844. [doi.org/10.1093/esr/jcz032](https://academic.oup.com/esr/article/35/6/825/5521386?guestAccessKey=5a546076-ebad-417e-a168-d998e6b56a96)

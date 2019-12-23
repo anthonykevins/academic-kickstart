@@ -27,7 +27,7 @@ Financé par l'Union européenne par le biais d'une bourse Marie Skłodowska-Cur
 
 À quel point les citoyens sont-ils attachés à l’universalisme, la redistribution et l’État-providence ? Quels sont les facteurs qui influencent cet attachement ? Par mon affiliation au projet UNIWEL (« Universalism and the Welfare State » ) à l’Université d’Aarhus, je me suis penché sur divers sujets liés à ce thème, incluant :
 
--   [Les motivations imputées aux personnes qui sont pour ou contre la redistribution](https://anthonykevins.github.io/files/Motive_Attribution.pdf)
+-   [Les motivations imputées aux personnes qui sont pour ou contre la redistribution](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2DC2B5761B7474254AB8BEC75CF9B0D/S0047279419000175a.pdf/motive_attribution_and_the_moral_politics_of_the_welfare_state.pdf)
 -   [Le rapport entre l'universalisme et l'intégration des immigrants](https://anthonykevins.github.io/files/Universalism_Integration.pdf)
 -   [Les conséquences de l'identité de classe sur les préférences politiques](https://anthonykevins.github.io/files/Illusion_Class.pdf)
 -   [L'effet de la structure d'inégalité sur les préférences de redistribution à travers l'échelle de revenus](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf)
