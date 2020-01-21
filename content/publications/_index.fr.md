@@ -23,7 +23,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Articles (dans des revues avec comité de lecture)
 
-Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (À paraître) [« Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals »](https://anthonykevins.github.io/files/Parties_Appeal.pdf),_Party Politics_.
+Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (À paraître) [« Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals »](https://anthonykevins.github.io/files/Parties_Appeal.pdf), _Party Politics_.
 
 Anthony Kevins et Naomi Lightman. (OnlineFirst) [« Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualized Labour Markets »](https://anthonykevins.github.io/files/Immigrant_Sentiment.pdf), _Comparative European Politics_. [doi.org/10.1057/s41295-019-00194-1](https://doi.org/10.1057/s41295-019-00194-1)
 
