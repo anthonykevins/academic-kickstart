@@ -19,6 +19,7 @@ Below you will find a brief overview of my teaching experience and training. For
 
 ### Current/Recent Teaching
 
+- British Politics and Government (Bachelor's Core Course, Loughborough University, Spring 2020)
 - Comparative European Politics (Bachelor's Course, Loughborough University, Fall 2019)
 - Smart Scholarship (Bachelor's Core Course, Loughborough University, Fall 2019)
 

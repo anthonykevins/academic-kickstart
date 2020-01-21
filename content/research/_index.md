@@ -32,6 +32,8 @@ How committed are citizens to universalism, redistribution, and the welfare stat
 -   [The implications of class identity for social policy preferences](https://anthonykevins.github.io/files/Illusion_Class.pdf)
 -   [The attitudinal effects of the structure of inequality across the income spectrum](https://anthonykevins.github.io/files/Yardsticks_Inequality.pdf)
 -   [The equality and welfare content of party manifestoes](https://anthonykevins.github.io/files/Peeping_Corpus.pdf)
+-   [The use of targeted versus universalistic party appeals](https://anthonykevins.github.io/files/Parties_Appeal.pdf)
+
 
 A portion of this research is rooted in an original survey fielded in the US and nine Western European countries. These unique surveys examine social policy preferences from a variety of perspectives, including as they relate to perceptions of fairness, policy trade-offs, inequality, and immigration.
 
