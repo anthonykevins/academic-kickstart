@@ -32,17 +32,17 @@ Anthony Kevins and Naomi Lightman. (OnlineFirst) ["Immigrant Sentiment and Labou
 Anthony Kevins. (OnlineFirst) ["Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US"](https://doi.org/10.1080/21565503.2019.1636833), _Politics, Groups, and Identities_. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
   
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (2020) ["Motive Attribution and the Moral Politics of the Welfare State"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2DC2B5761B7474254AB8BEC75CF9B0D/S0047279419000175a.pdf/motive_attribution_and_the_moral_politics_of_the_welfare_state.pdf), _Journal of Social Policy_, 49(1): 145-165. [doi.org/10.1017/S0047279419000175](https://doi.org/10.1017/S0047279419000175)<br>
--Summarized on the [The Social Policy Blog](https://socialpolicyblog.com/2019/05/08/explaining-other-peoples-stances-on-inequality/)
+-Described on the [The Social Policy Blog](https://socialpolicyblog.com/2019/05/08/explaining-other-peoples-stances-on-inequality/)
 
 Naomi Lightman and Anthony Kevins. (2019) ["Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries"](https://anthonykevins.github.io/files/Bonus_or_Burden.pdf), _European Sociological Review_, 35(6): 825–844. [doi.org/10.1093/esr/jcz032](https://academic.oup.com/esr/article/35/6/825/5521386?guestAccessKey=5a546076-ebad-417e-a168-d998e6b56a96). 
 
 Anthony Kevins. (2019) ["Dualized Trust: Risk, Social Trust, and the Welfare State"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_, 17(4): 875–897. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
 
 Carsten Jensen and Anthony Kevins. (2019) ["Numbers and Attitudes Towards Welfare State Generosity"](http://journals.sagepub.com/doi/pdf/10.1177/0032321718780516), _Political Studies_, 67(2): 496–516. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)<br>
--Summarized on the [LSE British Politics & Policy Blog](http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/)
+-Winner of the Harrison Prize for the best paper published in *Political Studies* in 2019.-Described on the [LSE British Politics & Policy Blog](http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/)
 
 Anthony Kevins and Kees van Kersbergen. (2019) ["The Effects of Welfare State Universalism on Migrant Integration"](https://anthonykevins.github.io/files/Universalism_Integration.pdf), _Policy & Politics_, 47(1): 115-132. [doi.org/10.1332/030557318X15407315707251](https://doi.org/10.1332/030557318X15407315707251)<br>
--Summarized on [Discover Society](https://discoversociety.org/2019/02/06/policy-and-politics-one-of-us-how-welfare-states-help-shape-immigrant-integration/) and the [Policy & Politics Journal Blog](https://policyandpoliticsblog.com/2019/02/20/one-of-us-how-welfare-states-help-shape-immigrant-integration/)
+-Described on [Discover Society](https://discoversociety.org/2019/02/06/policy-and-politics-one-of-us-how-welfare-states-help-shape-immigrant-integration/) and the [Policy & Politics Journal Blog](https://policyandpoliticsblog.com/2019/02/20/one-of-us-how-welfare-states-help-shape-immigrant-integration/)
 
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (2019) ["The Illusion of Class in Welfare State Politics?"](https://anthonykevins.github.io/files/Illusion_Class.pdf), _Journal of Social Policy_, 48(1): 21-41. [dx.doi.org/10.1017/S0047279418000247](https://dx.doi.org/10.1017/S0047279418000247)
 
