@@ -19,9 +19,9 @@ Below you will find an overview of my ongoing and past research projects, as wel
 
 ### Who Should Have a Say? Preferences for Differentiated Representation
 
-Equal representation is at the core of representative democracy, but are citizens actually in favour of it? As heated debates about the influence of certain groups make clear, people may take a variety of stances toward differentiated representation (i.e. differential group influence over policy). Citizens may believe, for example, that when it comes to designing integration policies, recent immigrants deserve to have extra influence (due to greater affectedness), less influence (due to vested interests), or the same amount of influence as everyone else. What is more, a given citizen might simultaneously hold very different preferences regarding other groups and policy areas (e.g. bankers with financial legislation, retirees with eldercare).
+Equal representation is at the core of representative democracy, but are citizens actually in favour of it? As heated debates about the influence of certain groups make clear, people may take a variety of stances toward differentiated representation (i.e. differential group influence over policy). Citizens may believe, for example, that when it comes to designing integration policies, recent immigrants deserve to have extra influence (due to greater affectedness), less influence (due to vested interests), or the same amount of influence as everyone else. What is more, a given citizen might simultaneously hold very different preferences regarding other groups and policy areas (e.g. bankers with financial legislation, retirees with eldercare). Funded by the EU's H2020 Programme via a Marie Curie Individual Fellowship (Grant Number 750556), this project investigates attitudes toward the influence of specific groups on issues those groups care about.
 
-Funded by the EU's H2020 Programme via a Marie Curie Individual Fellowship (Grant Number 750556), this project investigates attitudes toward the influence of specific groups on issues those groups care about. 
+If you are interested in consulting my work on this topic (forthcoming and under review), please reach out to my via [email](mailto:akevins@lboro.ac.uk).
 
 ### Universalism and the Welfare State
 

@@ -25,6 +25,8 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
+Anthony Kevins and Joshua Robison. (Forthcoming) "Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation", _Political Psychology_.
+
 Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. (OnlineFirst) ["Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals"](https://anthonykevins.github.io/files/Parties_Appeal.pdf), _Party Politics_. [doi.org/10.1177/1354068820907998](https://doi.org/10.1177/1354068820907998)
 
 Anthony Kevins and Naomi Lightman. (OnlineFirst) ["Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualized Labour Markets"](https://anthonykevins.github.io/files/Immigrant_Sentiment.pdf), _Comparative European Politics_. [doi.org/10.1057/s41295-019-00194-1](https://doi.org/10.1057/s41295-019-00194-1)
@@ -39,7 +41,7 @@ Naomi Lightman and Anthony Kevins. (2019) ["Bonus or Burden? Care Work, Inequali
 Anthony Kevins. (2019) ["Dualized Trust: Risk, Social Trust, and the Welfare State"](https://anthonykevins.github.io/files/Dualised_Trust.pdf), _Socio-Economic Review_, 17(4): 875–897. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
 
 Carsten Jensen and Anthony Kevins. (2019) ["Numbers and Attitudes Towards Welfare State Generosity"](http://journals.sagepub.com/doi/pdf/10.1177/0032321718780516), _Political Studies_, 67(2): 496–516. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)<br>
--Winner of the Harrison Prize for the best paper published in *Political Studies* in 2019 <br> 
+-Winner of the [Harrison Prize](https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners) for the best paper published in *Political Studies* in 2019 <br> 
 -Outreach via the [LSE British Politics & Policy Blog](http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/)
 
 Anthony Kevins and Kees van Kersbergen. (2019) ["The Effects of Welfare State Universalism on Migrant Integration"](https://anthonykevins.github.io/files/Universalism_Integration.pdf), _Policy & Politics_, 47(1): 115-132. [doi.org/10.1332/030557318X15407315707251](https://doi.org/10.1332/030557318X15407315707251)<br>
