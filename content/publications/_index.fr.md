@@ -25,7 +25,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 Anthony Kevins et Joshua Robison. (À paraître) [« Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation »](https://repository.lboro.ac.uk/articles/journal_contribution/Who_should_get_a_say_Race_law_enforcement_guidelines_and_systems_of_representation/12480542), _Political Psychology_.
 
-Anthony Kevins. (À paraître) [« Input from Whom? Public Reactions to Different Consultation Measures »](https://anthonykevins.github.io/files/Input_From_Whom.pdf),, _Political Studies_.
+Anthony Kevins. (À paraître) [« Input from Whom? Public Reactions to Different Consultation Measures »](https://anthonykevins.github.io/files/Input_From_Whom.pdf), _Political Studies_.
 
 Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (OnlineFirst) [« Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals »](https://repository.lboro.ac.uk/articles/journal_contribution/Political_parties_and_social_groups_New_perspectives_and_data_on_group_and_policy_appeals/11628444), _Party Politics_. [doi.org/10.1177/1354068820907998](https://doi.org/10.1177/1354068820907998)
 
