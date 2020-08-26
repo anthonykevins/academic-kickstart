@@ -19,9 +19,10 @@ Below you will find a brief overview of my teaching experience and training. For
 
 ### Current/Recent Teaching
 
+- Smart Scholarship (Bachelor's Core Course, Loughborough University, Fall 2019 & 2020)
+- Undergraduate Dissertation Supervision (Loughborough University, Fall 2020)
 - British Politics and Government (Bachelor's Core Course, Loughborough University, Spring 2020)
 - Comparative European Politics (Bachelor's Course, Loughborough University, Fall 2019)
-- Smart Scholarship (Bachelor's Core Course, Loughborough University, Fall 2019)
 
 ### Past Teaching 
 
@@ -33,9 +34,13 @@ Below you will find a brief overview of my teaching experience and training. For
 
 ### Pedagogical Training
 
-I have completed the following formal pedagogical courses from Aarhus University's Centre for Teaching and Learning:
+I have completed the following formal pedagogical courses:
 
-- Teacher Training Programme for Assistant Professors, 2016-2017
+- Fundamentals of PhD Supervision, Loughborough University, 2020
+  - A full-day training workshop covering topics such as Learning to Supervise, Supporting Professional Skill Development, and Ethical Issues in Supervision
+- Introduction to Learning and Teaching at Loughborough University, Loughborough University, 2019
+  - A full-day training workshop covering topics such as Supporting and Advising Students, the Online "Learn" Platform, and Developing Employable Graduates
+- Teacher Training Programme for Assistant Professors, Aarhus University, 2016-2017
   - A 5-ECTS programme covering topics such as Teaching Methods and Organisation, Integrated Course Design, Lecturing Skills, and Educational IT
-- Challenges of the Multicultural Classroom in a Danish Context, 2016
+- Challenges of the Multicultural Classroom in a Danish Context, Aarhus University, 2016
   - Included a four-hour workshop on seminar-based teaching and an hour-long evaluation of each participant's teaching
