@@ -23,7 +23,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Articles (dans des revues avec comité de lecture)
 
-Anthony Kevins et Joshua Robison. (À paraître) [« Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation »](https://repository.lboro.ac.uk/articles/journal_contribution/Who_should_get_a_say_Race_law_enforcement_guidelines_and_systems_of_representation/12480542), _Political Psychology_.
+Anthony Kevins et Joshua Robison. (OnlineFirst) [« Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation »](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12688), _Political Psychology_. [doi.org/10.1111/pops.12688](https://doi.org/10.1111/pops.12688)
 
 Anthony Kevins. (OnlineFirst) [« Input from Whom? Public Reactions to Different Consultation Measures »](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
 
