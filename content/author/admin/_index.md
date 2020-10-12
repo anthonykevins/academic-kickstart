@@ -57,9 +57,9 @@ user_groups = ["Researchers", "Visitors"]
  link = "files/CV.pdf"
  
 [[social]]
-#  icon = "twitter"
-#  icon_pack = "fab"
-#  link = "https://twitter.com/avkevins"
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/avkevins"
 
 [[social]]
   icon = "google-scholar"

@@ -56,9 +56,9 @@ user_groups = ["Researchers", "Visitors"]
  link = "https://anthonykevins.github.io/files/CV_fr.pdf"
 
 [[social]]
-#  icon = "twitter"
-#  icon_pack = "fab"
-#  link = "https://twitter.com/avkevins"
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/avkevins"
 
 [[social]]
   icon = "google-scholar"
