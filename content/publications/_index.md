@@ -25,14 +25,14 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
-Anthony Kevins and Joshua Robison. (OnlineFirst) ["Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation"](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12688), _Political Psychology_. [doi.org/10.1111/pops.12688](https://doi.org/10.1111/pops.12688)
-
 Anthony Kevins. (OnlineFirst) ["Input from Whom? Public Reactions to Different Consultation Measures"](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
 
 Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. (OnlineFirst) ["Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals"](https://repository.lboro.ac.uk/articles/journal_contribution/Political_parties_and_social_groups_New_perspectives_and_data_on_group_and_policy_appeals/11628444), _Party Politics_. [doi.org/10.1177/1354068820907998](https://doi.org/10.1177/1354068820907998)
 
 Anthony Kevins. (OnlineFirst) ["Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US"](https://www.tandfonline.com/doi/pdf/10.1080/21565503.2019.1636833?needAccess=true), _Politics, Groups, and Identities_. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
   
+Anthony Kevins and Joshua Robison. (2021) ["Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation"](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12688), _Political Psychology_, 42(1): 71-91. [doi.org/10.1111/pops.12688](https://doi.org/10.1111/pops.12688)
+
 Anthony Kevins and Naomi Lightman. (2020) ["Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualized Labour Markets"](https://repository.lboro.ac.uk/articles/journal_contribution/Immigrant_sentiment_and_labour_market_vulnerability_economic_perceptions_of_immigration_in_dualized_labour_markets/9976301), _Comparative European Politics_, 18(3): 460–484. [doi.org/10.1057/s41295-019-00194-1](https://doi.org/10.1057/s41295-019-00194-1)
 
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (2020) ["Motive Attribution and the Moral Politics of the Welfare State"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2DC2B5761B7474254AB8BEC75CF9B0D/S0047279419000175a.pdf/motive_attribution_and_the_moral_politics_of_the_welfare_state.pdf), _Journal of Social Policy_, 49(1): 145-165. [doi.org/10.1017/S0047279419000175](https://doi.org/10.1017/S0047279419000175)<br>
