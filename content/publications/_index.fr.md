@@ -23,6 +23,8 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Articles (dans des revues avec comité de lecture)
 
+Naomi Lightman et Anthony Kevins. (À paraître) [« 'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care »](https://repository.lboro.ac.uk/articles/journal_contribution/_Women_s_work_welfare_state_spending_and_the_gendered_and_classed_dynamics_of_unpaid_care/14332892), _Gender & Society_.
+
 Anthony Kevins. (OnlineFirst) [« Input from Whom? Public Reactions to Different Consultation Measures »](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
 
 Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (OnlineFirst) [« Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals »](https://repository.lboro.ac.uk/articles/journal_contribution/Political_parties_and_social_groups_New_perspectives_and_data_on_group_and_policy_appeals/11628444), _Party Politics_. [doi.org/10.1177/1354068820907998](https://doi.org/10.1177/1354068820907998)
