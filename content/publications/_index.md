@@ -25,7 +25,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
- Naomi Lightman and Anthony Kevins. (Forthcoming) ["'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care"](https://repository.lboro.ac.uk/articles/journal_contribution/_Women_s_work_welfare_state_spending_and_the_gendered_and_classed_dynamics_of_unpaid_care/14332892), _Gender & Society_.
+ Naomi Lightman and Anthony Kevins. (Forthcoming) ["'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care"](https://journals.sagepub.com/doi/pdf/10.1177/08912432211038695), _Gender & Society_. [doi.org/10.1177/08912432211038695](https://doi.org/10.1177/08912432211038695)
 
 Anthony Kevins. (OnlineFirst) ["Input from Whom? Public Reactions to Different Consultation Measures"](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
 

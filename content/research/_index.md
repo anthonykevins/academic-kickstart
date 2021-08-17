@@ -19,15 +19,13 @@ Below you will find an overview of my ongoing and past research projects, as wel
 
 ### Who Should Have a Say? Preferences for Differentiated Representation
 
-Equal representation is at the core of representative democracy, but are citizens actually in favour of it? As heated debates about the influence of certain groups make clear, people may take a variety of stances toward differentiated representation (i.e. differential group influence over policy). Citizens may believe, for example, that when it comes to designing integration policies, recent immigrants deserve to have extra influence (due to greater affectedness), less influence (due to vested interests), or the same amount of influence as everyone else. What is more, a given citizen might simultaneously hold very different preferences regarding other groups and policy areas (e.g. bankers with financial legislation, retirees with eldercare). Funded by the EU's H2020 Programme via a Marie Curie Individual Fellowship (Grant Number 750556), this project investigates attitudes toward the influence of specific groups on issues those groups care about.
-
-My studies on this topic have included research looking at:
+Equal representation is at the core of representative democracy, but are citizens actually in favour of it? My research on this theme investigates when and why citizens believe that policy-affected individuals should have more or less influence than others. Funded by the EU’s H2020 Programme via a Marie Curie Individual Fellowship (Grant Number 750556), my publications on this topic include research on:
 
 -   [Attitudes toward targeted representation, with a focus on police reform](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12688) 
 -   [Reactions to different representational approaches, with a focus on tax reform](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327)
 
 
-If you would like to have a look at my other work on this topic, please reach out to my via [email](mailto:akevins@lboro.ac.uk).
+If you would like to have a look at my other work on this topic, please reach out to me via [email](mailto:akevins@lboro.ac.uk).
 
 ### Universalism and the Welfare State
 
