@@ -29,7 +29,7 @@ Anthony Kevins. (OnlineFirst) [« Input from Whom? Public Reactions to Different
 
 Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (OnlineFirst) [« Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals »](https://repository.lboro.ac.uk/articles/journal_contribution/Political_parties_and_social_groups_New_perspectives_and_data_on_group_and_policy_appeals/11628444), _Party Politics_. [doi.org/10.1177/1354068820907998](https://doi.org/10.1177/1354068820907998)
 
-Anthony Kevins. (OnlineFirst) [« Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US »](https://www.tandfonline.com/doi/pdf/10.1080/21565503.2019.1636833?needAccess=true), _Politics, Groups, and Identities_. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
+Anthony Kevins. (2021) [« Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US »](https://www.tandfonline.com/doi/pdf/10.1080/21565503.2019.1636833?needAccess=true), _Politics, Groups, and Identities_, 9(4): 699-720. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
 
 Anthony Kevins et Joshua Robison. (2021) [« Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation »](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12688), _Political Psychology_, 42(1): 71-91. [doi.org/10.1111/pops.12688](https://doi.org/10.1111/pops.12688)
 
