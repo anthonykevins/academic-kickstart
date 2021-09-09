@@ -28,7 +28,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 Anthony Kevins and Barbara Vis. (Forthcoming)  “Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes”, _Political Behavior_.
 
  Naomi Lightman and Anthony Kevins. (OnlineFirst) ["'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care"](https://journals.sagepub.com/doi/pdf/10.1177/08912432211038695), _Gender & Society_. [doi.org/10.1177/08912432211038695](https://doi.org/10.1177/08912432211038695)<br>
- -Outreach via the [The Gender & Society Blog](https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/)
+ -Outreach via the [Gender & Society Blog](https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/)
 
 Anthony Kevins. (OnlineFirst) ["Input from Whom? Public Reactions to Different Consultation Measures"](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
 
@@ -41,7 +41,7 @@ Anthony Kevins and Joshua Robison. (2021) ["Who Should Get a Say? Race, Law Enfo
 Anthony Kevins and Naomi Lightman. (2020) ["Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualized Labour Markets"](https://repository.lboro.ac.uk/articles/journal_contribution/Immigrant_sentiment_and_labour_market_vulnerability_economic_perceptions_of_immigration_in_dualized_labour_markets/9976301), _Comparative European Politics_, 18(3): 460–484. [doi.org/10.1057/s41295-019-00194-1](https://doi.org/10.1057/s41295-019-00194-1)
 
 Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (2020) ["Motive Attribution and the Moral Politics of the Welfare State"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2DC2B5761B7474254AB8BEC75CF9B0D/S0047279419000175a.pdf/motive_attribution_and_the_moral_politics_of_the_welfare_state.pdf), _Journal of Social Policy_, 49(1): 145-165. [doi.org/10.1017/S0047279419000175](https://doi.org/10.1017/S0047279419000175)<br>
--Outreach via the [The Social Policy Blog](https://socialpolicyblog.com/2019/05/08/explaining-other-peoples-stances-on-inequality/)
+-Outreach via the [Social Policy Blog](https://socialpolicyblog.com/2019/05/08/explaining-other-peoples-stances-on-inequality/)
 
 Naomi Lightman and Anthony Kevins. (2019) ["Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries"](https://repository.lboro.ac.uk/articles/journal_contribution/Bonus_or_burden_Care_work_inequality_and_job_satisfaction_in_eighteen_European_countries/9976268), _European Sociological Review_, 35(6): 825–844. [doi.org/10.1093/esr/jcz032](https://academic.oup.com/esr/article/35/6/825/5521386?guestAccessKey=5a546076-ebad-417e-a168-d998e6b56a96). 
 
