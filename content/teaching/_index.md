@@ -8,6 +8,8 @@ lang: en
 ref: teaching
 math: false
 highlight: false
+blackfriday:
+  fractions: false
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]
