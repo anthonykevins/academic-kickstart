@@ -19,7 +19,7 @@ Vous trouverez ci-dessous une vue d’ensemble de mes expériences et de ma form
 
 ### Cours enseignés
 
-- Tuteur de mémoire (1<sup>er</sup> cycle, Université de Loughborough, automne/printemps 2020-2021)
+- Tuteur de mémoire (1<sup>er</sup> cycle, Université de Loughborough, automne/printemps 2020/21 & 2021/22)
 - British Politics and Government (Cours de 1<sup>er</sup> cycle, Université de Loughborough, printemps 2020 & 2021)
 - Introduction to Philosophy (Cours de 1<sup>er</sup> cycle, Université de Loughborough, printemps 2021)
 - Smart Scholarship (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough, automne 2019 & 2020)

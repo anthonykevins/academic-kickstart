@@ -19,7 +19,7 @@ Below you will find a brief overview of my teaching experience and training. For
 
 ### Current/Recent Teaching
 
-- Undergraduate Dissertation Supervision (Loughborough University, Fall/Spring 2020-2021)
+- Undergraduate Dissertation Supervision (Loughborough University, Fall/Spring 2020/21 & 2021/22)
 - British Politics and Government (Bachelor's Core Course, Loughborough University, Spring 2020 & 2021)
 - Introduction to Philosophy (Bachelor's Core Course, Loughborough University, Spring 2021)
 - Smart Scholarship (Bachelor's Core Course, Loughborough University, Fall 2019 & 2020)

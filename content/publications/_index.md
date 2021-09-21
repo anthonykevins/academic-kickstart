@@ -28,7 +28,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 Anthony Kevins and Barbara Vis. (Forthcoming)  “Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes”, _Political Behavior_.
 
  Naomi Lightman and Anthony Kevins. (OnlineFirst) ["'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care"](https://journals.sagepub.com/doi/pdf/10.1177/08912432211038695), _Gender & Society_. [doi.org/10.1177/08912432211038695](https://doi.org/10.1177/08912432211038695)<br>
- -Outreach via the [Gender & Society Blog](https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/)
+ -Outreach via [Work in Progress](http://www.wipsociology.org/2021/09/16/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/) and the [Gender & Society Blog](https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/)
 
 Anthony Kevins. (OnlineFirst) ["Input from Whom? Public Reactions to Different Consultation Measures"](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
 
