@@ -25,16 +25,16 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
-Anthony Kevins and Barbara Vis. (Forthcoming)  “Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes”, _Political Behavior_.
-
- Naomi Lightman and Anthony Kevins. (OnlineFirst) ["'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care"](https://journals.sagepub.com/doi/pdf/10.1177/08912432211038695), _Gender & Society_. [doi.org/10.1177/08912432211038695](https://doi.org/10.1177/08912432211038695)<br>
- -Outreach via [Work in Progress](http://www.wipsociology.org/2021/09/16/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/) and the [Gender & Society Blog](https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/)
+Anthony Kevins and Barbara Vis. (OnlineFirst)  [“Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes”](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)
 
 Anthony Kevins. (OnlineFirst) ["Input from Whom? Public Reactions to Different Consultation Measures"](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
 
 Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. (OnlineFirst) ["Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals"](https://repository.lboro.ac.uk/articles/journal_contribution/Political_parties_and_social_groups_New_perspectives_and_data_on_group_and_policy_appeals/11628444), _Party Politics_. [doi.org/10.1177/1354068820907998](https://doi.org/10.1177/1354068820907998)
 
-Anthony Kevins. (2021) ["Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US"](https://www.tandfonline.com/doi/pdf/10.1080/21565503.2019.1636833?needAccess=true), _Politics, Groups, and Identities_, 9(4): 699-720. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
+ Naomi Lightman and Anthony Kevins. (2021) ["'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care"](https://journals.sagepub.com/doi/pdf/10.1177/08912432211038695), _Gender & Society_,  35(5): 778-805. [doi.org/10.1177/08912432211038695](https://doi.org/10.1177/08912432211038695)<br>
+ -Outreach via [Work in Progress](http://www.wipsociology.org/2021/09/16/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/) and the [Gender & Society Blog](https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/)
+ 
+ Anthony Kevins. (2021) ["Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US"](https://www.tandfonline.com/doi/pdf/10.1080/21565503.2019.1636833?needAccess=true), _Politics, Groups, and Identities_, 9(4): 699-720. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
   
 Anthony Kevins and Joshua Robison. (2021) ["Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation"](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12688), _Political Psychology_, 42(1): 71-91. [doi.org/10.1111/pops.12688](https://doi.org/10.1111/pops.12688)
 
