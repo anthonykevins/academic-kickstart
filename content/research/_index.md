@@ -47,7 +47,7 @@ What factors shape relations between insiders and outsiders? Several of my studi
 
 -   [The drivers of social assistance reforms](https://repository.lboro.ac.uk/articles/journal_contribution/Political_actors_public_opinion_and_the_extension_of_welfare_coverage/9976259)
 -   [The relationship between care work, inequality, and job satisfaction](https://repository.lboro.ac.uk/articles/journal_contribution/Bonus_or_burden_Care_work_inequality_and_job_satisfaction_in_eighteen_European_countries/9976268)
--   [The effect of labour market vulnerability on attitudes toward immigrants](https://repository.lboro.ac.uk/articles/journal_contribution/Immigrant_sentiment_and_labour_market_vulnerability_economic_perceptions_of_immigration_in_dualized_labour_markets/9976301)
+-   [The effect of labour market vulnerability on attitudes toward immigrants](https://repository.lboro.ac.uk/articles/journal_contribution/Immigrant_sentiment_and_labour_market_vulnerability_economic_perceptions_of_immigration_in_dualized_labour_markets/9976301) and [asylum-seeking policy](https://anthonykevins.github.io/files/Asylum_Seekers.pdf)
 -   [The impact of the insider/outsider divide on generalised trust](https://repository.lboro.ac.uk/articles/journal_contribution/Dualized_trust_risk_social_trust_and_the_welfare_state/9976265)
 -   [The institutional and political determinants of coverage extension (book - open access copy)](https://repository.lboro.ac.uk/articles/book/Expanding_welfare_in_an_age_of_austerity_Increasing_protection_in_an_unprotected_world/9994709) 
 

@@ -23,6 +23,8 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Articles (dans des revues avec comité de lecture)
 
+Anthony Kevins et Naomi Lightman. (OnlineFirst)  [« How Should the Government Treat Asylum Seekers? The Role of Labour Market Vulnerability and Ethnic Diversity in Europe »](https://anthonykevins.github.io/files/Asylum_Seekers.pdf), _Social Science Research_. [doi.org/10.1016/j.ssresearch.2021.102666](https://doi.org/10.1016/j.ssresearch.2021.102666)
+
 Anthony Kevins et Barbara Vis. (OnlineFirst)  [« Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes »](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
  -Résumé sur [Stuk Rood Vlees](https://stukroodvlees.nl/meer-inspraak-minder-schuld/) et le [Political Behavior Blog](http://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/)
 

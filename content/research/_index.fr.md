@@ -48,7 +48,7 @@ Qui mérite notre appui collectif ? Les réponses possibles à cette question on
 Mes publications sur ce sujet se focalisent sur :
 
 -   [Les facteurs qui façonnent les réformes de l’aide sociale](https://repository.lboro.ac.uk/articles/journal_contribution/Political_actors_public_opinion_and_the_extension_of_welfare_coverage/9976259)
--   [La précarité sur le marché du travail et l'opinion publique à l'égard de l'immigration](https://repository.lboro.ac.uk/articles/journal_contribution/Immigrant_sentiment_and_labour_market_vulnerability_economic_perceptions_of_immigration_in_dualized_labour_markets/9976301)
+-   [La précarité sur le marché du travail et l'opinion publique à l'égard de l'immigration](https://repository.lboro.ac.uk/articles/journal_contribution/Immigrant_sentiment_and_labour_market_vulnerability_economic_perceptions_of_immigration_in_dualized_labour_markets/9976301) et [les politiques concernant les demandeurs d'asile](https://anthonykevins.github.io/files/Asylum_Seekers.pdf)
 -   [La confiance généralisée des inclus et des exclus](https://repository.lboro.ac.uk/articles/journal_contribution/Dualized_trust_risk_social_trust_and_the_welfare_state/9976265) 
 -   [La problématisation et la résolution des lacunes dans la couverture sociale (livre - version libre accès)](https://repository.lboro.ac.uk/articles/book/Expanding_welfare_in_an_age_of_austerity_Increasing_protection_in_an_unprotected_world/9994709)
   
