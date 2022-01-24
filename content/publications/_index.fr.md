@@ -69,3 +69,7 @@ Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (2017) [�
 Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting et Will Kymlicka. (2016) [« Migration and Welfare State Spending »](https://repository.lboro.ac.uk/articles/journal_contribution/Migration_and_welfare_state_spending/9976256), _European Political Science Review_, 8(2): 173-194. [doi.org/10.1017/S1755773915000041](https://doi.org/10.1017/S1755773915000041)
 
 Anthony Kevins. (2015) [« Political Actors and the Extension of Welfare Coverage »](https://repository.lboro.ac.uk/articles/journal_contribution/Political_actors_public_opinion_and_the_extension_of_welfare_coverage/9976259), _Journal of European Social Policy_, 25(3): 303-315. [doi.org/10.1177/0958928715588705](https://doi.org/10.1177/0958928715588705)
+
+###  Chapitres de Livre
+
+Anthony Kevins. (2022) [“When Does Immigration Shape Support for a Universal Basic Income? The Role of Education and Employment Status”](https://anthonykevins.github.io/files/UBI.pdf), _The Handbook on Migration and Welfare_, Markus M. L. Crepaz (ed.), Edward Elgar Publishing. [doi.org/10.4337/9781839104572](https://doi.org/10.4337/9781839104572)
