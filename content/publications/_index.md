@@ -25,7 +25,9 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
-Anthony Kevins and Barbara Vis. (OnlineFirst)  [“Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes”](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
+Anthony Kevin and Seonghui Lee. (Forthcoming) [“Projection in the Face of Centrism: Voter Inferences about Candidates’ Party Affiliation in Low-information Contexts”](https://repository.lboro.ac.uk/articles/journal_contribution/Projection_in_the_face_of_centrism_voter_inferences_about_candidates_party_affiliation_in_low-information_contexts/19747591/1), _Political Psychology_.
+
+Anthony Kevins and Barbara Vis. (OnlineFirst) [“Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes”](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
  -Outreach via [Stuk Rood Vlees](https://stukroodvlees.nl/meer-inspraak-minder-schuld/) and the [Political Behavior Blog](http://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/)
 
 Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. (OnlineFirst) ["Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals"](https://repository.lboro.ac.uk/articles/journal_contribution/Political_parties_and_social_groups_New_perspectives_and_data_on_group_and_policy_appeals/11628444), _Party Politics_. [doi.org/10.1177/1354068820907998](https://doi.org/10.1177/1354068820907998)
