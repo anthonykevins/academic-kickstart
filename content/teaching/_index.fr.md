@@ -24,7 +24,7 @@ Vous trouverez ci-dessous une vue d’ensemble de mes expériences et de ma form
 - Tuteur de mémoire (1<sup>er</sup> cycle, Université de Loughborough, automne/printemps 2020/21 & 2021/22)
 - British Politics and Government (Cours de 1<sup>er</sup> cycle, Université de Loughborough, printemps 2020 & 2021)
 - Introduction to Philosophy (Cours de 1<sup>er</sup> cycle, Université de Loughborough, printemps 2021)
-- Smart Scholarship (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough, automne 2019 & 2020)
+- Smart Scholarship (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough, automne 2019, 2020 & 2022)
 - Comparative European Politics (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough, automne 2019)
 - Political Institutions (Cours de base de 1<sup>er</sup> cycle, Université d'Aarhus, printemps 2016 et 2017)
 - Social Science Methods for Journalists (Cours de base de 2<sup>e</sup> cycle, Université d'Aarhus, automne 2016)

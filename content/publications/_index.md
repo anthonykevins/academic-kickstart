@@ -25,6 +25,8 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
+Alexander Horn, Anthony Kevins, and Kees van Kersbergen. (Forthcoming) [“The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015”](https://repository.lboro.ac.uk/articles/journal_contribution/The_paternalist_politics_of_punitive_and_enabling_workfare_evidence_from_a_new_dataset_on_workfare_reforms_in_16_countries_1980-2015/21293883), _Socio-Economic Review_.
+
 Anthony Kevin and Seonghui Lee. (OnlineFirst) [“Projection in the Face of Centrism: Voter Inferences about Candidates’ Party Affiliation in Low-information Contexts”](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12851), _Political Psychology_.  [doi.org/10.1111/pops.12851](https://doi.org/10.1111/pops.12851)
 
 Anthony Kevins and Barbara Vis. (OnlineFirst) [“Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes”](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
