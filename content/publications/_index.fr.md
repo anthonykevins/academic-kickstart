@@ -23,7 +23,9 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Articles (dans des revues avec comité de lecture)
 
-Alexander Horn, Anthony Kevins et Kees van Kersbergen. (À paraître) [“The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015”](https://repository.lboro.ac.uk/articles/journal_contribution/The_paternalist_politics_of_punitive_and_enabling_workfare_evidence_from_a_new_dataset_on_workfare_reforms_in_16_countries_1980-2015/21293883), _Socio-Economic Review_.
+Anthony Kevins. (À paraître) « Distributing Democratic Influence: External Efficacy and the Preferred Influence of Policy Winners and Losers », _International Journal of Public Opinion Research_.
+
+Alexander Horn, Anthony Kevins et Kees van Kersbergen. (À paraître) [« The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015 »](https://repository.lboro.ac.uk/articles/journal_contribution/The_paternalist_politics_of_punitive_and_enabling_workfare_evidence_from_a_new_dataset_on_workfare_reforms_in_16_countries_1980-2015/21293883), _Socio-Economic Review_.
 
 Anthony Kevin et Seonghui Lee. (OnlineFirst) [« Projection in the Face of Centrism: Voter Inferences about Candidates’ Party Affiliation in Low-information Contexts »](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12851), _Political Psychology_.  [doi.org/10.1111/pops.12851](https://doi.org/10.1111/pops.12851)
 
