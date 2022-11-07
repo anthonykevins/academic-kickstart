@@ -15,7 +15,7 @@ highlight: false
 
 ---
 
-Below you will find an overview of my ongoing and past research projects, as well as a sample of my publications on each theme. A complete list of my published research can be found [here](https://anthonykevins.github.io/publications/) (including links to open-access copies of my articles) or via my [CV](https://anthonykevins.github.io/files/CV.pdf).
+Below you will find an overview of my ongoing and past research projects, as well as a sample of my publications on each theme. A complete list of my published research can be found [here](https://anthonykevins.github.io/publications/) -- including links to open-access copies of my articles -- or via my [CV](https://anthonykevins.github.io/files/CV.pdf).
 
 ### Who Should Have a Say? Preferences for Differentiated Representation
 

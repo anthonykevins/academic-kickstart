@@ -24,7 +24,7 @@ Below you will find a brief overview of my teaching experience. For more informa
 - Research Design (Bachelor's Core Course, Loughborough University)
 - Comparative Political Economy (Bachelor's Course, Loughborough University)
 - British Politics and Government (Bachelor's Core Course, Loughborough University)
-- Introduction to Philosophy (Bachelor's Course, Loughborough University)
+- Introduction to Philosophy (Bachelor's Core Course, Loughborough University)
 - Smart Scholarship (Bachelor's Core Course, Loughborough University)
 - Undergraduate Dissertation Supervision (Loughborough University)
 
