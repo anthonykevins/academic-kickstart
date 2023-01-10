@@ -23,9 +23,8 @@ Equal representation is at the core of representative democracy, but are citizen
 
 -   [Attitudes toward targeted representation, with a focus on police reform](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12688) 
 -   [Reactions to different representational approaches, with a focus on tax reform](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327)
--   [The impact of consultation measures on blame attribution](https://doi.org/10.1007/s11109-021-09751-5)
-
-If you would like to have a look at my other work on this topic, please reach out to me via [email](mailto:a.kevins@lboro.ac.uk).
+-   [The impact of public consultations on blame attribution](https://doi.org/10.1007/s11109-021-09751-5)
+-   [Factors shaping the preferred influence of those who stand to gain or lose from legislation](https://doi.org/10.1093/ijpor/edac035)
 
 ### Universalism and the Welfare State
 
