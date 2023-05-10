@@ -13,7 +13,7 @@ author = "admin"
   
 +++
 
-I am currently a Lecturer (Assistant Professor) in Politics and International Studies at [Loughborough University's](https://www.lboro.ac.uk) [School of Social Sciences and Humanities](https://www.lboro.ac.uk/schools/social-sciences-humanities/). I am also a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk), and currently serve as the Undergraduate Admissions Lead & Open Day Student Recruitment Deputy for [International Relations, Politics, and History](https://www.lboro.ac.uk/subjects/politics-international-studies/) at Loughborough.
+I am currently a Lecturer (Assistant Professor) in Politics and International Studies at [Loughborough University's](https://www.lboro.ac.uk) [School of Social Sciences and Humanities](https://www.lboro.ac.uk/schools/social-sciences-humanities/). I am a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk), and currently serve as the Undergraduate Admissions Lead & Open Day Student Recruitment Deputy for [International Relations, Politics, and History](https://www.lboro.ac.uk/subjects/politics-international-studies/) at Loughborough.
 
 I also hold a five-year appointment as a member of the [UK Young Academy](https://ukyoungacademy.org/members/anthony-kevins/).
 
