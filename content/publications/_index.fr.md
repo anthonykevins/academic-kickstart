@@ -23,11 +23,11 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Articles (dans des revues avec comité de lecture)
 
-Alexander Horn, Anthony Kevins et Kees van Kersberg. (À paraître) « Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018 », _Comparative Political Studies_.
+Alexander Horn, Anthony Kevins et Kees van Kersbergen. (À paraître) « Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018 », _Comparative Political Studies_.
 
 Anthony Kevins. (OnlineFirst) [« Distributing Democratic Influence: External Efficacy and the Preferred Influence of Policy Winners and Losers »](https://academic.oup.com/ijpor/article-pdf/34/4/edac035/48077125/edac035.pdf), _International Journal of Public Opinion Research_. [doi.org/10.1093/ijpor/edac035](https://doi.org/10.1093/ijpor/edac035)
 
-Alexander Horn, Anthony Kevins et Kees van Kersberg. (OnlineFirst) [« The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015 »](https://academic.oup.com/ser/advance-article-pdf/doi/10.1093/ser/mwac060/48182000/mwac060.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwac060](https://doi.org/10.1093/ser/mwac060)
+Alexander Horn, Anthony Kevins et Kees van Kersbergen. (OnlineFirst) [« The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015 »](https://academic.oup.com/ser/advance-article-pdf/doi/10.1093/ser/mwac060/48182000/mwac060.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwac060](https://doi.org/10.1093/ser/mwac060)
 
 Anthony Kevins et Barbara Vis. (OnlineFirst)  [« Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes »](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
  -Résumé sur [Stuk Rood Vlees](https://stukroodvlees.nl/meer-inspraak-minder-schuld/) et le [Political Behavior Blog](http://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/)
