@@ -28,7 +28,7 @@ Equal representation is at the core of representative democracy, but are citizen
 
 ### Universalism and the Welfare State
 
-How committed are citizens to universalism, redistribution, and the welfare state, and what factors shape their commitment? Through my  affiliation with the UNIWEL (Universalism and the Welfare State) project at Aarhus University, I have investigated various topics related to this theme. My published work on the topic has examined:
+How committed are citizens to universalism, redistribution, and the welfare state, and what factors shape their commitment? Beginning with my  affiliation with the UNIWEL (Universalism and the Welfare State) project at Aarhus University, I have investigated various topics related to this theme. My published work on the topic has examined:
 
 -   [The motives citizens ascribe to their pro- and anti-redistribution compatriots](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2DC2B5761B7474254AB8BEC75CF9B0D/S0047279419000175a.pdf/motive_attribution_and_the_moral_politics_of_the_welfare_state.pdf)
 -   [The effects of welfare state universalism on immigrant integration](https://repository.lboro.ac.uk/articles/journal_contribution/The_effects_of_welfare_state_universalism_on_migrant_integration/9976226)
@@ -36,9 +36,6 @@ How committed are citizens to universalism, redistribution, and the welfare stat
 -   [The attitudinal effects of the structure of inequality across the income spectrum](https://repository.lboro.ac.uk/articles/journal_contribution/Yardsticks_of_inequality_Preferences_for_redistribution_in_advanced_democracies/9976232)
 -   [The equality and welfare content of party manifestoes](https://repository.lboro.ac.uk/articles/journal_contribution/Peeping_at_the_corpus_What_is_really_going_on_behind_the_equality_and_welfare_items_of_the_Manifesto_project_/9976253)
 -   [The use of targeted versus universalistic party appeals](https://repository.lboro.ac.uk/articles/journal_contribution/Political_parties_and_social_groups_New_perspectives_and_data_on_group_and_policy_appeals/11628444)
-
-
-A portion of this research is rooted in an original survey fielded in the US and nine Western European countries. These unique surveys examine social policy preferences from a variety of perspectives, including as they relate to perceptions of fairness, policy trade-offs, inequality, and immigration.
 
 ### Insiders and Outsiders
 
@@ -52,5 +49,5 @@ What factors shape relations between insiders and outsiders? Several of my studi
 
 
 <a href="https://www.jstor.org/stable/j.ctt20krz5m"> <img style="float: right; margin-right: 7px; margin-left: 7px; margin-top: 7px; margin-bottom: 0px;" src="cover.jpg" alt="" width="190"></a>
-If you're interested in finding a proper e-version of my book and are affiliated with a university, you may be able to get access through [JSTOR](https://www.jstor.org/stable/j.ctt20krz5m). Alternatively, you can buy a copy of the book from [AUP](https://www.aup.nl/en/book/9789462980211/expanding-welfare-in-an-age-of-austerity) or [elsewhere](https://smile.amazon.com/Expanding-Welfare-Age-Austerity-Unprotected/dp/9462980217). Overall, the monograph concentrates on the dilemma leftist parties and unions face when confronted with coverage gaps under austerity, as they choose between maintaining the benefit levels of insiders and extending coverage to outsiders. It does so by starting from two sets of French-Italian comparisons (complemented by over half a year of field research) and building to both quantitative and qualitative tests of generalisability. I conclude that the role of certain key institutional features has been underemphasised in the literature. These (typically Southern European) factors shape party stances and policy outcomes both directly – through creating organisational incentives – and indirectly – through conditioning public opinion. 
+If you're interested in finding a proper e-version of my book and are affiliated with a university, you may be able to get access through [JSTOR](https://www.jstor.org/stable/j.ctt20krz5m). Alternatively, you can buy a copy of the book from [AUP](https://www.aup.nl/en/book/9789462980211/expanding-welfare-in-an-age-of-austerity) or [elsewhere](https://smile.amazon.com/Expanding-Welfare-Age-Austerity-Unprotected/dp/9462980217).  
 
