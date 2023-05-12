@@ -88,6 +88,6 @@ user_groups = ["Researchers", "Visitors"]
 
 I'm a political scientist interested in the interplay between public opinion, policy-making processes, and government legislation. 
 
-Some of the questions I've explored in my research include: How can we best understand social policy preferences? What drives how people react to public consultations? And why do some citizens want certain groups to have more or less policy influence than others?
+Some of the questions I've explored in my research include: How can we best understand social policy preferences? What factors shape how people react to public consultations? And why do some citizens want certain groups to have more or less policy influence than others?
 
 My studies have been published in journals such as _Political Behavior_, _Political Psychology_, and _Socio-Economic Review_. You can also find discussions of my research in [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
