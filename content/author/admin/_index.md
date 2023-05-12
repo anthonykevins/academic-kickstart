@@ -33,17 +33,17 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
  [[education.courses]]
   course = "PhD in Political Science"
-  institution = "**McGill University**"
+  institution = "McGill University"
   year = 2014
 
  [[education.courses]]
   course = "MSc in Comparative Politics"
-  institution = "**London School of Economics and Political Science**"
+  institution = "London School of Economics and Political Science"
   year = 2007
 
  [[education.courses]]
   course = "BA in Political Science and Law & Society"
-  institution = "**York University**"
+  institution = "York University"
   year = 2006
 
 # Social/Academic Networking
