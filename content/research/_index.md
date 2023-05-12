@@ -15,7 +15,7 @@ highlight: false
 
 ---
 
-Below you will find an overview of my ongoing and past research projects, as well as a sample of my publications on each theme. A complete list of my published research can be found [here](https://anthonykevins.github.io/publications/) -- including links to open-access copies of my articles -- or via my [CV](https://anthonykevins.github.io/files/CV.pdf).
+Below you will find an overview of my ongoing and past research projects, as well as a sample of my publications on each theme. A complete list of my published research can be found on the [Publications](https://anthonykevins.github.io/publications/) page -- including links to open-access copies of my articles -- or via my [CV](https://anthonykevins.github.io/files/CV.pdf).
 
 ### Who Should Have a Say? Preferences for Differentiated Representation
 
@@ -49,5 +49,5 @@ What factors shape relations between insiders and outsiders? Several of my studi
 
 
 <a href="https://www.jstor.org/stable/j.ctt20krz5m"> <img style="float: right; margin-right: 7px; margin-left: 7px; margin-top: 7px; margin-bottom: 0px;" src="cover.jpg" alt="" width="190"></a>
-If you're interested in finding a proper e-version of my book and are affiliated with a university, you may be able to get access through [JSTOR](https://www.jstor.org/stable/j.ctt20krz5m). Alternatively, you can buy a copy of the book from [AUP](https://www.aup.nl/en/book/9789462980211/expanding-welfare-in-an-age-of-austerity) or [elsewhere](https://smile.amazon.com/Expanding-Welfare-Age-Austerity-Unprotected/dp/9462980217).  
+If you're interested in finding a proper e-version of my book and are affiliated with a university, you may be able to get access through [JSTOR](https://www.jstor.org/stable/j.ctt20krz5m). Alternatively, you can buy a copy of the book from [Amsterdam University Press](https://www.aup.nl/en/book/9789462980211/expanding-welfare-in-an-age-of-austerity) or [elsewhere](https://smile.amazon.com/Expanding-Welfare-Age-Austerity-Unprotected/dp/9462980217).  
 
