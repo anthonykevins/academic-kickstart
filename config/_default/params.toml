@@ -12,7 +12,10 @@ day_night = false
 font = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Anthony Kevins is a political scientist interested in the interplay between public opinion, policy-making processes, and government legislation."
+
+site_type = "Person"
+googleAnalytics = "UA-113520276-1"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -150,7 +153,7 @@ sharing = true
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 0
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
