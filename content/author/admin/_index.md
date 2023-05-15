@@ -24,7 +24,7 @@ bio = ""
 email = ""
 
 # List (academic) interests or hobbies
-interests = ["Social Policy", "Labour Market Vulnerability", "Public Opinion", "European Politics", "Democratic Representation", "Inequality"]
+interests = ["Public Opinion", "Representation", "Inequality", "Social Policy", "Labour Market Vulnerability"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
