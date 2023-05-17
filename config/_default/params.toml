@@ -12,7 +12,7 @@ day_night = false
 font = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Anthony Kevins is a political scientist interested in the interplay between public opinion, policy-making processes, and government legislation."
+description = "Anthony Kevins is a political scientist studying the interplay between public opinion, policy-making processes, and government legislation."
 
 site_type = "Person"
 googleAnalytics = "UA-113520276-1"
