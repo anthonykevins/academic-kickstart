@@ -23,7 +23,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Articles (dans des revues avec comité de lecture)
 
-Alexander Horn, Anthony Kevins et Kees van Kersbergen. (À paraître) « Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018 », _Comparative Political Studies_.
+Alexander Horn, Anthony Kevins et Kees van Kersbergen. (À paraître) [« Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018 »](https://journals.sagepub.com/doi/epub/10.1177/00104140231178743), _Comparative Political Studies_. [doi.org/10.1177/00104140231178743](https://doi.org/10.1177/00104140231178743)
 
 Anthony Kevins. (OnlineFirst) [« Distributing Democratic Influence: External Efficacy and the Preferred Influence of Policy Winners and Losers »](https://academic.oup.com/ijpor/article-pdf/34/4/edac035/48077125/edac035.pdf), _International Journal of Public Opinion Research_. [doi.org/10.1093/ijpor/edac035](https://doi.org/10.1093/ijpor/edac035)
 
