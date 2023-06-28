@@ -15,7 +15,7 @@ font = ""
 description = "Anthony Kevins is a political scientist studying the interplay between public opinion, policy-making processes, and government legislation."
 
 site_type = "Person"
-googleAnalytics = "G-5QD7DTYJM3"
+googleAnalytics = "UA-113520276-1"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
