@@ -16,7 +16,7 @@ baseurl = "https://anthonykevins.github.io"
 copyright = "&copy; Anthony Kevins, {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-113520276-1"
+googleAnalytics = "G-5QD7DTYJM3"
 privacy_pack = "true"
 
 # Enable comments by entering your Disqus shortname
