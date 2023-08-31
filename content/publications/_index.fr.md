@@ -29,7 +29,7 @@ Anthony Kevins. (OnlineFirst) [« Distributing Democratic Influence: External Ef
 
 Alexander Horn, Anthony Kevins et Kees van Kersbergen. (OnlineFirst) [« The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015 »](https://academic.oup.com/ser/advance-article-pdf/doi/10.1093/ser/mwac060/48182000/mwac060.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwac060](https://doi.org/10.1093/ser/mwac060)
 
-Anthony Kevins et Barbara Vis. (OnlineFirst)  [« Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes »](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
+Anthony Kevins et Barbara Vis. (2023)  [« Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes »](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_, 45: 1121–1142. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
  -Résumé sur [Stuk Rood Vlees](https://stukroodvlees.nl/meer-inspraak-minder-schuld/) et le [Political Behavior Blog](http://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/)
 
 Anthony Kevins et Seonghui Lee. (2023) [« Projection in the Face of Centrism: Voter Inferences about Candidates’ Party Affiliation in Low-information Contexts »](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12851), _Political Psychology_, 44(2): 319-336. [doi.org/10.1111/pops.12851](https://doi.org/10.1111/pops.12851)
