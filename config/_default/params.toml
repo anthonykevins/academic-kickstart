@@ -3,22 +3,26 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, rose`, `strawberry`, `mr_robot`.
-color_theme = "default"
+color_theme = "ocean"
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "default"
+font = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Anthony Kevins is a political scientist studying the interplay between public opinion, policy-making processes, and government legislation."
+
+site_type = "Person"
+googleAnalytics = "UA-113520276-1"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "avkevins"
+linkedinName = "Anthony Kevins"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -50,7 +54,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "a.v.kevins@uu.nl"
+email = "akevins@lboro.ac.uk"
 phone = ""
 address = ""
 
@@ -109,7 +113,7 @@ plugins_js  = []
 gravatar = false
 
 # Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+menu_align_right = true
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -150,7 +154,7 @@ sharing = true
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

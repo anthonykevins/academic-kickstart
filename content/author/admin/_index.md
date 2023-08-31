@@ -24,7 +24,7 @@ bio = ""
 email = ""
 
 # List (academic) interests or hobbies
-interests = ["Social Policy", "Labour Market Vulnerability", "Public Opinion", "European Politics", "Democratic Representation", "Inequality"]
+interests = ["Public Opinion", "Representation", "Inequality", "Social Policy", "Labour Market Vulnerability"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -86,6 +86,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-My research investigates the interplay between public opinion and policy, with a special focus on marginalised groups and the welfare state. Some of the questions I've explored include: What factors shape the relationship between societal insiders and outsiders? How can we best understand social policy preferences? And what drives welfare state reform?
+I'm a political scientist interested in the interplay between public opinion, policy-making processes, and government legislation. 
 
-My studies have been published in journals such as _Socio-Economic Review_,  _Political Psychology_, and _Political Behavior_. You can also find discussions of my research in [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
+Some of the questions I've explored in my research include: How can we best understand social policy preferences? What factors shape how people react to public consultations? And why do some citizens want certain groups to have more or less policy influence than others?
+
+My studies have been published in journals such as _Political Behavior_, _Political Psychology_, and _Socio-Economic Review_. You can also find discussions of my research in [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).

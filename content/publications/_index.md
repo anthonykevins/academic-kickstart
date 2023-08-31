@@ -25,18 +25,24 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ### Journal Articles (Peer-Reviewed)
 
-Anthony Kevin and Seonghui Lee. (OnlineFirst) [“Projection in the Face of Centrism: Voter Inferences about Candidates’ Party Affiliation in Low-information Contexts”](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12851), _Political Psychology_.  [doi.org/10.1111/pops.12851](https://doi.org/10.1111/pops.12851)
+Alexander Horn, Anthony Kevins, and Kees van Kersbergen. (OnlineFirst) ["Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018"](https://journals.sagepub.com/doi/epub/10.1177/00104140231178743), _Comparative Political Studies_. [doi.org/10.1177/00104140231178743](https://doi.org/10.1177/00104140231178743)
 
-Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. (OnlineFirst) ["Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals"](https://repository.lboro.ac.uk/articles/journal_contribution/Political_parties_and_social_groups_New_perspectives_and_data_on_group_and_policy_appeals/11628444), _Party Politics_. [doi.org/10.1177/1354068820907998](https://doi.org/10.1177/1354068820907998)
+Anthony Kevins. (OnlineFirst) [“Distributing Democratic Influence: External Efficacy and the Preferred Influence of Policy Winners and Losers”](https://academic.oup.com/ijpor/article-pdf/34/4/edac035/48077125/edac035.pdf), _International Journal of Public Opinion Research_. [doi.org/10.1093/ijpor/edac035](https://doi.org/10.1093/ijpor/edac035)
 
- Anthony Kevins and Barbara Vis. (2023) [“Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes”](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_, 45: 1121–1142. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
+Alexander Horn, Anthony Kevins, and Kees van Kersbergen. (OnlineFirst) [“The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015”](https://academic.oup.com/ser/advance-article-pdf/doi/10.1093/ser/mwac060/48182000/mwac060.pdf), _Socio-Economic Review_. [doi.org/10.1093/ser/mwac060](https://doi.org/10.1093/ser/mwac060)
+
+Anthony Kevins and Barbara Vis. (OnlineFirst) [“Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes”](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
  -Outreach via [Stuk Rood Vlees](https://stukroodvlees.nl/meer-inspraak-minder-schuld/) and the [Political Behavior Blog](http://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/)
- 
- Anthony Kevins. (2022) ["Input from Whom? Public Reactions to Different Consultation Measures"](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_, 70(2): 281-303. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
+
+Anthony Kevins and Seonghui Lee. (2023) [“Projection in the Face of Centrism: Voter Inferences about Candidates’ Party Affiliation in Low-information Contexts”](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12851), _Political Psychology_, 44(2): 319-336. [doi.org/10.1111/pops.12851](https://doi.org/10.1111/pops.12851)
+
+Anthony Kevins. (2022) ["Input from Whom? Public Reactions to Different Consultation Measures"](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_, 70(2): 281-303. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
 
 Anthony Kevins and Naomi Lightman.  (2022)  [“How Should the Government Treat Asylum Seekers? The Role of Labour Market Vulnerability and Ethnic Diversity in Europe”](https://anthonykevins.github.io/files/Asylum_Seekers.pdf), _Social Science Research_, 104. [doi.org/10.1016/j.ssresearch.2021.102666](https://doi.org/10.1016/j.ssresearch.2021.102666)
 
-Naomi Lightman and Anthony Kevins. (2021) ["'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care"](https://journals.sagepub.com/doi/pdf/10.1177/08912432211038695), _Gender & Society_,  35(5): 778-805. [doi.org/10.1177/08912432211038695](https://doi.org/10.1177/08912432211038695)<br>
+Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. (2021) ["Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals"](https://repository.lboro.ac.uk/articles/journal_contribution/Political_parties_and_social_groups_New_perspectives_and_data_on_group_and_policy_appeals/11628444), _Party Politics_, 27(5): 983–995. [doi.org/10.1177/1354068820907998](https://doi.org/10.1177/1354068820907998)
+
+Naomi Lightman and Anthony Kevins. (2021) ["'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care"](https://journals.sagepub.com/doi/pdf/10.1177/08912432211038695), _Gender & Society_, 35(5): 778-805. [doi.org/10.1177/08912432211038695](https://doi.org/10.1177/08912432211038695)<br>
  -Outreach via [Work in Progress](http://www.wipsociology.org/2021/09/16/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/) and the [Gender & Society Blog](https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/)
  
  Anthony Kevins. (2021) ["Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US"](https://www.tandfonline.com/doi/pdf/10.1080/21565503.2019.1636833?needAccess=true), _Politics, Groups, and Identities_, 9(4): 699-720. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)

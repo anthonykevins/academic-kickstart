@@ -35,7 +35,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -68,7 +68,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["40px", "0", "0", "0"]
+  padding = ["40px", "0px", "0", "0px"]
   
 [advanced]
  # Custom CSS. 
