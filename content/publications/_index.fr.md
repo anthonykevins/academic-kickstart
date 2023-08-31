@@ -34,6 +34,8 @@ Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (OnlineFi
 Anthony Kevins et Barbara Vis. (2023)  [« Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes »](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_, 45: 1121–1142. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
  -Résumé sur [Stuk Rood Vlees](https://stukroodvlees.nl/meer-inspraak-minder-schuld/) et le [Political Behavior Blog](http://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/)
 
+ Anthony Kevins et Seonghui Lee. (2023) [« Projection in the Face of Centrism: Voter Inferences about Candidates’ Party Affiliation in Low-information Contexts »](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12851), _Political Psychology_, 44(2): 319-336. [doi.org/10.1111/pops.12851](https://doi.org/10.1111/pops.12851)
+
 Anthony Kevins. (2022) [« Input from Whom? Public Reactions to Different Consultation Measures »](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_, 70(2): 281-303. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
 
 Anthony Kevins et Naomi Lightman. (2022)  [« How Should the Government Treat Asylum Seekers? The Role of Labour Market Vulnerability and Ethnic Diversity in Europe »](https://anthonykevins.github.io/files/Asylum_Seekers.pdf), _Social Science Research_, 104. [doi.org/10.1016/j.ssresearch.2021.102666](https://doi.org/10.1016/j.ssresearch.2021.102666)
