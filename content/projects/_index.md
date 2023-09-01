@@ -1,11 +1,11 @@
 ---
-title: Research
-permalink: /research/
+title: Projects
+permalink: /projects/
 author_profile: true
 redirect_from:
-  - /research
+  - /projects
 lang: en
-ref: research
+ref: projects
 math: false
 highlight: false
 
