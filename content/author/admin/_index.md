@@ -14,7 +14,7 @@ role = "Lecturer in Politics and International Studies"
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "Marie Curie Research Fellow", url = "https://www.uu.nl/staff/AVKevins" },  { name = "School of Governance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Utrecht University", url = "https://www.uu.nl/en" } ]
-organizations = [ {name = "School of Social Sciences and Humanities"}, {name = "Loughborough University"} ]
+organizations = [ {name = "School of Social Sciences and Humanities", url = "https://www.lboro.ac.uk/schools/social-sciences-humanities/"}, {name = "Loughborough University", url = "https://www.lboro.ac.uk/"} ]
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -52,36 +52,28 @@ user_groups = ["Researchers", "Visitors"]
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[social]]
- icon = "cv"
- icon_pack = "ai"
- link = "files/CV.pdf"
- 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/avkevins"
-
-[[social]]
-  icon = "google-scholar"
+  icon = "researchgate-square"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Anthony_Kevins"
+    
+  [[social]]
+  icon = "google-scholar-square"
   icon_pack = "ai"
   link = "https://scholar.google.dk/citations?user=m-LdYYIAAAAJ&hl=en"
 
 [[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
-  link = "https://www.researchgate.net/profile/Anthony_Kevins"
-  
-[[social]]
-#  icon = "github"
-#  icon_pack = "fab"
-#  link = "https://github.com/anthonykevins"
-
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+ icon = "linkedin"
+ icon_pack = "fab"
+ link = "https://www.linkedin.com/in/anthony-kevins-36210193/"
+ 
+  [[social]]
+  icon = "twitter-square"
+  icon_pack = "fab"
+  link = "https://twitter.com/avkevins"
 
 [[social]]
-  icon = "envelope"
-  icon_pack = "far"
+  icon = "envelope-square"
+  icon_pack = "fa"
   link = "mailto:a.kevins@lboro.ac.uk"  # For a direct email link, use "mailto:".
 
 +++
