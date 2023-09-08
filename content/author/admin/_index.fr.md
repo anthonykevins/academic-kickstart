@@ -52,14 +52,19 @@ user_groups = ["Researchers", "Visitors"]
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 [[social]]
+  icon = "orcid-square"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0003-3172-6632"
+  
+[[social]]
   icon = "researchgate-square"
   icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Anthony_Kevins"
     
-  [[social]]
+[[social]]
   icon = "google-scholar-square"
   icon_pack = "ai"
-  link = "https://scholar.google.dk/citations?user=m-LdYYIAAAAJ&hl=en"
+  link = "https://scholar.google.dk/citations?user=m-LdYYIAAAAJ&hl=fr"
 
 [[social]]
  icon = "linkedin"
