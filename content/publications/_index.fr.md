@@ -80,6 +80,8 @@ Anthony Kevins. (2015) [« Political Actors and the Extension of Welfare Coverag
 
 ###  Chapitres de Livre
 
-Anthony Kevins. (2022) [“The Impact of Labour Market Vulnerability: Explaining Attitudes toward Immigration in Europe''](https://anthonykevins.github.io/files/CPO_Chapter_14.pdf), _Comparative Public Opinion_, Cameron D. Anderson and Mathieu Turgeon (eds.), Routledge. [doi.org/10.4324/9781003121992-17](https://doi.org/10.4324/9781003121992-17) 
+Alexander Horn et Anthony Kevins. (2023) [« Ever the Committed Egalitarians – or the End of Scandinavian Exceptionalism? Comparing Equality and Welfare State Preferences among Voters and Parties »](), _No Normal Science: Essays in Honor of Kees van Kersbergen_, Christoffer Green-Pedersen, Carsten Jensen, and Barbara Vis (eds.), Politica: 160-172. 
 
-Anthony Kevins. (2022) [“When Does Immigration Shape Support for a Universal Basic Income? The Role of Education and Employment Status”](https://anthonykevins.github.io/files/UBI.pdf), _The Handbook on Migration and Welfare_, Markus M. L. Crepaz (ed.), Edward Elgar Publishing. [doi.org/10.4337/9781839104572.00014](https://doi.org/10.4337/9781839104572.00014)
+Anthony Kevins. (2022) [« The Impact of Labour Market Vulnerability: Explaining Attitudes toward Immigration in Europe »](https://anthonykevins.github.io/files/CPO_Chapter_14.pdf), _Comparative Public Opinion_, Cameron D. Anderson and Mathieu Turgeon (eds.), Routledge: 259-283. [doi.org/10.4324/9781003121992-17](https://doi.org/10.4324/9781003121992-17) 
+
+Anthony Kevins. (2022) [« When Does Immigration Shape Support for a Universal Basic Income? The Role of Education and Employment Status »](https://anthonykevins.github.io/files/UBI.pdf), _The Handbook on Migration and Welfare_, Markus M. L. Crepaz (ed.), Edward Elgar Publishing: 137-155. [doi.org/10.4337/9781839104572.00014](https://doi.org/10.4337/9781839104572.00014)
