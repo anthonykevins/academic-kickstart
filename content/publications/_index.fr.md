@@ -80,7 +80,7 @@ Anthony Kevins. (2015) [« Political Actors and the Extension of Welfare Coverag
 
 ###  Chapitres de Livre
 
-Alexander Horn et Anthony Kevins. (2023) [« Ever the Committed Egalitarians – or the End of Scandinavian Exceptionalism? Comparing Equality and Welfare State Preferences among Voters and Parties »](https://anthonykevins.github.io/files/NNS_Chapter_11.pdf), _No Normal Science!  Festschrift for Kees van Kersbergen_, Christoffer Green-Pedersen, Carsten Jensen, and Barbara Vis (eds.), Politica: 160-172. [Disponible en ligne ici](https://politica.dk/fileadmin/politica/Billeder/Books/no_normal_science/no_normal_science_.pdf)
+Alexander Horn et Anthony Kevins. (2023) [« Ever the Committed Egalitarians – or the End of Scandinavian Exceptionalism? Comparing Equality and Welfare State Preferences among Voters and Parties »](https://repository.lboro.ac.uk/articles/chapter/Ever_the_committed_egalitarians_or_the_end_of_Scandinavian_exceptionalism_Comparing_equality_and_welfare_state_preferences_among_voters_and_parties/24220813), _No Normal Science!  Festschrift for Kees van Kersbergen_, Christoffer Green-Pedersen, Carsten Jensen, and Barbara Vis (eds.), Politica: 160-172. [Livre disponible en ligne gratuitement ici](https://politica.dk/fileadmin/politica/Billeder/Books/no_normal_science/no_normal_science_.pdf)
 
 Anthony Kevins. (2022) [« The Impact of Labour Market Vulnerability: Explaining Attitudes toward Immigration in Europe »](https://anthonykevins.github.io/files/CPO_Chapter_14.pdf), _Comparative Public Opinion_, Cameron D. Anderson and Mathieu Turgeon (eds.), Routledge: 259-283. [doi.org/10.4324/9781003121992-17](https://doi.org/10.4324/9781003121992-17) 
 
