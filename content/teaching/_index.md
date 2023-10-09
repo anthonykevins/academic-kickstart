@@ -21,7 +21,6 @@ Below you will find a brief overview of my teaching experience. For more informa
 
 ### Current/Recent Teaching
 
-- Research Design (Bachelor's Core Course, Loughborough University)
 - Comparative Political Economy (Bachelor's Course, Loughborough University)
 - British Politics and Government (Bachelor's Core Course, Loughborough University)
 - Introduction to Philosophy (Bachelor's Core Course, Loughborough University)
@@ -29,6 +28,7 @@ Below you will find a brief overview of my teaching experience. For more informa
 
 ### Past Teaching 
 
+- Research Design (Bachelor's Core Course, Loughborough University)
 - Smart Scholarship (Bachelor's Core Course, Loughborough University)
 - Comparative European Politics (Bachelor's Course, Loughborough University)
 - Political Institutions (Bachelor's Core Course, Aarhus University)
