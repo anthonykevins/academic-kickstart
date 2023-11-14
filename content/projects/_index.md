@@ -53,7 +53,5 @@ What factors shape relations between insiders and outsiders? Building from resea
 -   [The impact of the insider/outsider divide on generalised trust](https://repository.lboro.ac.uk/articles/journal_contribution/Dualized_trust_risk_social_trust_and_the_welfare_state/9976265)
 -   [The institutional and political determinants of coverage extension (book - open access copy)](https://repository.lboro.ac.uk/articles/book/Expanding_welfare_in_an_age_of_austerity_Increasing_protection_in_an_unprotected_world/9994709) 
 
-
-<a href="https://www.jstor.org/stable/j.ctt20krz5m"> <img style="float: right; margin-right: 7px; margin-left: 7px; margin-top: 7px; margin-bottom: 0px;" src="cover.jpg" alt="" width="190"></a>
 If you're interested in finding a proper e-version of my book and are affiliated with a university, you may be able to get access through [JSTOR](https://www.jstor.org/stable/j.ctt20krz5m). Alternatively, you can buy a copy of the book from [Amsterdam University Press](https://www.aup.nl/en/book/9789462980211/expanding-welfare-in-an-age-of-austerity) or [elsewhere](https://smile.amazon.com/Expanding-Welfare-Age-Austerity-Unprotected/dp/9462980217).  
 
