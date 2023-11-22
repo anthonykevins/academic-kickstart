@@ -33,6 +33,6 @@ Below you will find a brief overview of my teaching experience. For more informa
 - Comparative European Politics (Bachelor's Course, Loughborough University)
 - Political Institutions (Bachelor's Core Course, Aarhus University)
 - Social Science Methods for Journalists (Master's Core Course, Aarhus University)
-- Democracy and Representation (Master's Seminar, Aarhus University)
-- Pragmatism and Politics (Master's Seminar, Aarhus University)
+- Democracy and Representation (Master's Course, Aarhus University)
+- Pragmatism and Politics (Master's Course, Aarhus University)
 - Politics: Contemporary Europe (Bachelor's Course, McGill University)

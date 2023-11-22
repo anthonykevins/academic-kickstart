@@ -25,14 +25,14 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 Alexander Horn, Anthony Kevins et Kees van Kersbergen. (À paraître) [« Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018 »](https://journals.sagepub.com/doi/epub/10.1177/00104140231178743), _Comparative Political Studies_. [doi.org/10.1177/00104140231178743](https://doi.org/10.1177/00104140231178743)
 
-Anthony Kevins. (OnlineFirst) [« Distributing Democratic Influence: External Efficacy and the Preferred Influence of Policy Winners and Losers »](https://academic.oup.com/ijpor/article-pdf/34/4/edac035/48077125/edac035.pdf), _International Journal of Public Opinion Research_. [doi.org/10.1093/ijpor/edac035](https://doi.org/10.1093/ijpor/edac035)
-
 Alexander Horn, Anthony Kevins et Kees van Kersbergen. (2023) [« The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015 »](https://academic.oup.com/ser/advance-article-pdf/doi/10.1093/ser/mwac060/48182000/mwac060.pdf), _Socio-Economic Review_, 21(4): 2137–2166. [doi.org/10.1093/ser/mwac060](https://doi.org/10.1093/ser/mwac060)
 
 Anthony Kevins et Barbara Vis. (2023)  [« Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes »](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_, 45: 1121–1142. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
  -Résumé sur [Stuk Rood Vlees](https://stukroodvlees.nl/meer-inspraak-minder-schuld/) et le [Political Behavior Blog](http://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/)
 
 Anthony Kevins et Seonghui Lee. (2023) [« Projection in the Face of Centrism: Voter Inferences about Candidates’ Party Affiliation in Low-information Contexts »](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12851), _Political Psychology_, 44(2): 319-336. [doi.org/10.1111/pops.12851](https://doi.org/10.1111/pops.12851)
+
+Anthony Kevins. (2022) [« Distributing Democratic Influence: External Efficacy and the Preferred Influence of Policy Winners and Losers »](https://academic.oup.com/ijpor/article-pdf/34/4/edac035/48077125/edac035.pdf), _International Journal of Public Opinion Research_, 34(4): 1-11. [doi.org/10.1093/ijpor/edac035](https://doi.org/10.1093/ijpor/edac035)
 
 Anthony Kevins. (2022) [« Input from Whom? Public Reactions to Different Consultation Measures »](https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327), _Political Studies_, 70(2): 281-303. [doi.org/10.1177/0032321720956327](https://doi.org/10.1177/0032321720956327)
 
