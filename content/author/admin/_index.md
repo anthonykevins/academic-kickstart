@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Anthony Kevins"
+name = ""
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,13 +9,12 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Lecturer in Politics and International Studies"
+role = "Lecturer (Assistant Professor)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "Marie Curie Research Fellow", url = "https://www.uu.nl/staff/AVKevins" },  { name = "School of Governance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Utrecht University", url = "https://www.uu.nl/en" } ]
-organizations = [ {name = "School of Social Sciences and Humanities", url = "https://www.lboro.ac.uk/schools/social-sciences-humanities/"}, {name = "Loughborough University", url = "https://www.lboro.ac.uk/"} ]
-
+organizations = [ {name = "School of Social Sciences and Humanities"}, {name = "Loughborough University"}]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -31,20 +30,8 @@ interests = ["Public Opinion", "Representation", "Inequality", "Social Policy", 
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
- [[education.courses]]
-  course = "PhD in Political Science"
-  institution = "McGill University"
-  year = 2014
+ education = ["Methods: Survey Design, Survey Experiments, Large-N Data Analysis.", "Software/Coding: R; Stata; Git; Qualtrics; LaTeX; Markdown.", "Languages: French (C1), Italian (B2), Danish (B1)."]
 
- [[education.courses]]
-  course = "MSc in Comparative Politics"
-  institution = "London School of Economics and Political Science"
-  year = 2007
-
- [[education.courses]]
-  course = "BA in Political Science and Law & Society"
-  institution = "York University"
-  year = 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -53,7 +40,7 @@ user_groups = ["Researchers", "Visitors"]
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 [[social]]
-  icon = "orcid-square"
+icon = "orcid-square"
   icon_pack = "ai"
   link = "https://orcid.org/0000-0003-3172-6632"
   
@@ -86,6 +73,8 @@ user_groups = ["Researchers", "Visitors"]
 
 I'm a political scientist interested in the interplay between public opinion, policy-making processes, and government legislation. 
 
-Some of the questions I've explored in my research include: How can we best understand social policy preferences? What factors shape how people react to public consultations? And why do some citizens want certain groups to have more or less policy influence than others?
+Some questions I've explored in my research include: How can we best understand social policy preferences? What factors shape how people react to public consultations? And why do some citizens want certain groups to have more or less policy influence than others?
 
-My studies have been published in journals such as _Political Behavior_, _Political Psychology_, and _Socio-Economic Review_. You can also find discussions of my research in [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
+I've published [over two dozen studies](https://anthonykevins.github.io/publications/), and you can find my articles in high-impact journals such as _Comparative Political Studies_, _Political Psychology_, and _Socio-Economic Review_. You can read discussions of my research in [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
+
+I'm also a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk), with more than a decade of [teaching experience](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf). 

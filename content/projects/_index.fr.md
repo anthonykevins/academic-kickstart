@@ -17,7 +17,9 @@ highlight: false
 
 Cette section offre une présentation de mes projets de recherche actuels et passés. Vous pouvez également télécharger toutes mes publications [ici](https://anthonykevins.github.io/fr/publications/) (libre accès) ou consulter mon [CV](https://anthonykevins.github.io/files/CV_fr.pdf).
 
-### Qui devrait avoir un mot à dire ? Préférences pour la représentation différentielle
+## Qui devrait avoir un mot à dire ? Préférences pour la représentation différentielle
+
+<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="consultation_heading.jpg" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
 
 La représentation équitable est le fondement de la démocratie représentative. Cela dit, les citoyens y sont-ils réellement favorables ? Comme on peut le constater en observant les débats houleux sur l’influence de certains groupes sociaux, les gens peuvent avoir des positions très diverses sur la représentation différentielle (c’est-à-dire l’influence inégale des citoyens sur le processus politique). Une personne peut croire, par exemple, qu’en matière de politiques d’intégration, les immigrés récents méritent d’avoir une influence accrue (à cause de leur degré d’affectation), une influence diminuée (à cause de leurs intérêts particuliers), ou une influence égale à celle des autres. De surcroît, le même citoyen pourrait simultanément avoir des préférences très diverses quant à d’autres groupes sociaux ou domaines politiques (par exemple, au sujet des banquiers et de la législation financière, ou des retraités et des services aux aînés). Financé par l'Union européenne par le biais d'une bourse Marie Skłodowska-Curie (« Individual Fellowship »), ce projet explore donc les attitudes envers l’influence de groupes spécifiques sur les enjeux qui les préoccupent.
 
@@ -29,7 +31,9 @@ Mes publications se portent sur :
 
 Pour consulter d'autres études liées à ce projet, veuillez me contacter par [courriel](mailto:a.kevins@lboro.ac.uk).
 
-### L'universalisme et l'État-providence
+## L'universalisme et l'État-providence
+
+<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="universalism_heading.jpg" title="Photo of graffiti, courtesy of Etienne Girardet on Unsplash"/>
 
 À quel point les citoyens sont-ils attachés à l’universalisme, la redistribution et l’État-providence ? Quels sont les facteurs qui influencent cet attachement ? Par mon affiliation au projet UNIWEL (« Universalism and the Welfare State » ) à l’Université d’Aarhus, je me suis penché sur divers sujets liés à ce thème, incluant :
 
@@ -41,7 +45,9 @@ Pour consulter d'autres études liées à ce projet, veuillez me contacter par [
 
 Une partie de cette recherche est basée sur un sondage inédit, effectué aux États-Unis et dans neuf pays d’Europe occidentale. Cette enquête unique examine les préférences en matière de politique sociale selon différentes perspectives, notamment les préférences liées à la perception d’équité, d’immigration et de compromis sur la politique fiscale.
 
-### Les inclus et les exclus de l'État-providence
+## Les inclus et les exclus de l'État-providence
+
+<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="dualism_heading.jpg" title="Photo of a station platform, courtesy of Suad Kamardeen on Unsplash"/>
 
 Qui mérite notre appui collectif ? Les réponses possibles à cette question ont varié radicalement à travers le temps, les pays et les domaines politiques. Alors que d'un côté, plusieurs systèmes de protection sociale se sont caractérisés par des lacunes dans leur couverture, la façon par laquelle les gouvernements ont étendu l'accès aux allocations varie grandement. D'un autre côté, ce processus a été contrebalancé par des efforts pour restreindre l'accès, afin de décourager la dépendance et de limiter les dépenses sociales.
 

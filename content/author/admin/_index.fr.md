@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Anthony Kevins"
+name = ""
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -14,7 +14,7 @@ role = "Professeur adjoint"
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "Chercheur Marie Curie", url = "https://www.uu.nl/staff/AVKevins" }, { name = "École de gouvernance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Université d’Utrecht", url = "https://www.uu.nl/en" } ]
-organizations = [ { name = "Département des sciences humaines et sociales ", url = "https://www.lboro.ac.uk/schools/social-sciences-humanities/"}, { name = "Université de Loughborough", url = "https://www.lboro.ac.uk/"} ]
+organizations = [ { name = "Département des sciences humaines et sociales "}, { name = "Université de Loughborough"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -22,7 +22,7 @@ bio = ""
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
-# List (academic) interests or hobbies
+  # List (academic) interests or hobbies
 interests = ["Opinion publique", "Représentation démocratique", "Inégalités", "Politiques sociales", "Précarité sur le marché du travail"]
 
 # Organizational groups that you belong to (for People widget)
@@ -30,20 +30,7 @@ interests = ["Opinion publique", "Représentation démocratique", "Inégalités"
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
- [[education.courses]]
-  course = "Doctorat en science politique"
-  institution = "Université McGill"
-  year = 2014
-
- [[education.courses]]
-  course = "Maîtrise en politique comparée"
-  institution = "London School of Economics and Political Science"
-  year = 2007
-
- [[education.courses]]
-  course = "Baccalauréat bidisciplinaire en science politique, droit et société"
-  institution = "Université York"
-  year = 2006
+ education = ["Logiciels : Stata ; R ; Git ; Qualtrics ; LATEX ; Markdown.", "Anglais : langue maternelle ; Français : C1 – niveau autonome ; Italien : B2 – niveau avancé; Danois : B1 – niveau seuil."]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -85,4 +72,4 @@ user_groups = ["Researchers", "Visitors"]
 
 Ma recherche se concentre sur l'interaction entre l'opinion publique et les réformes politiques, en particulier sur les politiques sociales et les groupes marginalisés. Certaines des questions que j'ai tenté d'investiguer jusqu'à maintenant sont : quels facteurs influencent les rapports entre les inclus et les exclus ? Comment peut-on mieux comprendre les préférences de l'opinion publique par rapport aux politiques sociales ? Et quels éléments incitent les réformes des programmes sociaux ?
 
-Mes études ont été publiées dans des revues scientifiques telles que _Socio-Economic Review_, _Political Psychology_ et _Political Behavior_, et mon travail a été mentionné dans [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/) et [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
+Mes études ont été publiées dans des revues scientifiques telles que _Comparative Political Studies_, _Political Psychology_ et _Socio-Economic Review_, et mon travail a été mentionné dans [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/) et [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).

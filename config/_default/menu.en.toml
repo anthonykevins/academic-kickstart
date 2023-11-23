@@ -24,6 +24,41 @@
   weight = 30
 
 [[main]]
+   identifier = "Projects1"
+   name = "Overview"
+   url = "/projects/"
+   parent = "Projects"
+   weight = 1
+
+[[main]]
+   identifier = "Projects2"
+   name = "Balancing Social Care Priorities"
+   url = "/projects#balancing-social-care-priorities"
+   parent = "Projects"
+   weight = 2
+
+[[main]]
+   identifier = "Projects3"
+   name = "Preferences for Differentiated Representation"
+   url = "/projects#preferences-for-differentiated-representation"
+   parent = "Projects"
+   weight = 3
+
+[[main]]
+   identifier = "Projects4"
+   name = "Universalism and the Welfare State"
+   url = "/projects#universalism-and-the-welfare-state"
+   parent = "Projects"
+   weight = 4
+
+[[main]]
+   identifier = "Projects5"
+   name = "Insiders and Outsiders"
+   url = "/projects#insiders-and-outsiders"
+   parent = "Projects"
+   weight = 5
+
+[[main]]
   name = "Teaching"
   url = "/teaching/"
   weight = 40

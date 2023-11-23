@@ -21,8 +21,8 @@ hero_media = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4350af"
-  gradient_end = "#4350af"
+  gradient_start = "#0065f9"
+  gradient_end = "#0065f9"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -43,7 +43,7 @@ hero_media = ""
  
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["10px", "0px", "10px", "0px"]
+  padding = ["0px", "0px", "0px", "0px"]
   
 +++
 
