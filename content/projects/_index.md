@@ -15,7 +15,7 @@ highlight: false
 
 ---
 
-Below you will find a selection of my ongoing and past major research projects, as well as a sample of my publications on each theme. A complete list of my published research can be found on the [Publications](https://anthonykevins.github.io/publications/) page -- which includes links to open-access copies of my articles -- or via my [CV](https://anthonykevins.github.io/files/CV.pdf).
+Below you will find a selection of my work on funded research projects, as well as a sample of my publications on each theme. A complete list of my published research can be found on the [Publications](https://anthonykevins.github.io/publications/) page -- which includes links to open-access copies of my articles -- or via my [CV](https://anthonykevins.github.io/files/CV.pdf).
 
 &nbsp;
 
