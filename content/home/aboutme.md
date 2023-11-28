@@ -10,7 +10,7 @@ author = "admin"
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["40px", "0", "0", "0"]
-  
+
 +++
 
 I am currently a [Lecturer in Politics and International Studies](https://www.lboro.ac.uk/subjects/politics-international-studies/staff/anthony-kevins/) at [Loughborough University's](https://www.lboro.ac.uk) [School of Social Sciences and Humanities](https://www.lboro.ac.uk/schools/social-sciences-humanities/). 
