@@ -20,7 +20,7 @@ organizations = [ {name = "School of Social Sciences and Humanities"}, {name = "
 bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "a.kevins@lboro.ac.uk"
 
 # List (academic) interests or hobbies
 interests = ["Public Opinion", "Representation", "Inequality", "Social Policy", "Labour Market Vulnerability"]
