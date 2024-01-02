@@ -1,6 +1,6 @@
 +++
 # Display name
-name = ""
+name = "Senior Lecturer "
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,12 +9,12 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Lecturer (Assistant Professor)"
+role = "(Associate Professor)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "Marie Curie Research Fellow", url = "https://www.uu.nl/staff/AVKevins" },  { name = "School of Governance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Utrecht University", url = "https://www.uu.nl/en" } ]
-organizations = [ {name = "School of Social Sciences and Humanities"}, {name = "Loughborough University"}]
+organizations = [ {name = "Department of International Relations, Politics and History"}, {name = "Loughborough University"}]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""

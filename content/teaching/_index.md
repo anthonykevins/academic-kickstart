@@ -17,9 +17,7 @@ blackfriday:
 
 ---
 
-Below you will find a brief overview of courses that I have taught on. 
-
-For more information on my teaching experience and pedagogical approach, please consult my [Teaching Portfolio](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf).
+Below you will find a brief overview of courses that I have taught on. For more information on my teaching experience and pedagogical approach, please consult my [Teaching Portfolio](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf).
 
 ### Current/Recent Teaching
 

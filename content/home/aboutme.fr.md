@@ -13,7 +13,7 @@ author = "admin"
   
 +++
 
-Je suis professeur adjoint au [Département de science politique et d'études internationales](https://www.lboro.ac.uk/departments/phir/) à l'[Université de Loughborough](https://www.lboro.ac.uk). 
+Je suis professeur agrégé en science politique et d'études internationales au [Département des relations internationales, des sciences politiques et d'histoire](https://www.lboro.ac.uk/departments/phir/) à l'[Université de Loughborough](https://www.lboro.ac.uk). 
 
 Avant d'occuper mon poste actuel, j’ai été chercheur boursier Marie Curie (« Marie Curie Research Fellow ») affilié à l'[École de gouvernance](https://www.uu.nl/en/organisation/utrecht-university-school-of-governance) de l'[Université d'Utrecht](https://www.uu.nl/en/). J'ai également été professeur adjoint (CDD de trois ans) au [Département de science politique](http://ps.au.dk/en/) à l'[Université d'Aarhus](http://au.dk/en/), où j'étais affilié au projet UNIWEL (« Universalism and the Welfare State »). 
 

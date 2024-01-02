@@ -9,12 +9,12 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professeur adjoint"
+role = "Professeur agrégé"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "Chercheur Marie Curie", url = "https://www.uu.nl/staff/AVKevins" }, { name = "École de gouvernance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Université d’Utrecht", url = "https://www.uu.nl/en" } ]
-organizations = [ { name = "Département des sciences humaines et sociales "}, { name = "Université de Loughborough"} ]
+organizations = [ { name = "Département des relations internationales, des sciences politiques et d'histoire"}, { name = "Université de Loughborough"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
