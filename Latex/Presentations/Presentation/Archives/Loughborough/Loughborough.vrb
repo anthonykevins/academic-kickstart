@@ -1,0 +1,6 @@
+\frametitle{To make a handout}
+\begin{semiverbatim}
+	\\documentclass[handout]{beamer}
+	\\usepackage{pgfpages}
+	\\pgfpagesuselayout{2 on 1}[a4paper,border shrink=5mm]
+\end{semiverbatim}

@@ -1,0 +1,145 @@
+\documentclass[letterpaper,fontsize=10pt]{scrartcl}
+\usepackage{tabularray}
+\usepackage{hyphenat}
+\usepackage[utf8x]{inputenc}
+\usepackage{lmodern,textcomp}
+\usepackage{enumitem}
+\usepackage{ltablex}
+\usepackage[english]{babel} 
+\usepackage[paperheight=279.4mm,paperwidth=210mm,left=20mm,right=20mm,top=20mm,footskip=10mm,nohead]{geometry}
+\usepackage{microtype}
+\usepackage{blindtext}
+\usepackage{titlesec}
+\renewcommand{\thesection}{\Roman{section}}
+\titleformat{\section}
+{\normalfont\bfseries}{\thesection}{0em}{}
+\renewcommand{\thesubsection}{\Roman{subsection}}
+\titleformat{\subsection}
+{\normalfont\mdseries\itshape}{\thesubsection}{0em}{}
+\titlespacing*{\section}{0pt}{2ex plus 2ex minus 0ex}{1ex plus 0ex}
+\titlespacing*{\subsection}{0pt}{2ex plus 2ex minus 0ex}{1ex plus 0ex}
+\setcounter{secnumdepth}{0}
+\usepackage[sfdefault, light]{roboto}
+\usepackage{newtxsf}
+\usepackage{charter}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+    urlcolor=[RGB]{56, 97, 246},
+    pdfpagemode=FullScreen,
+    unicode=false,
+    pdftoolbar=true,
+    pdfmenubar=true,
+    pdffitwindow=false,
+		pdfstartview={FitH},
+    pdftitle={CV - Anthony Kevins},
+    pdfauthor={Anthony Kevins},
+    pdfsubject={Academic CV},
+    bookmarksopen=true,
+    bookmarksopenlevel=2,
+    pdfstartview=Fit,
+    pdfpagemode=UseOutlines,
+	pdfnewwindow=true,
+	pdfborder={0 0 0}
+}
+\usepackage{bookmark}
+
+\setlength\parindent{0pt}
+\setlength\parskip{0pt}
+\setlist[itemize]{leftmargin=*}
+\raggedbottom
+
+\begin{document}
+
+%Table formatting
+\SetTblrInner{rowsep=0pt,colsep=5pt}
+\SetTblrOuter{headsep=0pt,footsep=0pt,presep=0pt,postsep=0pt}
+\DefTblrTemplate{contfoot-text}{none}{}
+\SetTblrTemplate{contfoot-text}{none}
+\DefTblrTemplate{conthead-text}{none}{}
+\SetTblrTemplate{conthead-text}{none}
+
+%HEADER
+
+\begin{minipage}[t]{.25\linewidth}
+	\Large Anthony Kevins\\
+\end{minipage}%
+\begin{minipage}[t]{.75\linewidth}
+	\raggedleft
+	\href{https://www.lboro.ac.uk/subjects/politics-international-studies/staff/anthony-kevins/}{Staff Profile} $\vert$  \href{https://orcid.org/0000-0003-3172-6632}{ORCID Profile} $\vert$	\href{https://scholar.google.dk/citations?user=m-LdYYIAAAAJ&hl=en/}{Google Scholar} $\vert$ \href{https://www.researchgate.net/profile/Anthony_Kevins?ev=hdr_xprf&_sg=WVlgL2H2NCGDSmFK2KeYfl7pUm0LKPdgacwoJJBYXsx29jo0iroShEq0-BD14nVGBACdxz4lOxzteyBsr2-YY5pF}{ResearchGate} $\vert$ \href{https://anthonykevins.github.io/}{Website}\\
+\end{minipage}%
+\normalsize
+	
+\hrule
+
+%ACADEMIC POSITIONS
+\section{Academic Positions}
+\vspace{-2em}
+\begin{longtblr}[entry=none,label=none]{@{} l X @{}}
+	2019-     & Loughborough University, Department of International Relations, Politics, and History \\[-.5ex]
+	& \textbullet\ Senior Lecturer in Politics and International Studies, 2024- \\[-.5ex]
+	& \textbullet\ Lecturer in Politics and International Studies, 2019-2023 \\
+2017-2019 & Utrecht University, School of Governance, Marie Curie Research Fellow (Individual Fellowship)                                           \\
+2014-2017 & Aarhus University, Department of Political Science, Assistant Professor                                      \\
+\end{longtblr}
+
+%GRANTS AND FELLOWSHIPS
+\section{Grants and Fellowships (Selected)}
+\vspace{-2em}
+\begin{longtblr}[entry=none,label=none]{@{} l X @{} }
+	2024-2025 & UK Young Academy Project Funding (Contributor), £13 850 \\
+	2023-2025 & Small Research Grant (PI), The British Academy/Leverhulme Trust, £9930 \\
+	2023 & SSH Research and Innovation Funding, Loughborough University School of Social Sciences \& Humanities, £1997 \\
+	2021-2022 & Early Career Researcher Seed Corn Funding, Loughborough University School of Social Sciences \& Humanities, £2000 \\ 
+	2017-2019 & Marie Curie Individual Fellowship, Horizon 2020 Framework Programme of the European Union, €165 598                                       \\  
+	2017      & Departmental Research Grant (Co-PI), Aarhus University Department of Political Science, 45 000 DKK                               \\
+	2010-2013 & Guy Drummond Fellowship, McGill University Faculty of Arts, \$37 500                                                                                   \\
+	2008-2010 & Nathan Steinberg Fellowship in Political Science, McGill University Faculty of Arts, \$30 000                                                          \\
+\end{longtblr}
+
+%PUBLICATIONS
+\section{Publications (Selected)}
+\subsection{Books (Peer-Reviewed)}
+\vspace{-2em}
+\begin{longtblr}[entry=none,label=none]{@{} l X @{} }
+	2017 & Anthony Kevins. \textit{Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World}, Amsterdam University Press (Series: Changing Welfare States). \href{https://repository.lboro.ac.uk/articles/book/Expanding_welfare_in_an_age_of_austerity_Increasing_protection_in_an_unprotected_world/9994709}{Repository Link}           
+\end{longtblr}
+
+\vspace{-2em}
+\subsection{Journal Articles (Peer-Reviewed)}
+\vspace{-2em}
+\begin{longtblr}[entry=none,label=none]{@{} l X @{} }
+	2024 & Alexander Horn, Anthony Kevins, and Kees van Kersbergen. ``Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018'', \textit{Comparative Political Studies}, 57(5), 818-850. \href{https://doi.org/10.1177/00104140231178743}{doi.org/10.1177/00104140231178743}                                                                                                                   \\
+	2023 & Alexander Horn, Anthony Kevins, and Kees van Kersbergen. ``The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015'', \textit{Socio-Economic Review}, 21(4): 2137–2166. \href{https://doi.org/10.1093/ser/mwac060}{doi.org/10.1093/ser/mwac060}                                                                                           \\
+	2023 & Anthony Kevins and Barbara Vis. ``Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes'', \textit{Political Behavior}, 45: 1121–1142. \href{https://doi.org/10.1007/s11109-021-09751-5}{doi.org/10.1007/s11109-021-09751-5}                                              \\
+
+	2023 & Anthony Kevins and Seonghui Lee. ``Projection in the Face of Centrism: Voter Inferences about Candidates’ Party Affiliation in Low-information Contexts'', \textit{Political Psychology}, 44(2): 319-336. \href{https://doi.org/10.1111/pops.12851}{doi.org/10.1111/pops.12851}                                                              \\
+
+	2022 & Anthony Kevins. ``Distributing Democratic Influence: External Efficacy and the Preferred Influence of Policy Winners and Losers'', \textit{International Journal of Public Opinion Research}, 34(4): 1-11. \href{https://doi.org/10.1093/ijpor/edac035}{doi.org/10.1093/ijpor/edac035}    
+	\\   
+	2022          & Anthony Kevins. ``Input from Whom? Public Reactions to Different Consultation Measures'', \textit{Political Studies}, 70(2): 281-303. \href{https://doi.org/10.1177/0032321720956327}{doi.org/10.1177/0032321720956327}                                                                                                                       \\
+	2022          & Anthony Kevins and Naomi Lightman. ``How Should the Government Treat Asylum Seekers? The Role of Labour Market Vulnerability and Ethnic Diversity in Europe'', \textit{Social Science Research}, 104. \href{https://doi.org/10.1016/j.ssresearch.2021.102666}{doi.org/10.1016/j.ssresearch.2021.102666}                                       \\
+
+	2021 & Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. ``Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals'', \textit{Party Politics}, 27(5): 983–995. \href{https://doi.org/10.1177/1354068820907998}{doi.org/10.1177/1354068820907998}                                             \\ 
+
+	2021          & Naomi Lightman and  Anthony Kevins. ```Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care'', \textit{Gender \& Society}, 35(5): 778-805. \href{https://doi.org/10.1177/08912432211038695}{doi.org/10.1177/08912432211038695}                                                                          \\
+	2021          & Anthony Kevins. ``Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US'', \textit{Politics, Groups, and Identities}, 9(4): 699-720. \href{https://doi.org/10.1080/21565503.2019.1636833}{doi.org/10.1080/21565503.2019.1636833}                                                                         \\
+	2021          & Anthony Kevins and Joshua Robison. ``Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation'', \textit{Political Psychology}, 42(1): 71-91. \href{https://doi.org/10.1111/pops.12688}{doi.org/10.1111/pops.12688}                                                                                              \\ 
+	2020          & Anthony Kevins and Naomi Lightman. ``Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualized Labour Markets'', \textit{Comparative European Politics}, 18(3): 460–484. \href{https://doi.org/10.1057/s41295-019-00194-1}{doi.org/10.1057/s41295-019-00194-1}                                   \\
+	2020          & Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. ``Motive Attribution and the Moral Politics of the Welfare State'', \textit{Journal of Social Policy}, 49(1): 145-165. \href{https://doi.org/10.1017/S0047279419000175}{doi.org/10.1017/S0047279419000175}                                                           \\
+	2019          & Naomi Lightman and Anthony Kevins. ``Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries'', \textit{European Sociological Review}, 35(6): 825–844. \href{https://academic.oup.com/esr/article/35/6/825/5521386?guestAccessKey=5a546076-ebad-417e-a168-d998e6b56a96}{doi.org/10.1093/esr/jcz032}     \\
+	2019          & Anthony Kevins. ``Dualized Trust: Risk, Social Trust, and the Welfare State'', \textit{Socio-Economic Review}, 17(4): 875–897. \href{https://doi.org/10.1093/ser/mwx064}{doi.org/10.1093/ser/mwx064}                                                                                                                                        \\
+	2019          & Carsten Jensen and Anthony Kevins. ``Numbers and Attitudes Towards Welfare State Generosity'', \textit{Political Studies}, 67(2): 496–516. \href{https://doi.org/10.1177/0032321718780516}{doi.org/10.1177/0032321718780516}                                                                                                                  \\[-.5ex]
+	& $\circ$ Winner of the Harrison Prize for the best paper published in \textit{Political Studies} in 2019.                                                                                                                                                                                                                                               \\
+	2019          & Anthony Kevins and Kees van Kersbergen. ``The Effects of Welfare State Universalism on Migrant Integration'', \textit{Policy \& Politics}, 47(1): 115-132. \href{https://doi.org/10.1332/030557318X15407315707251}{doi.org/10.1332/030557318X15407315707251}                                                                                  \\
+	2019          & Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. ``The Illusion of Class in Welfare State Politics?'', \textit{Journal of Social Policy}, 48(1): 21-41. \href{https://dx.doi.org/10.1017/S0047279418000247}{dx.doi.org/10.1017/S0047279418000247}                                                                     \\
+	2018          & Anthony Kevins, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. ``Yardsticks of Inequality: Preferences for Redistribution in Advanced Democracies'', \textit{Journal of European Social Policy}, 28(4): 402-418. \href{https://doi.org/10.1177/0958928717753579}{doi.org/10.1177/0958928717753579}                                  \\
+	2018          & Alexander Horn and Anthony Kevins. ``Problem Pressure and Social Policy~Innovation: Lessons from 19th-Century Germany'', \textit{Social Science History}, 42(3): 495-515. \href{https://doi.org/10.1017/ssh.2018.13}{doi.org/10.1017/ssh.2018.13}                                                                                             \\
+	2018          & Anthony Kevins and Stuart Soroka. ``Growing Apart? Partisan Sorting~in Canada, 1992-2015'', \textit{Canadian Journal of Political Science}, 51(1): 103-133. \href{https://doi.org/10.1017/S0008423917000713}{doi.org/10.1017/S0008423917000713}                                                                                               \\[-.5ex]
+	& $\circ$ Media coverage in \href{https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/}{The Globe and Mail} and \href{https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/}{Maclean's}.                                                                                                    \\
+	2017          & Alexander Horn, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. ``Peeping at the Corpus – What is Really Going on Behind the Equality and Welfare Items of the Manifesto Project?'', \textit{Journal of European Social Policy}, 27(5): 403-416. \href{https://doi.org/10.1177/0958928716688263}{doi.org/10.1177/0958928716688263} \\
+	2016          & Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting, and Will Kymlicka. ``Migration and Welfare State Spending'', \textit{European Political Science Review}, 8(2): 173-194. \href{https://doi.org/10.1017/S1755773915000041}{doi.org/10.1017/S1755773915000041}                                                                   \\
+	2015          & Anthony Kevins. ``Political Actors and the Extension of Welfare Coverage'', \textit{Journal of European Social Policy}, 25(3): 303-315. \href{https://doi.org/10.1177/0958928715588705}{doi.org/10.1177/0958928715588705} \\                                                                                                     
+\end{longtblr}
+
+\end{document}

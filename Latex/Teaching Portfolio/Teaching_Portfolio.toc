@@ -1,0 +1,16 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {\Decide {1}} Teaching Philosophy, Strategies, and Goals}{2}{section.1}%
+\contentsline {section}{\numberline {\Decide {2}} Teaching Experience}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Undergraduate Teaching}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Graduate Teaching}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Other Teaching}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {\Decide {3}} Professional Development}{6}{section.3}%
+\contentsline {section}{\numberline {\Decide {4}} Sample Teaching Materials}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Undergraduate Course Compendium}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Graduate Seminar Syllabus}{28}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Lecture Activities}{35}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Group Exercises}{38}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Writing Workshop Activity}{46}{subsection.4.5}%
+\contentsline {section}{\numberline {\Decide {5}} Evaluations of Teaching}{47}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Teaching Supervision Feedback}{48}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Student Evaluations}{49}{subsection.5.2}%
