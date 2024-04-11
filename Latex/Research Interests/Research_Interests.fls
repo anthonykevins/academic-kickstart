@@ -1,0 +1,137 @@
+PWD /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests
+INPUT /usr/local/texlive/2019/texmf.cnf
+INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.tex
+OUTPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.log
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrartcl.cls
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrartcl.cls
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/tocbasic.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/tocbasic.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ucs/utf8x.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ucs/utf8x.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ucs/ucs.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ucs/ucs.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ucs/data/uni-global.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ucs/data/uni-global.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ltablex/ltablex.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ltablex/ltablex.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/blindtext/blindtext.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/blindtext/blindtext.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hanging/hanging.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hanging/hanging.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.aux
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.aux
+OUTPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.aux
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ucs/ucsencs.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ucs/ucsencs.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.out
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.out
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.out
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.out
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.out
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.out
+OUTPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.out
+OUTPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.pdf
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/rm-lmbx10.tfm
+INPUT /usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/rm-lmri10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ucs/data/uni-32.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/ucs/data/uni-32.def
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.aux
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.out
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Research Interests/Research_Interests.out
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr10.pfb
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri10.pfb

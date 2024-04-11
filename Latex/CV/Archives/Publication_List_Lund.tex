@@ -1,0 +1,129 @@
+\documentclass[letterpaper,fontsize=10pt]{scrartcl}
+	\usepackage{tabularx}
+	\usepackage[none]{hyphenat}
+	\usepackage[utf8x]{inputenc}
+	\usepackage{lmodern,textcomp}
+	\usepackage{enumitem}
+	\usepackage{ltablex}
+	\usepackage[english]{babel}
+	\usepackage[paperheight=279.4mm,paperwidth=210mm,bottom=10em]{geometry}
+	\usepackage{microtype}
+	\usepackage{blindtext}
+	\usepackage{titlesec}
+	\renewcommand{\thesection}{\Roman{section}}
+	\titleformat{\section}
+	{\normalfont\bfseries}{\thesection}{0em}{}
+	\renewcommand{\thesubsection}{\Roman{subsection}}
+	\titleformat{\subsection}
+	{\normalfont\mdseries\itshape}{\thesubsection}{0em}{}
+	\setcounter{secnumdepth}{0}
+	
+	\usepackage[hidelinks,bookmarks=true]{hyperref}
+	\hypersetup{
+		unicode=false,
+		pdftoolbar=true,
+		pdfmenubar=true,
+		pdffitwindow=false,
+			pdfstartview={FitH},
+		pdftitle={Anthony Kevins},
+		pdfauthor={Anthony Kevins},
+		pdfsubject={Publications},
+		bookmarksopen=true,
+		bookmarksopenlevel=2,
+		pdfstartview=Fit,
+		pdfpagemode=UseOutlines,
+			pdfnewwindow=true,
+			pdfborder={0 0 0}
+	}
+	\usepackage{bookmark}
+	
+	\setlength\parindent{0pt}
+	\setlist[itemize]{leftmargin=*}
+	\raggedbottom
+	
+	\usepackage{fancyhdr}
+	\setlength{\parskip}{1em}
+	
+	\pagestyle{fancy}
+	\fancyhf{}
+	\fancyhead[LE,RO]{Anthony Kevins}
+	\fancyhead[RE,LO]{Publication List}
+	\fancyfoot[CE,CO]{\leftmark}
+	\fancyfoot[LE,CO]{\thepage}
+	\setlength\parindent{0pt}
+	\setlist[itemize]{leftmargin=*}
+	
+	\setenumerate[1]{label={[\arabic*]}}
+	
+	\newenvironment{modenumerate}
+	  {\enumerate\setupmodenumerate}
+	  {\endenumerate}
+	
+	\newif\ifmoditem
+	\newcommand{\setupmodenumerate}{%
+	  \global\moditemfalse
+	  \let\origmakelabel\makelabel
+	  \def\moditem##1{\global\moditemtrue\def\mesymbol{##1}\item}%
+	  \def\makelabel##1{%
+		\origmakelabel{##1\ifmoditem\rlap{\mesymbol}\fi\enspace}%
+		\global\moditemfalse}%
+	}
+	
+	\begin{document}
+	
+	\sloppy
+
+	In what follows, I provide an overview of my published research and conference presentations. Publications marked with an asterisk are included with my application, and those that are co-authored include a signed statement from my co-authors (declaring my personal contribution).   
+
+	\vspace{-1em}
+	\section{Books (Peer-Reviewed)}
+	\vspace{-1.5em}
+	\begin{modenumerate}
+		\moditem{*}	Kevins, Anthony. (2017) \textit{Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World}, Amsterdam University Press (Series: Changing Welfare States).
+	\end{modenumerate}
+	
+	\vspace{-1em}
+	\section{Journal Articles (Peer-Reviewed)}
+		\vspace{-1.5em}
+		\begin{modenumerate}
+				 \moditem{*}	Kevins, Anthony, and Kees van Kersbergen. (Forthcoming) ``The Effects of Welfare State Universalism on Migrant Integration'', \textit{Policy \& Politics}.
+				\moditem{*}	Jensen, Carsten, and Anthony Kevins. (2018) ``Numbers and Outrage in Welfare State Politics'', OnlineFirst in \textit{Political Studies}.
+				\item	Kevins, Anthony, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (2018) ``The Illusion of the Class in Welfare State Politics?'', OnlineFirst in the \textit{Journal of Social Policy}.
+				\moditem{*} Kevins, Anthony. (2018) ``Dualized Trust: Risk, Social Trust, and the Welfare State'', OnlineFirst in \textit{Socio-Economic Review}.
+				\moditem{*}	Kevins, Anthony, Alexander Horn, Carsten Jensen, and Kees van Kersbergen. (2018) ``Yardsticks of Inequality: Median Voter Preferences for Redistribution in Advanced Democracies'', \textit{Journal of European Social Policy}, 28(4): 402-418.
+				\item Horn, Alexander, and Anthony Kevins. (2018) ``Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany'', \textit{Social Science History}, 42(3): 495-515.
+		  		\moditem{*} Kevins, Anthony, and Stuart N. Soroka. (2018) ``Growing Apart? Partisan Sorting in Canada, 1992-2015'', \textit{Canadian Journal of Political Science}, 51(1): 103-133.
+		  		\moditem{*} Horn, Alexander, Anthony Kevins, Carsten Jensen, and Kees van Kersbergen. (2017) ``Peeping at the Corpus: What is Really Going on Behind the Equality and Welfare Items of the Manifesto Project'', \textit{Journal of European Social Policy}, 27(5): 403-416.
+		  		\moditem{*} Soroka, Stuart N., Richard Johnston, Anthony Kevins, Keith Banting, and Will Kymlicka. (2016) ``Migration and Welfare State Spending'', \textit{European Political Science Review}, 8(2), 174-193.
+				\moditem{*} Kevins, Anthony. (2015) ``Political Actors, Public Opinion, and the Extension of Welfare Coverage'', \textit{Journal of European Social Policy}, 25(3), 303-315.
+		\end{modenumerate}
+	
+	%PAPER PRESENTATIONS (LAST FIVE YEARS)
+	\vspace{-1em}
+	\section{Conference Papers (last five years)}
+	\vspace{-1.5em}
+	\begin{tabularx}{\textwidth}{@{} l X @{} }
+    2018 & ``Who Should Have a Say?: Preferences for Differentiated Representation''. Annual Meeting of the American Political Science Association, Boston, MA.\\[1ex]
+    2018 & ``Bonus or Burden? Care Work and Job Satisfaction in Eighteen European Countries'' with Naomi Lightman. Annual Conference of the American Sociological Association, Philadelphia, PA.\\[1ex]
+    2018 & ``Who Should Have a Say?: Preferences for Differentiated Representation''. Annual Meeting of the Dutch and Flemish Political Science Associations, Leiden, the Netherlands.\\[1ex]
+		2017 & ``Who Should Have a Say?: Preferences for Unequal Representation''. Workshop on Democratic Representation, Aarhus University, Aarhus, Denmark.\\[1ex]
+		2017 & ``The Illusion of the Middle Class in Welfare State Politics'', with Alexander Horn, Carsten Jensen, and Kees van Kersbergen. 24th International Conference of Europeanists, Glasgow, UK.\\[1ex]
+		2017 & ``Perceived Class Position and the Welfare State'', with Alexander Horn, Carsten Jensen, and Kees van Kersbergen. Workshop on The Middle Class and the Welfare State, Aarhus University, Aarhus, Denmark.\\[1ex]
+		2016 & ``Selfish, Good-hearted, or Nasty? Motive Attribution and the Moral Economy of the Welfare State'' with Carsten Jensen and Alexander Horn. Annual Meeting of the American Political Science Association, Philadelphia, PA.\\[1ex]
+		2016 & ``How Parties (Do Not) Appeal to Social Group'' with Alexander Horn, Kees van Kersbergen, and Carsten Jensen. Annual Meeting of the Danish Political Science Association, Vejle, Denmark.\\[1ex]
+		2015 & ``The Special Path? Asymmetric Federalism, Problem Pressure, and the Development of the German Welfare State'', with Alexander Horn. Annual Meeting of the Danish Political Science Association, Kolding, Denmark.\\[1ex]
+		2015 & ``Yardsticks of Inequality'', with Carsten Jensen, Kees van Kersbergen, and Alexander Horn. Twenty-second International Conference of Europeanists, Paris, France.\\[1ex]
+		2015 & ``Inequality, Parties, and Public Opinion'' with Alexander Horn. Network for Political Studies of Inequality Workshop, University of Southern Denmark, Odense, Denmark.\\[1ex]
+		2015 & ``Peeping at the Corpus: What is Really Going on Behind the Equality and Welfare Items of the Manifesto Project?'', with Alexander Horn, Kees van Kersbergen, and Carsten Jensen. Manifesto Project User Conference, Berlin, Germany.\\[1ex]
+		2015 & ``Yardsticks of Inequality'', with Carsten Jensen, Kees van Kersbergen, and Alexander Horn. 27th Annual Meeting of the Society for the Advancement of Socio-Economics, London, England.\\[1ex]
+		2015 & ``The Welfare State, Statecraft, and Migration: Social Policy and Integration in Denmark and Canada'', with Kees van Kersbergen, Carsten Jensen, and Alexander Horn. Annual Conference of the Canadian Political Science Association, Ottawa, Canada.\\[1ex]
+		2014 & ``The Strivers and the Skivers: Public Opinion, Political Discourse, and Changes to Benefit Access''. Annual Conference of the Canadian Political Science Association, St. Catharines, Canada.\\[1ex]
+		2014 & ``Redistributive Preferences and Partisan Polarization: Canada in Comparative Perspective'', with Stuart Soroka. Workshop on Canadianizing the United States? Public Opinion across the 49th Parallel, University of California, Berkeley, Berkeley, CA.\\[1ex]
+		2014 & ``The Strivers and the Skivers: Public Opinion, Political Discourse, and Changes to Benefit Access''. Twenty-first International Conference of Europeanists, Washington, DC.\\[1ex]
+		2013 & ``Extending and Standardising Care: Healthcare Reform in France and Italy''. Twentieth International Conference of Europeanists, Amsterdam, The Netherlands.\\[1ex]
+		2013 & ``Migration and Welfare State Spending'', with Stuart Soroka, Richard Johnston, Keith Banting, and Will Kymlicka. Twentieth International Conference of Europeanists, Amsterdam, The Netherlands.\\[1ex]
+		2013 & ``Migration and Welfare State Spending'', with Stuart Soroka, Richard Johnston, Keith Banting, and Will Kymlicka. Annual Conference of the Canadian Political, Victoria, Canada.\\[1ex]
+		2013 & ``Political Actors and the Extension of Welfare Coverage: Benefits for the Unemployed in France and Italy''. Annual Conference of the Canadian Political, Victoria, Canada.
+	\end{tabularx}
+
+\end{document}
