@@ -26,6 +26,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 Alexander Horn, Anthony Kevins et Kees van Kersbergen. (2024) [« Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018 »](https://journals.sagepub.com/doi/epub/10.1177/00104140231178743), _Comparative Political Studies_, 57(5), 818-850. [doi.org/10.1177/00104140231178743](https://doi.org/10.1177/00104140231178743)
 
 Alexander Horn, Anthony Kevins et Kees van Kersbergen. (2023) [« The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015 »](https://academic.oup.com/ser/advance-article-pdf/doi/10.1093/ser/mwac060/48182000/mwac060.pdf), _Socio-Economic Review_, 21(4): 2137–2166. [doi.org/10.1093/ser/mwac060](https://doi.org/10.1093/ser/mwac060)
+-Récipiendaire du [prix du meilleur article](https://sase.org/publications/socio-economic-review/ser-best-paper-awards/) publié en 2023 dans _Socio-Economic Review_ <br> 
 
 Anthony Kevins et Barbara Vis. (2023)  [« Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes »](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_, 45: 1121–1142. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
  -Résumé sur [Stuk Rood Vlees](https://stukroodvlees.nl/meer-inspraak-minder-schuld/) et le [Political Behavior Blog](http://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/)

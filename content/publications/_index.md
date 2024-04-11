@@ -28,6 +28,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 Alexander Horn, Anthony Kevins, and Kees van Kersbergen. (2024) ["Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018"](https://journals.sagepub.com/doi/epub/10.1177/00104140231178743), _Comparative Political Studies_, 57(5), 818-850. [doi.org/10.1177/00104140231178743](https://doi.org/10.1177/00104140231178743)
 
 Alexander Horn, Anthony Kevins, and Kees van Kersbergen. (2023) [“The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015”](https://academic.oup.com/ser/advance-article-pdf/doi/10.1093/ser/mwac060/48182000/mwac060.pdf), _Socio-Economic Review_, 21(4): 2137–2166. [doi.org/10.1093/ser/mwac060](https://doi.org/10.1093/ser/mwac060)
+-Winner of the [2023 SER Best Article Prize](https://sase.org/publications/socio-economic-review/ser-best-paper-awards/) for the best paper published in _Socio-Economic Review_ <br> 
 
 Anthony Kevins and Barbara Vis. (2023) [“Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes”](https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf), _Political Behavior_, 45: 1121–1142. [doi.org/10.1007/s11109-021-09751-5](https://doi.org/10.1007/s11109-021-09751-5)<br>
  -Outreach via [Stuk Rood Vlees](https://stukroodvlees.nl/meer-inspraak-minder-schuld/) and the [Political Behavior Blog](http://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/)
@@ -59,7 +60,7 @@ Naomi Lightman and Anthony Kevins. (2019) ["Bonus or Burden? Care Work, Inequali
 Anthony Kevins. (2019) ["Dualized Trust: Risk, Social Trust, and the Welfare State"](https://repository.lboro.ac.uk/articles/journal_contribution/Dualized_trust_risk_social_trust_and_the_welfare_state/9976265), _Socio-Economic Review_, 17(4): 875–897. [doi.org/10.1093/ser/mwx064](https://doi.org/10.1093/ser/mwx064)
 
 Carsten Jensen and Anthony Kevins. (2019) ["Numbers and Attitudes Towards Welfare State Generosity"](http://journals.sagepub.com/doi/pdf/10.1177/0032321718780516), _Political Studies_, 67(2): 496–516. [doi.org/10.1177/0032321718780516](https://doi.org/10.1177/0032321718780516)<br>
--Winner of the [Harrison Prize](https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners) for the best paper published in *Political Studies* in 2019 <br> 
+-Winner of the [Harrison Prize](https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners) for the best paper published in _Political Studies_ in 2019 <br> 
 -Outreach via the [LSE British Politics & Policy Blog](http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/)
 
 Anthony Kevins and Kees van Kersbergen. (2019) ["The Effects of Welfare State Universalism on Migrant Integration"](https://repository.lboro.ac.uk/articles/journal_contribution/The_effects_of_welfare_state_universalism_on_migrant_integration/9976226), _Policy & Politics_, 47(1): 115-132. [doi.org/10.1332/030557318X15407315707251](https://doi.org/10.1332/030557318X15407315707251)<br>
