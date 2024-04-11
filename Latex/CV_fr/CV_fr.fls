@@ -1,9 +1,9 @@
-PWD /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV
+PWD /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV_fr
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV/CV.tex
-OUTPUT CV.log
+INPUT /Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV_fr/CV_fr.tex
+OUTPUT CV_fr.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrartcl.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrartcl.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -68,13 +68,15 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/txtbabel.def
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-en.ini
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel-french/french.ldf
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel-french/french.ldf
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel-french/french.ldf
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/fr/babel-fr.ini
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/carlisle/scalefnt.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/carlisle/scalefnt.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -197,10 +199,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/roboto/OT1Roboto-LF.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/roboto/OT1Roboto-LF.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/roboto/OT1Roboto-LF.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/google/roboto/Roboto-Light-lf-ot1.tfm
-INPUT ./CV.aux
-INPUT ./CV.aux
-INPUT CV.aux
-OUTPUT CV.aux
+INPUT ./CV_fr.aux
+INPUT ./CV_fr.aux
+INPUT CV_fr.aux
+OUTPUT CV_fr.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
@@ -224,7 +226,7 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
-OUTPUT CV.pdf
+OUTPUT CV_fr.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/google/roboto/Roboto-Light-lf-ot1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/google/roboto/Roboto-Light-lf-ot1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/google/roboto/Roboto-Light-lf-ot1.tfm
@@ -291,6 +293,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/newtx/ntxsy5.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/newtx/ntxsy.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
@@ -300,11 +305,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/google/roboto/Roboto-LightItalic-lf-ot1.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/google/roboto/Roboto-Light-lf-ot1.tfm
-INPUT CV.aux
+INPUT CV_fr.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb
