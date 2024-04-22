@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "(Associate Professor)"
+role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -30,7 +30,7 @@ interests = ["Public Opinion", "Representation", "Inequality", "Social Policy", 
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
- education = ["Methods: Survey Design, Survey Experiments, Large-N Data Analysis.", "Software/Coding: R; Stata; Git; Qualtrics; LaTeX; Markdown.", "Languages: French (C1), Italian (B2), Danish (B1)."]
+ education = ["Methods: Survey Design, Survey Experiments, Data Analysis.", "Coding: R; Stata; Git; Qualtrics; LaTeX; Markdown.", "Languages: French (C1), Italian (B2), Danish (B1)."]
 
 
 # Social/Academic Networking
