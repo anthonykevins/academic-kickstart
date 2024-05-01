@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.11)  24 APR 2024 09:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.11)  1 MAY 2024 09:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1594,15 +1594,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 21319 strings out of 474116
- 384363 string characters out of 5743682
+ 21317 strings out of 474116
+ 384321 string characters out of 5743682
  1966187 words of memory out of 5000000
  43249 multiletter control sequences out of 15000+600000
- 608680 words of font info for 170 fonts, out of 8000000 for 9000
+ 608482 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,7n,109p,11036b,1202s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on CV.pdf (7 pages, 108310 bytes).
+Output written on CV.pdf (7 pages, 108416 bytes).
 PDF statistics:
  330 PDF objects out of 1000 (max. 8388607)
  213 compressed objects within 3 object streams
