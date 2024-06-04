@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Senior Lecturer"
+role = "Senior Lecturer (Associate Professor)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -77,4 +77,4 @@ Some questions I've explored in my research include: How can we best understand 
 
 I've published [over two dozen studies](https://anthonykevins.github.io/publications/), and you can find my articles in high-impact journals such as _Comparative Political Studies_, _Political Psychology_, and _Political Behavior_. My research has been awarded Best Article Prizes from [_Socio-Economic Review_](https://sase.org/publications/socio-economic-review/ser-best-paper-awards/) and [_Political Studies_](https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners) and discussed in media outlets such as [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
 
-I'm also a Fellow of the [Higher Education Academy](https://www.advance-he.ac.uk), with more than a decade of [teaching experience](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf). 
+I also hold a [five-year appointment](https://ukyoungacademy.org/members/anthony-kevins/) to the [UK Young Academy](https://ukyoungacademy.org/), and have more than a decade of [teaching experience](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf). 
