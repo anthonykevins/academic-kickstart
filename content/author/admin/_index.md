@@ -30,7 +30,7 @@ interests = ["Public Opinion", "Representation", "Inequality", "Social Policy", 
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
- education = ["Methods: Survey Design, Survey Experiments, Data Analysis.", "Coding: R; Stata; Git; Qualtrics; LaTeX; Markdown.", "Languages: French (C1), Italian (B2), Danish (B1)."]
+ education = ["Methods: Data Visualisation; Survey Design; Survey Experiments; Quantitative Data Analysis.", "Software/Coding: Git; LaTeX; Markdown; Qualtrics; R; Stata; Visual Studio Code.", "Foreign Languages: French - Full Professional Proficiency; Italian - Limited Working Proficiency."]
 
 
 # Social/Academic Networking
