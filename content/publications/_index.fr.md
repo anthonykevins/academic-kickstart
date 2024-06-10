@@ -17,11 +17,11 @@ blackfriday:
 
 ---
 
-### Livres (avec comité de lecture)
+## Livres (avec comité de lecture)
 
 Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World_](https://repository.lboro.ac.uk/articles/book/Expanding_welfare_in_an_age_of_austerity_Increasing_protection_in_an_unprotected_world/9994709), Amsterdam University Press (Série : Changing Welfare States).
 
-### Articles (dans des revues avec comité de lecture)
+## Articles (dans des revues avec comité de lecture)
 
 Alexander Horn, Anthony Kevins et Kees van Kersbergen. (2024) [« Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018 »](https://journals.sagepub.com/doi/epub/10.1177/00104140231178743), _Comparative Political Studies_, 57(5), 818-850. [doi.org/10.1177/00104140231178743](https://doi.org/10.1177/00104140231178743)
 
@@ -79,7 +79,7 @@ Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting et Will Kymlicka.
 
 Anthony Kevins. (2015) [« Political Actors and the Extension of Welfare Coverage »](https://repository.lboro.ac.uk/articles/journal_contribution/Political_actors_public_opinion_and_the_extension_of_welfare_coverage/9976259), _Journal of European Social Policy_, 25(3): 303-315. [doi.org/10.1177/0958928715588705](https://doi.org/10.1177/0958928715588705)
 
-###  Chapitres de Livre
+## Chapitres de Livre
 
 Alexander Horn et Anthony Kevins. (2023) [« Ever the Committed Egalitarians – or the End of Scandinavian Exceptionalism? Comparing Equality and Welfare State Preferences among Voters and Parties »](https://repository.lboro.ac.uk/articles/chapter/Ever_the_committed_egalitarians_or_the_end_of_Scandinavian_exceptionalism_Comparing_equality_and_welfare_state_preferences_among_voters_and_parties/24220813), _No Normal Science!  Festschrift for Kees van Kersbergen_, Christoffer Green-Pedersen, Carsten Jensen, and Barbara Vis (eds.), Politica: 160-172. [[Livre disponible en ligne gratuitement ici]](https://politica.dk/fileadmin/politica/Billeder/Books/no_normal_science/no_normal_science_.pdf)
 

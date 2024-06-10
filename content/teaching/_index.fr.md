@@ -19,7 +19,7 @@ blackfriday:
 
 Vous trouverez ci-dessous une vue d’ensemble de mes expériences en enseignement. Pour plus de détails, vous pouvez également consulter mon [dossier d'enseignement](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf) (disponible uniquement en anglais).
 
-### Cours enseignés
+## Cours enseignés
 
 - British Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough
 - Introduction to Philosophy (Cours de 1<sup>er</sup> cycle, Université de Loughborough)

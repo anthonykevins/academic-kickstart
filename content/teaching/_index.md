@@ -19,14 +19,14 @@ blackfriday:
 
 Below you will find a brief overview of courses that I have taught on. For more information on my teaching experience and pedagogical approach, please consult my [Teaching Portfolio](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf).
 
-### Current/Recent Teaching
+## Current/Recent Teaching
 
 - Comparative Political Economy (Bachelor's Course, Loughborough University)
 - British Politics and Government (Bachelor's Core Course, Loughborough University)
 - Introduction to Philosophy (Bachelor's Core Course, Loughborough University)
 - Undergraduate Dissertation Supervision (Loughborough University)
 
-### Past Teaching 
+## Past Teaching 
 
 - Research Design (Bachelor's Core Course, Loughborough University)
 - Smart Scholarship (Bachelor's Core Course, Loughborough University)
