@@ -3,7 +3,7 @@
 title = "Vancouver Sun"
 
 # Date this page was created.
- date = 2024-11-08T00:00:00
+ date = 2024-08-11T00:00:00
 
 # Project summary to display on homepage.
 summary = "__Couverture médiatique&#160;:__ Do women and people of colour get fewer votes in Canada?"
