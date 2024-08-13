@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.11)  4 JUN 2024 16:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.11)  13 AUG 2024 10:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1488,63 +1488,63 @@ LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 1721) in paragraph at lines 187--187
+Underfull \hbox (badness 1721) in paragraph at lines 189--189
 []\OT1/Roboto-LF/light/n/10.5 (+20) Naomi Light-man et An-thony Ke-vins. [] `Wo-men's Work' : Wel-fare State Spen-ding and the
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 187--187
+Underfull \hbox (badness 3701) in paragraph at lines 189--189
 \OT1/Roboto-LF/light/n/10.5 (+20) Gen-de-red and Clas-sed Dy-na-mics of Un-paid Care []. \OT1/Roboto-LF/light/it/10.5 (+20) Gen-der & So-ciety\OT1/Roboto-LF/light/n/10.5 (+20) , 35(5) : 778-805.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
 []\OT1/Roboto-LF/light/n/10.5 (+20) Anthony Ke-vins, Alexan-der Horn, Cars-ten Jen-sen et Kees van Kers-ber-gen. [] The
  []
 
 
-Underfull \hbox (badness 7486) in paragraph at lines 187--187
+Underfull \hbox (badness 7486) in paragraph at lines 189--189
 \OT1/Roboto-LF/light/n/10.5 (+20) Illu-sion of Class in Wel-fare State Po-li-tics ? [], \OT1/Roboto-LF/light/it/10.5 (+20) Jour-nal of So-cial Po-licy\OT1/Roboto-LF/light/n/10.5 (+20) , 48(1) : 21-41.
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 187--187
+Underfull \hbox (badness 3612) in paragraph at lines 189--189
 []\OT1/Roboto-LF/light/n/10.5 (+20) Stuart So-roka, Ri-chard Johns-ton, An-thony Ke-vins, Keith Ban-ting et Will Kym-li-cka. [] Mi-
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 187--187
+Underfull \hbox (badness 3019) in paragraph at lines 189--189
 \OT1/Roboto-LF/light/n/10.5 (+20) gra-tion and Wel-fare State Spen-ding [], \OT1/Roboto-LF/light/it/10.5 (+20) Eu-ro-pean Po-li-ti-cal Science Re-view\OT1/Roboto-LF/light/n/10.5 (+20) , 8(2) : 173-194.
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 1721) in paragraph at lines 187--187
+Underfull \hbox (badness 1721) in paragraph at lines 189--189
 []\OT1/Roboto-LF/light/n/10.5 (+20) Naomi Light-man et An-thony Ke-vins. [] `Wo-men's Work' : Wel-fare State Spen-ding and the
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 187--187
+Underfull \hbox (badness 3701) in paragraph at lines 189--189
 \OT1/Roboto-LF/light/n/10.5 (+20) Gen-de-red and Clas-sed Dy-na-mics of Un-paid Care []. \OT1/Roboto-LF/light/it/10.5 (+20) Gen-der & So-ciety\OT1/Roboto-LF/light/n/10.5 (+20) , 35(5) : 778-805.
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
 []\OT1/Roboto-LF/light/n/10.5 (+20) Anthony Ke-vins, Alexan-der Horn, Cars-ten Jen-sen et Kees van Kers-ber-gen. [] The
  []
 
 
-Underfull \hbox (badness 7486) in paragraph at lines 187--187
+Underfull \hbox (badness 7486) in paragraph at lines 189--189
 \OT1/Roboto-LF/light/n/10.5 (+20) Illu-sion of Class in Wel-fare State Po-li-tics ? [], \OT1/Roboto-LF/light/it/10.5 (+20) Jour-nal of So-cial Po-licy\OT1/Roboto-LF/light/n/10.5 (+20) , 48(1) : 21-41.
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 187--187
+Underfull \hbox (badness 3612) in paragraph at lines 189--189
 []\OT1/Roboto-LF/light/n/10.5 (+20) Stuart So-roka, Ri-chard Johns-ton, An-thony Ke-vins, Keith Ban-ting et Will Kym-li-cka. [] Mi-
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 187--187
+Underfull \hbox (badness 3019) in paragraph at lines 189--189
 \OT1/Roboto-LF/light/n/10.5 (+20) gra-tion and Wel-fare State Spen-ding [], \OT1/Roboto-LF/light/it/10.5 (+20) Eu-ro-pean Po-li-ti-cal Science Re-view\OT1/Roboto-LF/light/n/10.5 (+20) , 8(2) : 173-194.
  []
 
@@ -1555,7 +1555,17 @@ Underfull \hbox (badness 3019) in paragraph at lines 187--187
 > Step: parse table inner spec.
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
+
+Underfull \hbox (badness 2393) in paragraph at lines 198--198
+\OT1/Roboto-LF/light/n/10.5 (+20) kus Hin-ter-leit-ner, R. A. W. Rhodes et R. Kent Wea-ver, Ox-ford Uni-ver-sity Press : 732-766.
+ []
+
 > Step: build the whole table.
+
+Underfull \hbox (badness 2393) in paragraph at lines 198--198
+\OT1/Roboto-LF/light/n/10.5 (+20) kus Hin-ter-leit-ner, R. A. W. Rhodes et R. Kent Wea-ver, Ox-ford Uni-ver-sity Press : 732-766.
+ []
+
 [3]
 > Step: init table outer spec.
 > Step: parse table options.
@@ -1568,22 +1578,6 @@ Underfull \hbox (badness 3019) in paragraph at lines 187--187
  [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 254.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 254.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 254.
-
-LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/it' aliased to
-(Font)              `OT1/Roboto-LF/light/it' on input line 254.
-LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
-(Font)              scaled to size 7.66495pt on input line 254.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mathsurround' on input line 257.
 
 
@@ -1594,57 +1588,73 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `superscript' on input line 257.
 
+LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/it' aliased to
+(Font)              `OT1/Roboto-LF/light/it' on input line 257.
+LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
+(Font)              scaled to size 7.66495pt on input line 257.
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--258
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 260.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 260.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 260.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--261
 
  []
 
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
-(Font)              `OT1/Roboto-LF/light/n' on input line 274.
+(Font)              `OT1/Roboto-LF/light/n' on input line 277.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 7.66495pt on input line 274.
+(Font)              scaled to size 7.66495pt on input line 277.
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--275
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--275
+Underfull \hbox (badness 10000) in paragraph at lines 265--278
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--275
+Underfull \hbox (badness 10000) in paragraph at lines 265--278
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--275
+Underfull \hbox (badness 10000) in paragraph at lines 265--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--278
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--303
+Underfull \hbox (badness 10000) in paragraph at lines 300--307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--303
+Underfull \hbox (badness 10000) in paragraph at lines 300--307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
 
  []
 
@@ -1663,18 +1673,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22083 strings out of 474116
- 396379 string characters out of 5743682
+ 22088 strings out of 474116
+ 396530 string characters out of 5743682
  1967187 words of memory out of 5000000
- 44009 multiletter control sequences out of 15000+600000
- 609507 words of font info for 170 fonts, out of 8000000 for 9000
+ 44014 multiletter control sequences out of 15000+600000
+ 609581 words of font info for 170 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,8n,109p,11042b,1226s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on CV_fr.pdf (6 pages, 112591 bytes).
+Output written on CV_fr.pdf (6 pages, 113224 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 205 compressed objects within 3 object streams
+ 331 PDF objects out of 1000 (max. 8388607)
+ 209 compressed objects within 3 object streams
  33 named destinations out of 1000 (max. 500000)
  28881 words of extra memory for PDF output out of 29859 (max. 10000000)
 

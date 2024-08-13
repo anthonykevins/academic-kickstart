@@ -60,8 +60,8 @@ icon = "orcid-square"
  link = "https://www.linkedin.com/in/anthony-kevins-36210193/"
  
   [[social]]
-  icon = "twitter-square"
-  icon_pack = "fab"
+  icon = "square-x-twitter"
+  icon_pack = "fab" 
   link = "https://twitter.com/avkevins"
 
 [[social]]
@@ -73,8 +73,8 @@ icon = "orcid-square"
 
 I'm a political scientist interested in the interplay between public opinion, policy-making processes, and government legislation. 
 
-Some questions I've explored in my research include: How can we best understand social policy preferences? What factors shape how people react to public consultations? And why do some citizens want certain groups to have more or less policy influence than others?
+Some questions I've explored in my research include: How can we best understand [social care preferences](https://anthonykevins.github.io/projects/#balancing-social-care-priorities)? What factors shape [attitudes toward the welfare state](https://anthonykevins.github.io/projects/#universalism-and-the-welfare-state)? And why do some citizens want certain groups to have [more or less policy influence](https://anthonykevins.github.io/projects/#preferences-for-differentiated-representation) than others?
 
-I've published [over two dozen studies](https://anthonykevins.github.io/publications/), and you can find my articles in high-impact journals such as _Comparative Political Studies_, _Political Psychology_, and _Political Behavior_. My research has been awarded Best Article Prizes from [_Socio-Economic Review_](https://sase.org/publications/socio-economic-review/ser-best-paper-awards/) and [_Political Studies_](https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners) and discussed in media outlets such as [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
+I've published over two dozen [peer-reviewed studies](https://anthonykevins.github.io/publications/), and you can find my articles in high-impact journals such as _Comparative Political Studies_, _Political Psychology_, and _Political Behavior_. My research has been awarded Best Article Prizes from [_Socio-Economic Review_](https://sase.org/publications/socio-economic-review/ser-best-paper-awards/) and [_Political Studies_](https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners) and discussed in media outlets such as [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
 
 I also hold a [five-year appointment](https://ukyoungacademy.org/members/anthony-kevins/) to the [UK Young Academy](https://ukyoungacademy.org/), and have more than a decade of [teaching experience](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf). 

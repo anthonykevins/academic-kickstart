@@ -44,7 +44,8 @@ Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (2021) [�
 Naomi Lightman et Anthony Kevins. (2021) [« 'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care »](https://journals.sagepub.com/doi/pdf/10.1177/08912432211038695), _Gender & Society_,  35(5): 778-805. [doi.org/10.1177/08912432211038695](https://doi.org/10.1177/08912432211038695)<br>
 -Résumé sur [Work in Progress](http://www.wipsociology.org/2021/09/16/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/) et le [Gender & Society Blog](https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/)
 
-Anthony Kevins. (2021) [« Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US »](https://www.tandfonline.com/doi/pdf/10.1080/21565503.2019.1636833?needAccess=true), _Politics, Groups, and Identities_, 9(4): 699-720. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)
+Anthony Kevins. (2021) [« Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US »](https://www.tandfonline.com/doi/pdf/10.1080/21565503.2019.1636833?needAccess=true), _Politics, Groups, and Identities_, 9(4): 699-720. [doi.org/10.1080/21565503.2019.1636833](https://doi.org/10.1080/21565503.2019.1636833)<br>
+ -Couverture médiatique dans le [Vancouver Sun](https://vancouversun.com/opinion/columnists/women-people-colour-get-fewer-votes-canada-studies)
 
 Anthony Kevins et Joshua Robison. (2021) [« Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation »](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12688), _Political Psychology_, 42(1): 71-91. [doi.org/10.1111/pops.12688](https://doi.org/10.1111/pops.12688)
 
@@ -80,6 +81,8 @@ Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting et Will Kymlicka.
 Anthony Kevins. (2015) [« Political Actors and the Extension of Welfare Coverage »](https://repository.lboro.ac.uk/articles/journal_contribution/Political_actors_public_opinion_and_the_extension_of_welfare_coverage/9976259), _Journal of European Social Policy_, 25(3): 303-315. [doi.org/10.1177/0958928715588705](https://doi.org/10.1177/0958928715588705)
 
 ## Chapitres de Livre
+
+Anthony Kevins et Barbara Vis. (2024) [« Blame, Public Consultations, and the Impact of Gender »](https://repository.lboro.ac.uk/articles/chapter/Blame_public_consultations_and_the_impact_of_gender/26319091), _The Politics and Governance and Blame_, Matthew Flinders, Gergana Dimova, Markus Hinterleitner, R. A. W. Rhodes, and R. Kent Weaver (eds.), Oxford University Press: 732-766. [doi.org/10.1093/oso/9780198896388.003.0029](https://doi.org/10.1093/oso/9780198896388.003.0029) 
 
 Alexander Horn et Anthony Kevins. (2023) [« Ever the Committed Egalitarians – or the End of Scandinavian Exceptionalism? Comparing Equality and Welfare State Preferences among Voters and Parties »](https://repository.lboro.ac.uk/articles/chapter/Ever_the_committed_egalitarians_or_the_end_of_Scandinavian_exceptionalism_Comparing_equality_and_welfare_state_preferences_among_voters_and_parties/24220813), _No Normal Science!  Festschrift for Kees van Kersbergen_, Christoffer Green-Pedersen, Carsten Jensen, and Barbara Vis (eds.), Politica: 160-172. [[Livre disponible en ligne gratuitement ici]](https://politica.dk/fileadmin/politica/Billeder/Books/no_normal_science/no_normal_science_.pdf)
 
