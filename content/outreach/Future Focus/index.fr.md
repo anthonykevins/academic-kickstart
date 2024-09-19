@@ -1,6 +1,6 @@
 +++
 # Venue
-title = "Future Focus"
+title = "Future Focus Conference"
 
 # Date this page was created.
  date = 2024-09-18T00:00:00

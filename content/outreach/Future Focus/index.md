@@ -6,7 +6,7 @@ title = "Future Focus"
  date = 2024-09-18T00:00:00
  
 # Project summary to display on homepage.
-summary = "Balancing Social Care Priorities"
+summary = "__Outreach:__ Balancing Social Care Priorities"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
