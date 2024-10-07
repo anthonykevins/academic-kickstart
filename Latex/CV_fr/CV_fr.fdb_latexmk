@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1726043003.11139 "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV_fr/CV_fr.tex" "CV_fr.pdf" "CV_fr" 1726043011.61217 0
-  "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV_fr/CV_fr.tex" 1726043002.00692 37156 f8294e2d3bf027b9d1f3326ea6f09ee7 ""
+["pdflatex"] 1728290685.42896 "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV_fr/CV_fr.tex" "CV_fr.pdf" "CV_fr" 1728290693.67163 0
+  "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV_fr/CV_fr.tex" 1728290684.6427 37371 eaba8e6eb61670f01ae0737b95a60587 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc" 1576101225 3314 42351250ac95a91f488e14b5633f75ce ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/roboto/rbto_schjax.enc" 1576101225 2974 729e60f1953f7d28deb744dead16208c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -137,8 +137,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1712825723.3603 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1712825645 8221427 46b2e1c27758419589d29fd759ca6887 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CV_fr.aux" 1726043011.48008 5995 33288d32346d171e9c6bd83e7f3f22b6 "pdflatex"
-  "CV_fr.tex" 1726043002.00692 37156 f8294e2d3bf027b9d1f3326ea6f09ee7 ""
+  "CV_fr.aux" 1728290693.52121 5995 b05f5a4465117b987556612a449da6b2 "pdflatex"
+  "CV_fr.tex" 1728290684.6427 37371 eaba8e6eb61670f01ae0737b95a60587 ""
   (generated)
   "CV_fr.aux"
   "CV_fr.log"
