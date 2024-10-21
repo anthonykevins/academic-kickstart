@@ -27,6 +27,8 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 Anthony Kevins and Joshua Robison. (Forthcoming) "Do the Origins of Climate Assemblies Shape Public Reactions? Examining the Impact of Partisanship", _European Journal of Political Research_.
 
+Anthony Kevins and Naomi Lightman. (Forthcoming) "Satisfaction with Social Care in the UK: Assessing the Interactive Effects of Age and Ideology", _International Journal of Social Welfare_.
+
 Alexander Horn, Anthony Kevins, and Kees van Kersbergen. (2024) ["Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018"](https://journals.sagepub.com/doi/epub/10.1177/00104140231178743), _Comparative Political Studies_, 57(5), 818-850. [doi.org/10.1177/00104140231178743](https://doi.org/10.1177/00104140231178743)
 
 Alexander Horn, Anthony Kevins, and Kees van Kersbergen. (2023) [“The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015”](https://academic.oup.com/ser/advance-article-pdf/doi/10.1093/ser/mwac060/48182000/mwac060.pdf), _Socio-Economic Review_, 21(4): 2137–2166. [doi.org/10.1093/ser/mwac060](https://doi.org/10.1093/ser/mwac060)<br>
