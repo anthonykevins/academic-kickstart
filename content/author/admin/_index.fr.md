@@ -57,11 +57,6 @@ user_groups = ["Researchers", "Visitors"]
  icon = "linkedin"
  icon_pack = "fab"
  link = "https://www.linkedin.com/in/anthony-kevins-36210193/"
- 
-  [[social]]
-  icon = "square-x-twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/avkevins"
 
 [[social]]
   icon = "envelope-square"

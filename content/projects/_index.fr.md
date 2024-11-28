@@ -17,6 +17,8 @@ highlight: false
 
 Cette section offre une présentation de mes projets de recherche actuels et passés. Vous pouvez également télécharger toutes mes publications [ici](https://anthonykevins.github.io/fr/publications/) (libre accès) ou consulter mon [CV](https://anthonykevins.github.io/files/CV_fr.pdf).
 
+&nbsp;
+
 ## Qui devrait avoir un mot à dire ? Préférences pour la représentation différentielle
 
 <img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="consultation_heading.webp" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
@@ -31,6 +33,8 @@ Mes publications se portent sur :
 
 Pour consulter d'autres études liées à ce projet, veuillez me contacter par [courriel](mailto:a.kevins@lboro.ac.uk).
 
+&nbsp;
+
 ## L'universalisme et l'État-providence
 
 <img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="universalism_heading.webp" title="Photo of graffiti, courtesy of Etienne Girardet on Unsplash"/>
@@ -44,6 +48,8 @@ Pour consulter d'autres études liées à ce projet, veuillez me contacter par [
 -   [Le contenu des programmes de partis sur l'égalité et l'État-providence](https://repository.lboro.ac.uk/articles/journal_contribution/Peeping_at_the_corpus_What_is_really_going_on_behind_the_equality_and_welfare_items_of_the_Manifesto_project_/9976253)
 
 Une partie de cette recherche est basée sur un sondage inédit, effectué aux États-Unis et dans neuf pays d’Europe occidentale. Cette enquête unique examine les préférences en matière de politique sociale selon différentes perspectives, notamment les préférences liées à la perception d’équité, d’immigration et de compromis sur la politique fiscale.
+
+&nbsp;
 
 ## Les inclus et les exclus de l'État-providence
 

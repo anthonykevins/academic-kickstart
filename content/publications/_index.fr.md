@@ -17,9 +17,13 @@ blackfriday:
 
 ---
 
+&nbsp;
+
 ## Livres (avec comité de lecture)
 
-Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World_](https://repository.lboro.ac.uk/articles/book/Expanding_welfare_in_an_age_of_austerity_Increasing_protection_in_an_unprotected_world/9994709), Amsterdam University Press (Série : Changing Welfare States).
+Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Protection in an Unprotected World_](https://repository.lboro.ac.uk/articles/book/Expanding_welfare_in_an_age_of_austerity_Increasing_protection_in_an_unprotected_world/9994709), Amsterdam University Press (Série : Changing Welfare States). 
+
+&nbsp;
 
 ## Articles (dans des revues avec comité de lecture)
 
@@ -83,6 +87,8 @@ Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (2017) [�
 Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting et Will Kymlicka. (2016) [« Migration and Welfare State Spending »](https://repository.lboro.ac.uk/articles/journal_contribution/Migration_and_welfare_state_spending/9976256), _European Political Science Review_, 8(2): 173-194. [doi.org/10.1017/S1755773915000041](https://doi.org/10.1017/S1755773915000041)
 
 Anthony Kevins. (2015) [« Political Actors and the Extension of Welfare Coverage »](https://repository.lboro.ac.uk/articles/journal_contribution/Political_actors_public_opinion_and_the_extension_of_welfare_coverage/9976259), _Journal of European Social Policy_, 25(3): 303-315. [doi.org/10.1177/0958928715588705](https://doi.org/10.1177/0958928715588705)
+
+&nbsp;
 
 ## Chapitres de Livre
 
