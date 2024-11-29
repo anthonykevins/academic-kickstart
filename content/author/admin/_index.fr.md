@@ -30,7 +30,7 @@ interests = ["Opinion publique", "Représentation démocratique", "Inégalités"
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
- education = ["Logiciels : Stata ; R ; Git ; Qualtrics ; LaTeX ; Markdown.", "Langues : Anglais - langue maternelle ; Français – niveau autonome (C1) ; Italien – niveau avancé (B2)."]
+ education = ["Logiciels : Stata ; R ; Git ; Qualtrics ; LaTeX ; Markdown.", "Langues : Anglais - langue maternelle ; Français – niveau autonome (C1) ; Italien – niveau avancé (B2). <br /> <br />"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
