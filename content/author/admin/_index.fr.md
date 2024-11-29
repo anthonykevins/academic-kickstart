@@ -23,7 +23,7 @@ bio = ""
 email = "a.kevins@lboro.ac.uk"
 
   # List (academic) interests or hobbies
-interests = ["Opinion publique", "Représentation démocratique", "Inégalités", "Politiques sociales", "Précarité sur le marché du travail"]
+interests = ["Opinion publique", "Représentation démocratique", "Inégalités", "Politiques sociales", "Précarité sur le marché du travail <br /> <br />"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
