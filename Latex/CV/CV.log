@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  26 NOV 2024 09:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  17 DEC 2024 11:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1623,10 +1623,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  108i,7n,109p,10736b,1063s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on CV.pdf (7 pages, 105370 bytes).
+Output written on CV.pdf (7 pages, 105806 bytes).
 PDF statistics:
- 343 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
+ 347 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
  35 named destinations out of 1000 (max. 500000)
  26841 words of extra memory for PDF output out of 29859 (max. 10000000)
 

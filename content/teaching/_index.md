@@ -23,8 +23,8 @@ Below you will find a brief overview of courses that I have taught on. For more 
 
 ## Current/Recent Teaching
 
-- Comparative Political Economy (Bachelor's Course, Loughborough University)
-- British Politics and Government (Bachelor's Core Course, Loughborough University)
+- Capitalism, Democracy, and the State (Bachelor's Course, Loughborough University)
+- Politics and Government (Bachelor's Core Course, Loughborough University)
 - Introduction to Philosophy (Bachelor's Core Course, Loughborough University)
 - Undergraduate Dissertation Supervision (Loughborough University)
 
@@ -32,6 +32,7 @@ Below you will find a brief overview of courses that I have taught on. For more 
 
 ## Past Teaching 
 
+- British Politics and Government (Bachelor's Core Course, Loughborough University)
 - Research Design (Bachelor's Core Course, Loughborough University)
 - Smart Scholarship (Bachelor's Core Course, Loughborough University)
 - Comparative European Politics (Bachelor's Course, Loughborough University)

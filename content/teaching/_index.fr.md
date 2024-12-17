@@ -25,9 +25,10 @@ Vous trouverez ci-dessous une vue d’ensemble de mes expériences en enseigneme
 
 - British Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough
 - Introduction to Philosophy (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
+- Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough
 - Smart Scholarship (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
 - Research Design (Cours de 2<sup>e</sup> cycle, Université de Loughborough)
-- Comparative Political Economy (Cours de 2<sup>e</sup> cycle, Université de Loughborough)
+- Capitalism, Democracy, and the State (Cours de 2<sup>e</sup> cycle, Université de Loughborough)
 - Tuteur de mémoire (1<sup>er</sup> cycle, Université de Loughborough)
 - Comparative European Politics (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
 - Political Institutions (Cours de base de 1<sup>er</sup> cycle, Université d'Aarhus)

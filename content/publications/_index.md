@@ -28,7 +28,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ## Journal Articles (Peer-Reviewed)
 
-Anthony Kevins and Naomi Lightman. (Forthcoming) "Satisfaction with Social Care in the UK: Assessing the Interactive Effects of Age and Ideology", _International Journal of Social Welfare_.
+Anthony Kevins and Naomi Lightman. (OnlineFirst) "Satisfaction with Social Care in the UK: Assessing the Interactive Effects of Age and Ideology", _International Journal of Social Welfare_. [doi.org/10.1111/ijsw.12710](https://doi.org/10.1111/ijsw.12710)
 
 Anthony Kevins and Joshua Robison. (OnlineFirst) "Do the Origins of Climate Assemblies Shape Public Reactions? Examining the Impact of Partisanship", _European Journal of Political Research_. [doi.org/10.1111/1475-6765.12743](https://doi.org/10.1111/1475-6765.12743)
 
