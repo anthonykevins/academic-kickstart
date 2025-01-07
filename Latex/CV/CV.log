@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  17 DEC 2024 11:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  7 JAN 2025 08:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1546,7 +1546,6 @@ Underfull \hbox (badness 1292) in paragraph at lines 209--209
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [4]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1555,12 +1554,11 @@ Underfull \hbox (badness 1292) in paragraph at lines 209--209
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
-
+ [4]
 Underfull \hbox (badness 10000) in paragraph at lines 295--299
 
  []
 
-[5]
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
 (Font)              `OT1/Roboto-LF/light/n' on input line 315.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
@@ -1585,7 +1583,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 303--316
 
  []
 
-[6]
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 341--342
 
  []
@@ -1600,7 +1598,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 345--352
 
  []
 
-
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
@@ -1615,15 +1613,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 21418 strings out of 476025
- 388789 string characters out of 5790016
+ 21414 strings out of 476025
+ 388679 string characters out of 5790016
  1892388 words of memory out of 5000000
  41411 multiletter control sequences out of 15000+600000
- 563365 words of font info for 167 fonts, out of 8000000 for 9000
+ 562648 words of font info for 165 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,7n,109p,10736b,1063s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,7n,109p,10736b,1062s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on CV.pdf (7 pages, 105806 bytes).
+Output written on CV.pdf (7 pages, 104923 bytes).
 PDF statistics:
  347 PDF objects out of 1000 (max. 8388607)
  218 compressed objects within 3 object streams
