@@ -27,7 +27,7 @@ Ageing populations, limited infrastructure and staffing shortages, and reduced g
 
 This two-year project -- funded by the British Academy/Leverhulme Small Research Grant scheme (SRG23\231164) -- investigates social care preferences under conditions of relative scarcity, looking at how citizens balance trade-offs across different policy dimensions (e.g., resource distribution, financing, service provision). 
 
-This project therefore tackles a question that will be central to developing such a consensus: how can the Government manage the trade-off between the need for high-quality long-term social care provision and the costs of these measures to citizens in a way that maximises public support (1) among those most likely to be affected by the reforms in the short-term and (2) across a wide range of different party supporters? 
+This project therefore tackles the question: how can the Government manage the trade-off between the need for high-quality long-term social care provision and the costs of these measures to citizens in a way that maximises public support (1) among those most likely to be affected by the reforms in the short-term and (2) across a wide range of different party supporters? 
 
 &nbsp;
 
