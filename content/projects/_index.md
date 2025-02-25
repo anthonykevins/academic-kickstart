@@ -23,11 +23,11 @@ Below you will find a selection of my work on funded research projects, as well 
 
 <img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="downing_heading.webp" title="Photo of a Downing Street sign, courtesy of Rui Chamberlain on Unsplash"/>
   
-Ageing populations, limited infrastructure and staffing shortages, and reduced government funding have all contributed to the long-running crisis in social care in the UK. Further complicating matters, the COVID-19 pandemic and its resulting fiscal challenges have increased public attention to social care while simultaneously decreasing government capacity to finance social programmes. As a result, existing trade-offs in long-term care policy are likely to become even more complex and contentious. 
+Ageing populations, limited infrastructure and staffing shortages, and reduced government funding have all contributed to the long-running crisis in social care in the UK. Further complicating matters, the COVID-19 pandemic and its resulting fiscal challenges have increased public attention to social care while simultaneously decreasing government capacity to finance social programmes. As a result, trade-offs in long-term care policy have become even more complex and contentious. 
 
-This two-year project -- funded by the British Academy/Leverhulme Small Research Grant scheme (SRG23\231164) -- investigates social care preferences under conditions of scarcity, looking at how citizens balance trade-offs across different policy dimensions (e.g., resource distribution, taxation, service provision). 
+This two-year project -- funded by the British Academy/Leverhulme Small Research Grant scheme (SRG23\231164) -- investigates social care preferences under conditions of relative scarcity, looking at how citizens balance trade-offs across different policy dimensions (e.g., resource distribution, financing, service provision). 
 
-The project thus tackles a question that has become central to UK public policy at present: how can governments manage the trade-off between the critical need for high-quality, equitable long-term social care provision and the high financial costs of these measures to citizens?
+This project therefore tackles a question that will be central to developing such a consensus: how can the Government manage the trade-off between the need for high-quality long-term social care provision and the costs of these measures to citizens in a way that maximises public support (1) among those most likely to be affected by the reforms in the short-term and (2) across a wide range of different party supporters? 
 
 &nbsp;
 
