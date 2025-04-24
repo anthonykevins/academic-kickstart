@@ -24,15 +24,15 @@ Vous trouverez ci-dessous une vue d’ensemble de mes expériences en enseigneme
 ## Cours enseignés
 
 - British Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough
-- Introduction to Philosophy (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
-- Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough
-- Smart Scholarship (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
-- Research Design (Cours de 2<sup>e</sup> cycle, Université de Loughborough)
-- Capitalism, Democracy, and the State (Cours de 2<sup>e</sup> cycle, Université de Loughborough)
-- Tuteur de mémoire (1<sup>er</sup> cycle, Université de Loughborough)
+- Capitalism, Democracy, and the State (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
 - Comparative European Politics (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
-- Political Institutions (Cours de base de 1<sup>er</sup> cycle, Université d'Aarhus)
-- Social Science Methods for Journalists (Cours de base de 2<sup>e</sup> cycle, Université d'Aarhus)
 - Democracy and Representation (Cours de 2<sup>e</sup> cycle, Université d'Aarhus)
-- Pragmatism and Politics (Cours de 2<sup>e</sup> cycle, Université d'Aarhus)
+- Introduction to Philosophy (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
+- Political Institutions (Cours de base de 1<sup>er</sup> cycle, Université d'Aarhus)
+- Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough
 - Politics: Contemporary Europe (Cours de 1<sup>er</sup> cycle, Université McGill)
+- Pragmatism and Politics (Cours de 2<sup>e</sup> cycle, Université d'Aarhus)
+- Research Design (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
+- Smart Scholarship (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
+- Social Science Methods for Journalists (Cours de base de 2<sup>e</sup> cycle, Université d'Aarhus)
+- Tuteur de mémoire (1<sup>er</sup> cycle, Université de Loughborough)
