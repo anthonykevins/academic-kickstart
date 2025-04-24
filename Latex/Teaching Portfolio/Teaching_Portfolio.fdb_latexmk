@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1745482983 "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Teaching Portfolio/Teaching_Portfolio.tex" "Teaching_Portfolio.pdf" "Teaching_Portfolio" 1745482984 0
-  "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Teaching Portfolio/Teaching_Portfolio.tex" 1745482983 23066 da520017c6299095d76ad1a261e904a8 ""
+["pdflatex"] 1745483853 "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Teaching Portfolio/Teaching_Portfolio.tex" "Teaching_Portfolio.pdf" "Teaching_Portfolio" 1745483854 0
+  "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/Teaching Portfolio/Teaching_Portfolio.tex" 1745483851 23076 7994a79b943ba2c6751f143051a62959 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc" 1576101225 3314 42351250ac95a91f488e14b5633f75ce ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_schjax.enc" 1576101225 2974 729e60f1953f7d28deb744dead16208c ""
@@ -146,9 +146,9 @@
   "Evaluations2.pdf" 1730107517 116406 526f47e90b1f24808df25ad531ac6de7 ""
   "Graduate.pdf" 1537953840 186580 221cad07eeba3b2b2cfdf6687914cb7d ""
   "Lectures.pdf" 1730107517 431224 6d340ecc20f3e921eac848f7a0cacc82 ""
-  "Teaching_Portfolio.aux" 1745482984 4800 350e359f36079c6e3662f0db6ed59641 "pdflatex"
-  "Teaching_Portfolio.tex" 1745482983 23066 da520017c6299095d76ad1a261e904a8 ""
-  "Teaching_Portfolio.toc" 1745482984 1370 b73abc8d025cffc6e0c01966a8f5f73f "pdflatex"
+  "Teaching_Portfolio.aux" 1745483854 4800 840c193f3ab3f65c8610ebd5689a6f61 "pdflatex"
+  "Teaching_Portfolio.tex" 1745483851 23076 7994a79b943ba2c6751f143051a62959 ""
+  "Teaching_Portfolio.toc" 1745483854 1370 b73abc8d025cffc6e0c01966a8f5f73f "pdflatex"
   "Tutorial1.pdf" 1730107517 171834 6d7b4a903dec6dbb0f6b98a366859ec0 ""
   "Tutorial2.pdf" 1537953861 175561 41d52eb73248b3315e72f2790850588b ""
   "Undergraduate.pdf" 1541754293 367433 c6ec94f856b121e805bf1f9b8e95afc1 ""
