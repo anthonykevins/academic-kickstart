@@ -1,8 +1,8 @@
 \babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {\Decide {1}} Teaching Philosophy, Strategies, and Goals}{2}{section.1}%
 \contentsline {section}{\numberline {\Decide {2}} Teaching Experience}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Undergraduate Teaching}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Graduate Teaching}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.1}Current Teaching}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Past Teaching}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Other Teaching}{6}{subsection.2.3}%
 \contentsline {section}{\numberline {\Decide {3}} Professional Development}{6}{section.3}%
 \contentsline {section}{\numberline {\Decide {4}} Sample Teaching Materials}{6}{section.4}%
