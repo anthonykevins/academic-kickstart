@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  16 JUN 2025 15:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  1 JUL 2025 15:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1582,83 +1582,83 @@ Underfull \hbox (badness 2393) in paragraph at lines 211--211
 [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 272.
+(hyperref)                removing `\mathsurround' on input line 274.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 272.
+(hyperref)                removing `\z@' on input line 274.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 272.
+(hyperref)                removing `superscript' on input line 274.
 
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/it' aliased to
-(Font)              `OT1/Roboto-LF/light/it' on input line 272.
+(Font)              `OT1/Roboto-LF/light/it' on input line 274.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
-(Font)              scaled to size 7.66495pt on input line 272.
+(Font)              scaled to size 7.66495pt on input line 274.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 275.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 275.
+(hyperref)                removing `\mathsurround' on input line 277.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 275.
+(hyperref)                removing `\z@' on input line 277.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--276
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 277.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--278
 
  []
 
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
-(Font)              `OT1/Roboto-LF/light/n' on input line 292.
+(Font)              `OT1/Roboto-LF/light/n' on input line 294.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 7.66495pt on input line 292.
+(Font)              scaled to size 7.66495pt on input line 294.
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--293
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 280--293
+Underfull \hbox (badness 10000) in paragraph at lines 282--295
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--293
+Underfull \hbox (badness 10000) in paragraph at lines 282--295
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--293
+Underfull \hbox (badness 10000) in paragraph at lines 282--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--295
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 311--312
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--322
+Underfull \hbox (badness 10000) in paragraph at lines 317--324
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--322
+Underfull \hbox (badness 10000) in paragraph at lines 317--324
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
 
@@ -1673,14 +1673,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  22186 strings out of 476025
- 400985 string characters out of 5790016
+ 400989 string characters out of 5790016
  1891388 words of memory out of 5000000
  42177 multiletter control sequences out of 15000+600000
- 563634 words of font info for 166 fonts, out of 8000000 for 9000
+ 563708 words of font info for 166 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,8n,109p,10742b,1072s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on CV_fr.pdf (6 pages, 108034 bytes).
+Output written on CV_fr.pdf (6 pages, 108412 bytes).
 PDF statistics:
  335 PDF objects out of 1000 (max. 8388607)
  207 compressed objects within 3 object streams

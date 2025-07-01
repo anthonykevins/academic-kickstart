@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  16 JUN 2025 15:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  1 JUL 2025 15:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1555,51 +1555,51 @@ Underfull \hbox (badness 1292) in paragraph at lines 216--216
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
  [4]
-Underfull \hbox (badness 10000) in paragraph at lines 302--306
+Underfull \hbox (badness 10000) in paragraph at lines 306--310
 
  []
 
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
-(Font)              `OT1/Roboto-LF/light/n' on input line 322.
+(Font)              `OT1/Roboto-LF/light/n' on input line 326.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 7.66495pt on input line 322.
+(Font)              scaled to size 7.66495pt on input line 326.
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--323
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--323
+Underfull \hbox (badness 10000) in paragraph at lines 314--327
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--323
+Underfull \hbox (badness 10000) in paragraph at lines 314--327
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--323
+Underfull \hbox (badness 10000) in paragraph at lines 314--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--327
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--359
+Underfull \hbox (badness 10000) in paragraph at lines 356--363
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--359
+Underfull \hbox (badness 10000) in paragraph at lines 356--363
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 366--367
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 
  []
 
@@ -1613,15 +1613,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 21426 strings out of 476025
- 389063 string characters out of 5790016
+ 21424 strings out of 476025
+ 389007 string characters out of 5790016
  1892388 words of memory out of 5000000
  41419 multiletter control sequences out of 15000+600000
- 563149 words of font info for 167 fonts, out of 8000000 for 9000
+ 562994 words of font info for 166 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,7n,109p,10736b,1062s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on CV.pdf (7 pages, 105114 bytes).
+Output written on CV.pdf (7 pages, 105339 bytes).
 PDF statistics:
  347 PDF objects out of 1000 (max. 8388607)
  218 compressed objects within 3 object streams
