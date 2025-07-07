@@ -28,7 +28,7 @@ Anthony Kevins. (2017) [_Expanding Welfare in an Age of Austerity: Increasing Pr
 
 ## Journal Articles (Peer-Reviewed)
 
-Naomi Lightman and Anthony Kevins. (Forthcoming) "When Caring Comes at a Cost: Psychological Wellbeing of Unpaid and Paid Carers and the Role of Social Expenditure", _Journal of European Social Policy_.
+Naomi Lightman and Anthony Kevins. (OnlineFirst) "When Caring Comes at a Cost: Psychological Wellbeing of Unpaid and Paid Carers and the Role of Social Expenditure", _Journal of European Social Policy_. [doi.org/10.1177/09589287251356978](https://doi.org/10.1177/09589287251356978)
 
 Anthony Kevins and Joshua Robison. (2025) ["Do the Origins of Climate Assemblies Shape Public Reactions? Examining the Impact of Partisanship"](https://ejpr.onlinelibrary.wiley.com/doi/epdf/10.1111/1475-6765.12743), _European Journal of Political Research_, 64(3): 1413-1439. [doi.org/10.1111/1475-6765.12743](https://doi.org/10.1111/1475-6765.12743)
 
