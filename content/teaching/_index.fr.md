@@ -35,4 +35,5 @@ Vous trouverez ci-dessous une vue d’ensemble de mes expériences en enseigneme
 - Research Design (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
 - Smart Scholarship (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
 - Social Science Methods for Journalists (Cours de base de 2<sup>e</sup> cycle, Université d'Aarhus)
+- Theories and Methods in Political Research (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
 - Tuteur de mémoire (1<sup>er</sup> cycle, Université de Loughborough)
