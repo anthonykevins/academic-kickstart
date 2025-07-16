@@ -24,7 +24,6 @@ Below you will find a brief overview of courses that I have taught on. For more 
 ## Current/Recent Teaching
 
 - Capitalism, Democracy, and the State (Bachelor's Course, Loughborough University)
-- Introduction to Philosophy (Bachelor's Core Course, Loughborough University)
 - Politics and Government (Bachelor's Core Course, Loughborough University)
 - Theories and Methods in Political Research (Bachelor's Core Course, Loughborough University)
 - Undergraduate Dissertation Supervision (Loughborough University)
