@@ -76,4 +76,4 @@ I've published over two dozen [peer-reviewed studies](https://anthonykevins.gith
 
 I also hold a [five-year appointment](https://ukyoungacademy.org/members/anthony-kevins/) to the [UK Young Academy](https://ukyoungacademy.org/), and have more than a decade of [teaching experience](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf). 
 
-You can check out [my full CV here](https://anthonykevins.github.io/files/CV.pdf).
+For more details, check out [my full CV here](https://anthonykevins.github.io/files/CV.pdf).
