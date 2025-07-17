@@ -48,6 +48,11 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Anthony_Kevins"
     
+ [[social]]
+  icon = "envelope-square"
+  icon_pack = "fa"
+  link = "mailto:a.kevins@lboro.ac.uk"  # For a direct email link, use "mailto:".
+
 [[social]]
   icon = "google-scholar-square"
   icon_pack = "ai"
@@ -57,11 +62,6 @@ user_groups = ["Researchers", "Visitors"]
  icon = "linkedin"
  icon_pack = "fab"
  link = "https://www.linkedin.com/in/anthony-kevins-36210193/"
-
-[[social]]
-  icon = "envelope-square"
-  icon_pack = "fa"
-  link = "mailto:a.kevins@lboro.ac.uk"  # For a direct email link, use "mailto:".
 
 +++
 
