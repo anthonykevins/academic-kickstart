@@ -21,24 +21,34 @@ Below you will find a brief overview of courses that I have taught on. For more 
 
 &nbsp;
 
-## Current/Recent Teaching
+<div class="teaching-section">
 
-- Capitalism, Democracy, and the State (Bachelor's Course, Loughborough University)
-- Politics and Government (Bachelor's Core Course, Loughborough University)
-- Theories and Methods in Political Research (Bachelor's Core Course, Loughborough University)
-- Undergraduate Dissertation Supervision (Loughborough University)
+<h2>Current/Recent Teaching</h2>
 
-&nbsp;
+<ul>
+  <li>Capitalism, Democracy, and the State (Bachelor's Course, Loughborough University)</li>
+  <li>Politics and Government (Bachelor's Core Course, Loughborough University)</li>
+  <li>Theories and Methods in Political Research (Bachelor's Core Course, Loughborough University)</li>
+  <li>Undergraduate Dissertation Supervision (Loughborough University)</li>
+</ul>
 
-## Past Teaching 
+</div>
 
-- British Politics and Government (Bachelor's Core Course, Loughborough University)
-- Comparative European Politics (Bachelor's Course, Loughborough University)
-- Research Design (Bachelor's Core Course, Loughborough University)
-- Introduction to Philosophy (Bachelor's Core Course, Loughborough University)
-- Smart Scholarship (Bachelor's Core Course, Loughborough University)
-- Political Institutions (Bachelor's Core Course, Aarhus University)
-- Democracy and Representation (Master's Course, Aarhus University)
-- Pragmatism and Politics (Master's Course, Aarhus University)
-- Politics: Contemporary Europe (Bachelor's Course, McGill University)
-- Social Science Methods for Journalists (Master's Core Course, Aarhus University)
+<div class="teaching-section">
+
+<h2>Past Teaching</h2>
+
+<ul>
+  <li>British Politics and Government (Bachelor's Core Course, Loughborough University)</li>
+  <li>Comparative European Politics (Bachelor's Course, Loughborough University)</li>
+  <li>Research Design (Bachelor's Core Course, Loughborough University)</li>
+  <li>Introduction to Philosophy (Bachelor's Core Course, Loughborough University)</li>
+  <li>Smart Scholarship (Bachelor's Core Course, Loughborough University)</li>
+  <li>Political Institutions (Bachelor's Core Course, Aarhus University)</li>
+  <li>Democracy and Representation (Master's Course, Aarhus University)</li>
+  <li>Pragmatism and Politics (Master's Course, Aarhus University)</li>
+  <li>Politics: Contemporary Europe (Bachelor's Course, McGill University)</li>
+  <li>Social Science Methods for Journalists (Master's Core Course, Aarhus University)</li>
+</ul>
+
+</div>
