@@ -24,6 +24,41 @@
   weight = 30
 
 [[main]]
+   identifier = "Projects1"
+   name = "Aperçu"
+   url = "/projects/"
+   parent = "Projets"
+   weight = 1
+
+[[main]]
+   identifier = "Projects2"
+   name = "Les arbitrages en matière de soins de longue durée"
+   url = "/projects#les-arbitrages-en-matière-de-soins-de-longue-durée"
+   parent = "Projets"
+   weight = 2
+
+[[main]]
+   identifier = "Projects3"
+   name = "Préférences pour la représentation différentielle"
+   url = "/projects#préférences-pour-la-représentation-différentielle"
+   parent = "Projets"
+   weight = 3
+
+[[main]]
+   identifier = "Projects4"
+   name = "L'universalisme et l'État-providence"
+   url = "/projects#l-universalisme-et-l-état-providence"
+   parent = "Projets"
+   weight = 4
+
+[[main]]
+   identifier = "Projects5"
+   name = "Les inclus et les exclus de l'État-providence"
+   url = "/projects#les-inclus-et-les-exclus-de-l-état-providence"
+   parent = "Projets"
+   weight = 5
+
+[[main]]
   name = "Enseignement"
   url = "/teaching/"
   weight = 40

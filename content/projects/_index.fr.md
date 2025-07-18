@@ -31,7 +31,7 @@ L’objectif est de répondre à la question suivante : comment le gouvernement 
 
 &nbsp;
 
-## Qui devrait avoir un mot à dire ? Préférences pour la représentation différentielle
+## Préférences pour la représentation différentielle
 
 <img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="consultation_heading.webp" loading="lazy" decoding="async" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
 
