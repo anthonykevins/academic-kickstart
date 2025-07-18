@@ -33,7 +33,6 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
  education = ["Methods: Survey Design; Data Visualisation; Quantitative Data Analysis.", "Software/Coding: Git; LaTeX; Markdown; Qualtrics; R; Stata; Visual Studio Code.", "Foreign Languages: French (Full Professional Proficiency); Italian (Limited Working Proficiency). <br /> <br />"]
 
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
@@ -65,6 +64,8 @@ user_groups = ["Researchers", "Visitors"]
  icon_pack = "fab"
  link = "https://www.linkedin.com/in/anthony-kevins-36210193/"
 
+[header]
+  description = "Anthony Kevins is a political scientist interested in the interplay between public opinion, policy-making processes, and government legislation"
 
 +++
 
