@@ -17,7 +17,7 @@ copyright = "&copy; Anthony Kevins, {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 # googleAnalytics = "UA-113520276-1" [now handled in custom_analytics]
-privacy_pack = "true"
+  privacy_pack = "false"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
