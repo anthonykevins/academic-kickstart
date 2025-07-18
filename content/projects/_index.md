@@ -21,7 +21,7 @@ Below you will find a selection of my work on funded research projects, as well 
 
 ## Balancing Social Care Priorities
 
-<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="downing_heading.webp" title="Photo of a Downing Street sign, courtesy of Rui Chamberlain on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="downing_heading.webp" loading="lazy" decoding="async" title="Photo of a Downing Street sign, courtesy of Rui Chamberlain on Unsplash"/>
   
 Ageing populations, limited infrastructure and staffing shortages, and reduced government funding have all contributed to the long-running crisis in social care in the UK. Further complicating matters, the COVID-19 pandemic and its resulting fiscal challenges have increased public attention to social care while simultaneously decreasing government capacity to finance social programmes. As a result, trade-offs in long-term care policy have become even more complex and contentious. 
 
@@ -33,7 +33,7 @@ This project therefore tackles the question: how can the Government manage the t
 
 ## Preferences for Differentiated Representation
 
-<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="consultation_heading.webp" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="consultation_heading.webp" loading="lazy" decoding="async" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
 
 Equal representation is at the core of representative democracy, but are citizens actually in favour of it? Using original survey data, my research on this theme investigates when and why citizens believe that policy-affected individuals should have more or less influence than others. 
 
@@ -50,7 +50,7 @@ My publications on this topic include research on:
 
 ## Universalism and the Welfare State
 
-<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="universalism_heading.webp" title="Photo of graffiti, courtesy of Etienne Girardet on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="universalism_heading.webp" loading="lazy" decoding="async" title="Photo of graffiti, courtesy of Etienne Girardet on Unsplash"/>
 
 How committed are citizens to universalism, redistribution, and the welfare state, and what factors shape their commitment? Through working on the UNIWEL (Universalism and the Welfare State) project at Aarhus University's Department of Political Science, I investigated various topics related to this theme -- including via a novel survey that we fielded in the US and nine European countries. 
 
@@ -67,7 +67,7 @@ My published work on the subject has examined:
 
 ## Insiders and Outsiders
 
-<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="dualism_heading.webp" title="Photo of a station platform, courtesy of Suad Kamardeen on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="dualism_heading.webp" loading="lazy" decoding="async" title="Photo of a station platform, courtesy of Suad Kamardeen on Unsplash"/>
 
 What factors shape relations between insiders and outsiders? Building from research I conducted as part of my PhD, I have explored the division between groups that have historically been protected by social policy and labour market regulations (i.e. insiders) and those we have excluded from that protection (i.e. outsiders). 
 

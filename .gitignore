@@ -1,6 +1,5 @@
 Latex/Archives
-public/
-themes/
+
 # IDE specific
 .idea/
 .vscode/
