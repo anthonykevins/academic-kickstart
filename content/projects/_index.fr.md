@@ -19,6 +19,18 @@ Cette section offre une présentation de mes projets de recherche actuels et pas
 
 &nbsp;
 
+## Les arbitrages en matière de soins de longue durée
+
+<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="downing_heading.webp" loading="lazy" decoding="async" title="Photo of a Downing Street sign, courtesy of Rui Chamberlain on Unsplash"/>
+  
+Au Royaume-Uni, les défis liés au vieillissement de la population, au manque d’infrastructures et de personnel, ainsi qu’à la diminution du financement public ont contribué à une crise durable dans le secteur des soins de longue durée. La pandémie de COVID-19 et les pressions budgétaires qui en ont découlé ont encore aggravé la situation : elles ont accru la visibilité du problème tout en réduisant la capacité de l’État à y répondre.
+
+Dans ce contexte de rareté des ressources, ce projet de deux ans – financé par le programme British Academy/Leverhulme Small Research Grant (SRG23\231164) – examine les préférences citoyennes en matière de soins de longue durée, en étudiant les arbitrages que les individus sont prêts à effectuer entre différentes dimensions de la politique publique (par exemple : la distribution des ressources, le financement, ou la prestation des services).
+
+L’objectif est de répondre à la question suivante : comment le gouvernement peut-il gérer les compromis entre la nécessité de fournir des soins de qualité et le coût que ces mesures impliquent pour les citoyens, tout en assurant un soutien public durable (1) de la part des personnes les plus directement concernées à court terme et (2) au sein d’un éventail d’électeurs de différents partis ?
+
+&nbsp;
+
 ## Qui devrait avoir un mot à dire ? Préférences pour la représentation différentielle
 
 <img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="consultation_heading.webp" loading="lazy" decoding="async" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>

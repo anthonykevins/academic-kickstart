@@ -21,19 +21,34 @@ Vous trouverez ci-dessous une vue d’ensemble de mes expériences en enseigneme
 
 &nbsp;
 
-## Cours enseignés
+<div class="teaching-section">
 
-- British Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
-- Capitalism, Democracy, and the State (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
-- Comparative European Politics (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
-- Democracy and Representation (Cours de 2<sup>e</sup> cycle, Université d'Aarhus)
-- Introduction to Philosophy (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
-- Political Institutions (Cours de base de 1<sup>er</sup> cycle, Université d'Aarhus)
-- Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
-- Politics: Contemporary Europe (Cours de 1<sup>er</sup> cycle, Université McGill)
-- Pragmatism and Politics (Cours de 2<sup>e</sup> cycle, Université d'Aarhus)
-- Research Design (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
-- Smart Scholarship (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
-- Social Science Methods for Journalists (Cours de base de 2<sup>e</sup> cycle, Université d'Aarhus)
-- Theories and Methods in Political Research (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
-- Tuteur de mémoire (1<sup>er</sup> cycle, Université de Loughborough)
+<h2>Enseignement actuel/récent</h2>
+
+<ul>
+  <li>Capitalism, Democracy, and the State (Cours de 1<sup>er</sup> cycle, Université de Loughborough)</li>
+  <li>Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)</li>
+  <li>Theories and Methods in Political Research (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)</li>
+  <li>Tuteur de mémoire (1<sup>er</sup> cycle, Université de Loughborough)</li>
+</ul>
+
+</div>
+
+<div class="teaching-section">
+
+<h2>Enseignement précédent</h2>
+
+<ul>
+  <li>British Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)</li>
+  <li>Comparative European Politics (Cours de 1<sup>er</sup> cycle, Université de Loughborough)</li>
+  <li>Democracy and Representation (Cours de 2<sup>e</sup> cycle, Université d'Aarhus)</li>
+  <li>Introduction to Philosophy (Cours de 1<sup>er</sup> cycle, Université de Loughborough)</li>
+  <li>Political Institutions (Cours de base de 1<sup>er</sup> cycle, Université d'Aarhus)</li>
+  <li>Politics: Contemporary Europe (Cours de 1<sup>er</sup> cycle, Université McGill)</li>
+  <li>Pragmatism and Politics (Cours de 2<sup>e</sup> cycle, Université d'Aarhus)</li>
+  <li>Research Design (Cours de 1<sup>er</sup> cycle, Université de Loughborough)</li>
+  <li>Smart Scholarship (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)</li>
+  <li>Social Science Methods for Journalists (Cours de base de 2<sup>e</sup> cycle, Université d'Aarhus)</li>
+</ul>
+
+</div>
