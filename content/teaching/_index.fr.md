@@ -23,13 +23,13 @@ Vous trouverez ci-dessous une vue d’ensemble de mes expériences en enseigneme
 
 ## Cours enseignés
 
-- British Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough
+- British Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
 - Capitalism, Democracy, and the State (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
 - Comparative European Politics (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
 - Democracy and Representation (Cours de 2<sup>e</sup> cycle, Université d'Aarhus)
 - Introduction to Philosophy (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
 - Political Institutions (Cours de base de 1<sup>er</sup> cycle, Université d'Aarhus)
-- Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough
+- Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)
 - Politics: Contemporary Europe (Cours de 1<sup>er</sup> cycle, Université McGill)
 - Pragmatism and Politics (Cours de 2<sup>e</sup> cycle, Université d'Aarhus)
 - Research Design (Cours de 1<sup>er</sup> cycle, Université de Loughborough)
