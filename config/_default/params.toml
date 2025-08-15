@@ -15,10 +15,10 @@ font = "default"
 description = "Anthony Kevins is a political scientist studying the interplay between public opinion, policy-making processes, and government legislation."
 
 site_type = "Person"
-googleAnalytics = "UA-113520276-1"
+# googleAnalytics = "UA-113520276-1"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "avkevins"
