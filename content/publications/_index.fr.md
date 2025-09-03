@@ -26,6 +26,8 @@ Anthony Kevins. (2017) <a href="https://repository.lboro.ac.uk/articles/book/Exp
 
 <h2>Articles (dans des revues avec comité de lecture)</h2>
 
+Seonghui Lee et Anthony Kevins. (OnlineFirst) a href="https://www.tandfonline.com/doi/epdf/10.1080/01402382.2025.2548167?needAccess=true">« How we think about the political stances of others: evidence on projection from Canada, Germany, and the UK »</a>, <em>West European Politics</em>. <a href="https://doi.org/10.1080/01402382.2025.2548167">doi.org/10.1080/01402382.2025.2548167</a><br><br>
+
 Naomi Lightman et Anthony Kevins. (OnlineFirst) <a href="https://journals.sagepub.com/doi/epub/10.1177/09589287251356978">« When Caring Comes at a Cost: Psychological Wellbeing of Unpaid and Paid Carers and the Role of Social Expenditure »</a>, <em>Journal of European Social Policy</em>. <a href="https://doi.org/10.1177/09589287251356978">doi.org/10.1177/09589287251356978</a><br><br>
 
 Anthony Kevins et Joshua Robison. (2025) <a href="https://ejpr.onlinelibrary.wiley.com/doi/epdf/10.1111/1475-6765.12743">« Do the Origins of Climate Assemblies Shape Public Reactions? Examining the Impact of Partisanship »</a>, <em>European Journal of Political Research</em>, 64(3): 1413-1439. <a href="https://doi.org/10.1111/1475-6765.12743">doi.org/10.1111/1475-6765.12743</a><br><br>

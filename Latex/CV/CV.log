@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  18 JUL 2025 10:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  3 SEP 2025 11:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -834,43 +834,43 @@ LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 4518) in paragraph at lines 206--206
+Underfull \hbox (badness 4518) in paragraph at lines 210--210
 []\OT1/Roboto-LF/light/n/10.5 (+20) Naomi Light-man and An-thony Kevins. ```Women's Work': Wel-fare State Spend-ing and
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 206--206
+Underfull \hbox (badness 1910) in paragraph at lines 210--210
 \OT1/Roboto-LF/light/n/10.5 (+20) the Gen-dered and Classed Dy-nam-ics of Un-paid Care'', \OT1/Roboto-LF/light/it/10.5 (+20) Gen-der & So-ci-ety\OT1/Roboto-LF/light/n/10.5 (+20) , 35(5): 778-805.
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 206--206
+Underfull \hbox (badness 1571) in paragraph at lines 210--210
 []\OT1/Roboto-LF/light/n/10.5 (+20) Stuart Soroka, Richard John-ston, An-thony Kevins, Keith Bant-ing, and Will Kym-licka. ``Mi-
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 206--206
+Underfull \hbox (badness 5260) in paragraph at lines 210--210
 \OT1/Roboto-LF/light/n/10.5 (+20) gra-tion and Wel-fare State Spend-ing'', \OT1/Roboto-LF/light/it/10.5 (+20) Eu-ro-pean Po-lit-i-cal Sci-ence Re-view\OT1/Roboto-LF/light/n/10.5 (+20) , 8(2): 173-194.
  []
 
 > Step: build the whole table.
-
-Underfull \hbox (badness 4518) in paragraph at lines 206--206
-[]\OT1/Roboto-LF/light/n/10.5 (+20) Naomi Light-man and An-thony Kevins. ```Women's Work': Wel-fare State Spend-ing and
- []
-
-
-Underfull \hbox (badness 1910) in paragraph at lines 206--206
-\OT1/Roboto-LF/light/n/10.5 (+20) the Gen-dered and Classed Dy-nam-ics of Un-paid Care'', \OT1/Roboto-LF/light/it/10.5 (+20) Gen-der & So-ci-ety\OT1/Roboto-LF/light/n/10.5 (+20) , 35(5): 778-805.
- []
-
 [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Underfull \hbox (badness 1571) in paragraph at lines 206--206
+Underfull \hbox (badness 4518) in paragraph at lines 210--210
+[]\OT1/Roboto-LF/light/n/10.5 (+20) Naomi Light-man and An-thony Kevins. ```Women's Work': Wel-fare State Spend-ing and
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 210--210
+\OT1/Roboto-LF/light/n/10.5 (+20) the Gen-dered and Classed Dy-nam-ics of Un-paid Care'', \OT1/Roboto-LF/light/it/10.5 (+20) Gen-der & So-ci-ety\OT1/Roboto-LF/light/n/10.5 (+20) , 35(5): 778-805.
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 210--210
 []\OT1/Roboto-LF/light/n/10.5 (+20) Stuart Soroka, Richard John-ston, An-thony Kevins, Keith Bant-ing, and Will Kym-licka. ``Mi-
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 206--206
+Underfull \hbox (badness 5260) in paragraph at lines 210--210
 \OT1/Roboto-LF/light/n/10.5 (+20) gra-tion and Wel-fare State Spend-ing'', \OT1/Roboto-LF/light/it/10.5 (+20) Eu-ro-pean Po-lit-i-cal Sci-ence Re-view\OT1/Roboto-LF/light/n/10.5 (+20) , 8(2): 173-194.
  []
 
@@ -882,27 +882,26 @@ Underfull \hbox (badness 5260) in paragraph at lines 206--206
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 2080) in paragraph at lines 216--216
+Underfull \hbox (badness 2080) in paragraph at lines 220--220
 []\OT1/Roboto-LF/light/n/10.5 (+20) Anthony Kevins and Bar-bara Vis. ``Blame, Pub-lic Con-sul-ta-tions, and the Im-pact of Gen-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 216--216
+Underfull \hbox (badness 1292) in paragraph at lines 220--220
 \OT1/Roboto-LF/light/n/10.5 (+20) der'', \OT1/Roboto-LF/light/it/10.5 (+20) The Pol-i-tics and Gov-er-nance and Blame\OT1/Roboto-LF/light/n/10.5 (+20) , Matthew Flinders, Ger-gana Di-mova, Markus
  []
 
 > Step: build the whole table.
-
-Underfull \hbox (badness 2080) in paragraph at lines 216--216
-[]\OT1/Roboto-LF/light/n/10.5 (+20) Anthony Kevins and Bar-bara Vis. ``Blame, Pub-lic Con-sul-ta-tions, and the Im-pact of Gen-
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 216--216
-\OT1/Roboto-LF/light/n/10.5 (+20) der'', \OT1/Roboto-LF/light/it/10.5 (+20) The Pol-i-tics and Gov-er-nance and Blame\OT1/Roboto-LF/light/n/10.5 (+20) , Matthew Flinders, Ger-gana Di-mova, Markus
- []
-
 [3]
+Underfull \hbox (badness 2080) in paragraph at lines 220--220
+[]\OT1/Roboto-LF/light/n/10.5 (+20) Anthony Kevins and Bar-bara Vis. ``Blame, Pub-lic Con-sul-ta-tions, and the Im-pact of Gen-
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 220--220
+\OT1/Roboto-LF/light/n/10.5 (+20) der'', \OT1/Roboto-LF/light/it/10.5 (+20) The Pol-i-tics and Gov-er-nance and Blame\OT1/Roboto-LF/light/n/10.5 (+20) , Matthew Flinders, Ger-gana Di-mova, Markus
+ []
+
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -911,6 +910,7 @@ Underfull \hbox (badness 1292) in paragraph at lines 216--216
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
+[4]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -919,52 +919,52 @@ Underfull \hbox (badness 1292) in paragraph at lines 216--216
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [4]
-Underfull \hbox (badness 10000) in paragraph at lines 306--310
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--314
 
  []
 
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
-(Font)              `OT1/Roboto-LF/light/n' on input line 326.
+(Font)              `OT1/Roboto-LF/light/n' on input line 330.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 7.34996pt on input line 326.
+(Font)              scaled to size 7.34996pt on input line 330.
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--327
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--327
+Underfull \hbox (badness 10000) in paragraph at lines 318--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--327
+Underfull \hbox (badness 10000) in paragraph at lines 318--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--327
+Underfull \hbox (badness 10000) in paragraph at lines 318--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--331
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--363
+Underfull \hbox (badness 10000) in paragraph at lines 360--367
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--363
+Underfull \hbox (badness 10000) in paragraph at lines 360--367
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
 
  []
 
@@ -978,18 +978,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19142 strings out of 476025
- 362139 string characters out of 5790016
+ 19146 strings out of 476025
+ 362282 string characters out of 5790016
  1892388 words of memory out of 5000000
- 39199 multiletter control sequences out of 15000+600000
- 557674 words of font info for 143 fonts, out of 8000000 for 9000
+ 39203 multiletter control sequences out of 15000+600000
+ 557711 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,7n,109p,10736b,1058s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on CV.pdf (7 pages, 103753 bytes).
+Output written on CV.pdf (7 pages, 103899 bytes).
 PDF statistics:
- 352 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
+ 356 PDF objects out of 1000 (max. 8388607)
+ 221 compressed objects within 3 object streams
  35 named destinations out of 1000 (max. 500000)
  22233 words of extra memory for PDF output out of 24883 (max. 10000000)
 
