@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  3 SEP 2025 11:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  6 SEP 2025 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -946,22 +946,6 @@ Underfull \hbox (badness 2393) in paragraph at lines 217--217
 [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 280.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 280.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 280.
-
-LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/it' aliased to
-(Font)              `OT1/Roboto-LF/light/it' on input line 280.
-LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
-(Font)              scaled to size 7.34996pt on input line 280.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mathsurround' on input line 283.
 
 
@@ -972,61 +956,77 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `superscript' on input line 283.
 
+LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/it' aliased to
+(Font)              `OT1/Roboto-LF/light/it' on input line 283.
+LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
+(Font)              scaled to size 7.34996pt on input line 283.
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--284
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 286.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 286.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 286.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--287
 
  []
 
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
-(Font)              `OT1/Roboto-LF/light/n' on input line 300.
+(Font)              `OT1/Roboto-LF/light/n' on input line 303.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 7.34996pt on input line 300.
+(Font)              scaled to size 7.34996pt on input line 303.
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--301
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--301
+Underfull \hbox (badness 10000) in paragraph at lines 291--304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--301
+Underfull \hbox (badness 10000) in paragraph at lines 291--304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--301
+Underfull \hbox (badness 10000) in paragraph at lines 291--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--304
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 319--320
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--330
+Underfull \hbox (badness 10000) in paragraph at lines 326--333
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--330
+Underfull \hbox (badness 10000) in paragraph at lines 326--333
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
-
- []
-
-[6] [7] (./CV_fr.aux)
+[7] (./CV_fr.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.45pt have occurred.
@@ -1040,11 +1040,11 @@ Here is how much of TeX's memory you used:
  374422 string characters out of 5790016
  1891388 words of memory out of 5000000
  39964 multiletter control sequences out of 15000+600000
- 558060 words of font info for 142 fonts, out of 8000000 for 9000
+ 558171 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,8n,109p,10742b,1068s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,8n,109p,10742b,1073s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy5.pfb>
-Output written on CV_fr.pdf (7 pages, 110793 bytes).
+Output written on CV_fr.pdf (7 pages, 111305 bytes).
 PDF statistics:
  355 PDF objects out of 1000 (max. 8388607)
  218 compressed objects within 3 object streams
