@@ -1,0 +1,17 @@
+{{/* layouts/shortcodes/alert.html */}}
+{{- $type := or (.Get "type") (.Get "theme") -}}
+{{- if not $type -}}
+  {{- if .IsNamedParams -}}
+    {{- $type = "info" -}}
+  {{- else -}}
+    {{- $type = .Get 0 | default "info" -}}
+  {{- end -}}
+{{- end -}}
+{{- $type = lower $type -}}
+{{- if eq $type "note" }}{{ $type = "info" }}{{ end -}}
+{{- if eq $type "tip" }}{{ $type = "success" }}{{ end -}}
+{{- if eq $type "warning" }}{{ $type = "warning" }}{{ end -}}
+{{- if eq $type "caution" }}{{ $type = "danger" }}{{ end -}}
+<div class="alert alert-{{ $type }}" role="alert">
+  {{ .Inner | markdownify }}
+</div>
