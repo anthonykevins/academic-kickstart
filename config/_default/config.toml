@@ -46,11 +46,11 @@ defaultContentLanguageInSubdir = false
   [languages.en]
     title = "Anthony Kevins"
     weight = 1
-  [languages.fr]
-    title = "Anthony Kevins"
-    weight = 2
+[languages.fr]
+title  = "Anthony Kevins"
+weight = 2
 
-
+[languages.fr.params]
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -61,6 +61,11 @@ preserveTaxonomyNames = true
   home = [ "HTML", "CSS", "RSS", "JSON" ]
   section = [ "HTML", "RSS" ]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
@@ -89,4 +94,4 @@ preserveTaxonomyNames = true
 
 [minify]
   [minify.tdewolff]
-    css = true
+    [minify.tdewolff.css]
