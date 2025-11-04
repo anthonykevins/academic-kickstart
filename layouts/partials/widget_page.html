@@ -1,0 +1,50 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<span class="js-widget-page d-none"></span>
+
+{{ $page := . }}
+{{ $hash_id := .Scratch.Get "hash_id" }}
+
+<div class="universal-wrapper pt-3" id="main-content">
+  {{ with $page.Title }}
+  <h1>{{ . | markdownify }}</h1>
+  {{ end }}
+  {{ with $page.Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  {{ $items_offset := 0 }}
+  {{ $items_count := len (where (where $page.Pages "IsPage" true) ".Params.active" "!=" false) }}
+  {{ range $index, $st := where (where $page.Pages "IsPage" true) ".Params.active" "!=" false }}
+    {{ $widget := $page.Scratch.Get "widget" }}
+    {{ $hash_id := replace (path.Base (path.Split .Path).Dir) " " "_" | urlize }}
+    {{ $widget_args := dict "page" $st "hash_id" $hash_id }}
+    {{ $css_classes := $st.Params.advanced.css_class | default "" }}
+    {{ $extra_attributes := "" }}
+    {{ $use_container := true }}
+
+    {{/* Dedicated home page widgets */}}
+    {{ if eq $st.Params.widget "blank" }}{{ $use_container = false }}{{ partial "widgets/blank" (dict "page" $st "hash_id" $hash_id) }}
+    {{ else if eq $st.Params.widget "pages" }}{{ partial "widgets/pages" $widget_args }}
+    {{ else if eq $st.Params.widget "contact" }}{{ partial "widgets/contact" $widget_args }}
+    {{ else if eq $st.Params.widget "featurette" }}{{ partial "widgets/featurette" $widget_args }}
+    {{ else if eq $st.Params.widget "hero" }}{{ $use_container = false }}{{ partial "widgets/hero" (dict "page" $st "hash_id" $hash_id) }}
+    {{ else if eq $st.Params.widget "slider" }}{{ $use_container = false }}{{ partial "widgets/slider" (dict "page" $st "hash_id" $hash_id) }}
+    {{ else if eq $st.Params.widget "accomplishments" }}{{ partial "widgets/accomplishments" $widget_args }}
+    {{ else if eq $st.Params.widget "experience" }}{{ partial "widgets/experience" $widget_args }}
+    {{ else if eq $st.Params.widget "portfolio" }}{{ partial "widgets/portfolio" $widget_args }}
+    {{ else if eq $st.Params.widget "people" }}{{ partial "widgets/people" $widget_args }}
+    {{ else if eq $st.Params.widget "about" }}
+      {{/* Show the widget page's content */}}
+      {{ $use_container = false }}
+      {{ partial "widgets/about" (dict "page" $st "author" $st.Params.author) }}
+    {{ else if eq $st.Params.widget "tag_cloud" }}{{ partial "widgets/tag_cloud" (dict "page" $st "hash_id" $hash_id) }}
+    {{ else }}
+      {{ errorf "Unknown widget `%s` in `%s`." $st.Params.widget $st.File.Path }}
+    {{ end }}
+  {{ end }}
+</div>
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
