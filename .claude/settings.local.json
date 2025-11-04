@@ -4,7 +4,11 @@
       "Bash(find:*)",
       "Bash(lighthouse:*)",
       "Bash(cd:*)",
-      "Bash(xargs ls:*)"
+      "Bash(xargs ls:*)",
+      "Bash(curl:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
