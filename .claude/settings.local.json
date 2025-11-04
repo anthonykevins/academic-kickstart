@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(lighthouse:*)",
+      "Bash(cd:*)",
+      "Bash(xargs ls:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

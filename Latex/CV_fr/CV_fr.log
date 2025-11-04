@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  6 SEP 2025 17:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  14 OCT 2025 16:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1036,15 +1036,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19912 strings out of 476025
- 374422 string characters out of 5790016
+ 19910 strings out of 476025
+ 374366 string characters out of 5790016
  1891388 words of memory out of 5000000
  39964 multiletter control sequences out of 15000+600000
- 558171 words of font info for 142 fonts, out of 8000000 for 9000
+ 557942 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,8n,109p,10742b,1073s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy5.pfb>
-Output written on CV_fr.pdf (7 pages, 111305 bytes).
+Output written on CV_fr.pdf (7 pages, 111530 bytes).
 PDF statistics:
  355 PDF objects out of 1000 (max. 8388607)
  218 compressed objects within 3 object streams
