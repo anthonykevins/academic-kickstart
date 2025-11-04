@@ -7,3 +7,8 @@ resources/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
