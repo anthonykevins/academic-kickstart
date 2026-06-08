@@ -26,7 +26,7 @@ Anthony Kevins. (2017) <a href="https://repository.lboro.ac.uk/articles/book/Exp
 
 <h2>Articles (dans des revues avec comité de lecture)</h2>
 
-Anthony Kevins et Joshua Robison. (OnlineFirst) <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.70164">« Is sortition the ideal? Examining public reactions to climate assemblies"</a>, <em>Political Psychology</em>. <a href="https://doi.org/10.1111/pops.70164">doi.org/10.1111/pops.70164</a>
+Anthony Kevins et Joshua Robison. (OnlineFirst) <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.70164">« Is sortition the ideal? Examining public reactions to climate assemblies »</a>, <em>Political Psychology</em>. <a href="https://doi.org/10.1111/pops.70164">doi.org/10.1111/pops.70164</a>
 
 Seonghui Lee et Anthony Kevins. (OnlineFirst) <a href="https://www.tandfonline.com/doi/epdf/10.1080/01402382.2025.2548167?needAccess=true">« How we think about the political stances of others: evidence on projection from Canada, Germany, and the UK »</a>, <em>West European Politics</em>. <a href="https://doi.org/10.1080/01402382.2025.2548167">doi.org/10.1080/01402382.2025.2548167</a>
 

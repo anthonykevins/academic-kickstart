@@ -1,6 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1780905868 "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV/CV.tex" "CV.pdf" "CV" 1780905875 2
-  "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV/CV.tex" 1780905861 43982 85854a7c6f5f80403536d43616ddca1b ""
+["pdflatex"] 1780907912 "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV/CV.tex" "CV.pdf" "CV" 1780907920 0
+  "/Users/anthonykevins/OneDrive - Universiteit Utrecht/Work/Other Work Documents/GitHub/academic-kickstart/Latex/CV/CV.tex" 1780907902 43982 85854a7c6f5f80403536d43616ddca1b ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc" 1576101225 3314 42351250ac95a91f488e14b5633f75ce ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_schjax.enc" 1576101225 2974 729e60f1953f7d28deb744dead16208c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -20,6 +21,10 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm" 1254269338 11868 4f81e9b6033c032bdaf9884f4d7ef412 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmr5.tfm" 1254269338 11804 aefb10c002e6492c25236524a447f969 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/rm-lmr7.tfm" 1254269338 11852 5a9022f105fd1ee2797df861e79ae9a0 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb" 1576101225 200063 9ca44329cc831cd6ca9d60e3d58e1c33 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb" 1576101225 209805 1361f1c57b101196d3338eb8ba6b2ced ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb" 1576101225 228852 75f71f5cb799b7d16a2065f2ce21013d ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb" 1254269338 27863 09ce3735688ffde955e72da27c95b61a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/vf/google/roboto/Roboto-Light-lf-ts1.vf" 1576101225 584 bbade18082287a2b93de5345183f738d ""
   "/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -114,8 +119,8 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1702565115 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1702565031 7883458 b55414ed870a5dd80dce78d6aecb64ca ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "CV.aux" 1780905869 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV.tex" 1780905861 43982 85854a7c6f5f80403536d43616ddca1b ""
+  "CV.aux" 1780907920 10340 638c30c7bc5ed005af35ae73bcafd507 "pdflatex"
+  "CV.tex" 1780907902 43982 85854a7c6f5f80403536d43616ddca1b ""
   (generated)
   "CV.aux"
   "CV.log"
