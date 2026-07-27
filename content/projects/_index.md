@@ -29,6 +29,8 @@ This two-year project -- funded by the British Academy/Leverhulme Small Research
 
 This project therefore tackles the question: how can the Government manage the trade-off between the need for high-quality long-term social care provision and the costs of these measures to citizens in a way that maximises public support (1) among those most likely to be affected by the reforms in the short-term and (2) across a wide range of different party supporters? 
 
+This project has involved extensive data collection (with some preliminary results visible in our [Evidence Brief](https://anthonykevins.github.io/files/Evidence_Brief.pdf) and a published [research article](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ijsw.12710) based on secondary data. 
+
 &nbsp;
 
 ## Preferences for Differentiated Representation
