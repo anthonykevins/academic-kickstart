@@ -10,6 +10,7 @@ math: false
 highlight: false
 blackfriday:
   fractions: false
+summary: "Peer-reviewed books, articles, and chapters by political scientist Anthony Kevins on public opinion, welfare states, and social policy."
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]

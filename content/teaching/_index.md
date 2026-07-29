@@ -10,6 +10,7 @@ math: false
 highlight: false
 blackfriday:
   fractions: false
+summary: "Undergraduate and postgraduate courses taught by Anthony Kevins at Loughborough University, Aarhus University, and McGill University."
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]
@@ -26,9 +27,9 @@ Below you will find a brief overview of courses that I have taught on. For more 
 <h2>Current/Recent Teaching</h2>
 
 <ul>
-  <li>Capitalism, Democracy, and the State (Bachelor's Course, Loughborough University)</li>
+  <li>Political Economy: Capitalism, Democracy, and the State (Bachelor's Course, Loughborough University)</li>
   <li>Politics and Government (Bachelor's Core Course, Loughborough University)</li>
-  <li>Theories and Methods in Political Research (Bachelor's Core Course, Loughborough University)</li>
+  <li> Research Methods in Politics and IR (Bachelor's Core Course, Loughborough University)</li>
   <li>Undergraduate Dissertation Supervision (Loughborough University)</li>
 </ul>
 

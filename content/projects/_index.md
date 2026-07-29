@@ -8,6 +8,7 @@ lang: en
 ref: projects
 math: false
 highlight: false
+summary: "Anthony Kevins' funded research projects on social care reform, differentiated political representation, welfare state universalism, and labour market insiders and outsiders."
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]

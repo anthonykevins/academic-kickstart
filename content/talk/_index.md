@@ -1,6 +1,8 @@
 +++
 title = "Recent & Upcoming Talks"
 
+draft = true
+
 # View.
 #   1 = List
 #   2 = Compact

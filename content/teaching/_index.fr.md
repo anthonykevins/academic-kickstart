@@ -26,9 +26,9 @@ Vous trouverez ci-dessous une vue d’ensemble de mes expériences en enseigneme
 <h2>Enseignement actuel/récent</h2>
 
 <ul>
-  <li>Capitalism, Democracy, and the State (Cours de 1<sup>er</sup> cycle, Université de Loughborough)</li>
+  <li>Political Economy: Capitalism, Democracy, and the State (Cours de 1<sup>er</sup> cycle, Université de Loughborough)</li>
   <li>Politics and Government (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)</li>
-  <li>Theories and Methods in Political Research (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)</li>
+  <li>Research Methods in Politics and IR (Cours de base de 1<sup>er</sup> cycle, Université de Loughborough)</li>
   <li>Tuteur de mémoire (1<sup>er</sup> cycle, Université de Loughborough)</li>
 </ul>
 
