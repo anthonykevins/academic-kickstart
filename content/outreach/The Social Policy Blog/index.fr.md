@@ -13,7 +13,7 @@ summary = "Explaining Other People’s Stances on Inequality"
 # tags = ["Demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://socialpolicyblog.com/2019/05/08/explaining-other-peoples-stances-on-inequality/"
+external_link = "https://socialpolicyblog.co.uk/2019/05/08/explaining-other-peoples-stances-on-inequality/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
