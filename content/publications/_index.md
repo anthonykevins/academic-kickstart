@@ -121,7 +121,7 @@ Anthony Kevins. (2015) <a href="https://repository.lboro.ac.uk/articles/journal_
 
 <div class="pub-section">
 
-<h2>Book Chapters (Peer-Reviewed)</h2>
+<h2>Book Chapters</h2>
 
 Anthony Kevins and Barbara Vis. (2024) <a href="https://repository.lboro.ac.uk/articles/chapter/Blame_public_consultations_and_the_impact_of_gender/26319091">“Blame, Public Consultations, and the Impact of Gender"</a>, <em>The Politics and Governance and Blame</em>, Matthew Flinders, Gergana Dimova, Markus Hinterleitner, R. A. W. Rhodes, and R. Kent Weaver (eds.), Oxford University Press: 732-766. <a href="https://doi.org/10.1093/oso/9780198896388.003.0029">doi.org/10.1093/oso/9780198896388.003.0029</a>
 
