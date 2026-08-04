@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  29 JUL 2026 17:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  4 AUG 2026 14:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -396,30 +396,7 @@ LaTeX Info: Redefining \lslig on input line 902.
 Package microtype Info: Loading configuration file microtype.cfg.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
-)) (/usr/local/texlive/2023/texmf-dist/tex/latex/blindtext/blindtext.sty
-Package: blindtext 2012/01/06 V2.0 blindtext-Package
- (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-)
-\c@blindtext=\count307
-\c@Blindtext=\count308
-\c@blind@countparstart=\count309
-\blind@countxx=\count310
-\blindtext@numBlindtext=\count311
-\blind@countyy=\count312
-\c@blindlist=\count313
-\c@blindlistlevel=\count314
-\c@blindlist@level=\count315
-\blind@listitem=\count316
-\c@blind@listcount=\count317
-\c@blind@levelcount=\count318
-\blind@mathformula=\count319
-\blind@Mathformula=\count320
-\c@blind@randomcount=\count321
-\c@blind@randommax=\count322
-\c@blind@pangramcount=\count323
-\c@blind@pangrammax=\count324
-)
+))
 
 Class scrartcl Warning: Usage of package `titlesec' together
 (scrartcl)              with a KOMA-Script class is not recommended.
@@ -428,7 +405,7 @@ Class scrartcl Warning: Usage of package `titlesec' together
 (scrartcl)              and several others to re-configure section
 (scrartcl)              headings.
 (scrartcl)              Nevertheless, using requested
-(scrartcl)              package `titlesec' on input line 13.
+(scrartcl)              package `titlesec' on input line 12.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
@@ -474,7 +451,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks28
 \XKV@tempa@toks=\toks29
 )
-\XKV@depth=\count325
+\XKV@depth=\count307
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -533,11 +510,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count326
+\c@section@level=\count308
 )
 \@linkdim=\dimen272
-\Hy@linkcounter=\count327
-\Hy@pagecounter=\count328
+\Hy@linkcounter=\count309
+\Hy@pagecounter=\count310
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -547,7 +524,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count329
+\Hy@SavedSpaceFactor=\count311
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -560,7 +537,7 @@ Package hyperref Info: Plain pages OFF on input line 4192.
 Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
-\c@Hy@tempcnt=\count330
+\c@Hy@tempcnt=\count312
  (/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -572,7 +549,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count331
+\Fld@menulength=\count313
 \Field@Width=\dimen274
 \Fld@charsize=\dimen275
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -586,9 +563,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count332
-\c@Item=\count333
-\c@Hfootnote=\count334
+\Hy@abspage=\count314
+\c@Item=\count315
+\c@Hfootnote=\count316
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -597,8 +574,8 @@ File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count335
-\c@bookmark@seq@number=\count336
+\Fld@listcount=\count317
+\c@bookmark@seq@number=\count318
  (/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -608,61 +585,61 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip74
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 44.
-Package hyperref Info: Option `unicode' set `true' on input line 44.
-Package hyperref Info: Option `pdftoolbar' set `true' on input line 44.
-Package hyperref Info: Option `pdfmenubar' set `true' on input line 44.
-Package hyperref Info: Option `pdffitwindow' set `false' on input line 44.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 44.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 44.
+Package hyperref Info: Option `colorlinks' set `true' on input line 40.
+Package hyperref Info: Option `unicode' set `true' on input line 40.
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 40.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 40.
+Package hyperref Info: Option `pdffitwindow' set `false' on input line 40.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 40.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 40.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count337
+\BKM@id=\count319
 ))
-LaTeX Font Info:    Trying to load font information for OT1+Roboto-LF on input line 52.
+LaTeX Font Info:    Trying to load font information for OT1+Roboto-LF on input line 54.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/roboto/OT1Roboto-LF.fd
 File: OT1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for OT1/Roboto-LF.
 )
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
-(Font)              `OT1/Roboto-LF/light/n' on input line 52.
+(Font)              `OT1/Roboto-LF/light/n' on input line 54.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 10.5pt on input line 52.
+(Font)              scaled to size 10.5pt on input line 54.
  (./CV_fr.aux)
 \openout1 = `CV_fr.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Info: Redefining \degres on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Info: Redefining \degres on input line 54.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 52.
+(french.ldf)             reported on input line 54.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 52.
-LaTeX Info: Redefining \up on input line 52.
+(french.ldf)             reported on input line 54.
+LaTeX Info: Redefining \up on input line 54.
 
 
 Package french.ldf Warning: OT1 encoding should not be used for French.
 (french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(french.ldf)                of your document; reported on input line 52.
+(french.ldf)                of your document; reported on input line 54.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -698,19 +675,19 @@ Package french.ldf Warning: OT1 encoding should not be used for French.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 52.
-Package microtype Info: Applying patch `item' on input line 52.
-Package microtype Info: Applying patch `toc' on input line 52.
-Package microtype Info: Applying patch `eqnum' on input line 52.
-Package microtype Info: Applying patch `footnote' on input line 52.
-Package microtype Info: Applying patch `verbatim' on input line 52.
+LaTeX Info: Redefining \microtypecontext on input line 54.
+Package microtype Info: Applying patch `item' on input line 54.
+Package microtype Info: Applying patch `toc' on input line 54.
+Package microtype Info: Applying patch `eqnum' on input line 54.
+Package microtype Info: Applying patch `footnote' on input line 54.
+Package microtype Info: Applying patch `verbatim' on input line 54.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 52.
+LaTeX Info: Redefining \showhyphens on input line 54.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -718,8 +695,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Roboto-LF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\c@mv@tabular=\count338
-\c@mv@boldtabular=\count339
+\c@mv@tabular=\count320
+\c@mv@boldtabular=\count321
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -730,66 +707,66 @@ Package color Info: Driver file: pdftex.def on input line 149.
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count340
+\scratchcounter=\count322
 \scratchdimen=\dimen276
 \scratchbox=\box88
-\nofMPsegments=\count341
-\nofMParguments=\count342
+\nofMPsegments=\count323
+\nofMParguments=\count324
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count343
+\MPscratchCnt=\count325
 \MPscratchDim=\dimen277
-\MPnumerator=\count344
-\makeMPintoPDFobject=\count345
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
 \everyMPtoPDFconversion=\toks31
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 52.
-LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
-(Font)              `OT1/Roboto-LF/light/n' on input line 65.
-LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 21.77705pt on input line 65.
+Package hyperref Info: Link coloring ON on input line 54.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
 (Font)              `OT1/Roboto-LF/light/n' on input line 67.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 12.59996pt on input line 67.
+(Font)              scaled to size 21.77705pt on input line 67.
+LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
+(Font)              `OT1/Roboto-LF/light/n' on input line 69.
+LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
+(Font)              scaled to size 12.59996pt on input line 69.
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
-(Font)              `OT1/Roboto-LF/light/n' on input line 71.
+(Font)              `OT1/Roboto-LF/light/n' on input line 73.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 7.00005pt on input line 71.
+(Font)              scaled to size 7.00005pt on input line 73.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/b/n' aliased to
-(Font)              `OT1/Roboto-LF/bold/n' on input line 71.
+(Font)              `OT1/Roboto-LF/bold/n' on input line 73.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 7.00005pt on input line 71.
-LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 85.
+(Font)              scaled to size 7.00005pt on input line 73.
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 87.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 85.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 87.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 85.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 87.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 85.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 87.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.5> on input line 85.
+(Font)              <10.5> on input line 87.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.34996> on input line 85.
+(Font)              <7.34996> on input line 87.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.25> on input line 85.
+(Font)              <5.25> on input line 87.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/b/n' aliased to
-(Font)              `OT1/Roboto-LF/bold/n' on input line 99.
+(Font)              `OT1/Roboto-LF/bold/n' on input line 101.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 10.5pt on input line 99.
+(Font)              scaled to size 10.5pt on input line 101.
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -797,14 +774,14 @@ LaTeX Font Info:    Font shape `OT1/Roboto-LF/bold/n' will be
 > Step: parse table inner spec.
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
-LaTeX Font Info:    Trying to load font information for TS1+Roboto-LF on input line 109.
+LaTeX Font Info:    Trying to load font information for TS1+Roboto-LF on input line 111.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/roboto/TS1Roboto-LF.fd
 File: TS1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for TS1/Roboto-LF.
 )
 LaTeX Font Info:    Font shape `TS1/Roboto-LF/l/n' aliased to
-(Font)              `TS1/Roboto-LF/light/n' on input line 109.
+(Font)              `TS1/Roboto-LF/light/n' on input line 111.
 LaTeX Font Info:    Font shape `TS1/Roboto-LF/light/n' will be
-(Font)              scaled to size 10.5pt on input line 109.
+(Font)              scaled to size 10.5pt on input line 111.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Roboto-LF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
@@ -838,9 +815,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_schjax.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc}]
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/it' aliased to
-(Font)              `OT1/Roboto-LF/light/it' on input line 147.
+(Font)              `OT1/Roboto-LF/light/it' on input line 149.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
-(Font)              scaled to size 10.5pt on input line 147.
+(Font)              scaled to size 10.5pt on input line 149.
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -857,63 +834,63 @@ LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 1571) in paragraph at lines 212--212
+Underfull \hbox (badness 1571) in paragraph at lines 214--214
 []\OT1/Roboto-LF/light/n/10.5 (+20) Naomi Light-man et An-thony Ke-vins. [] `Wo-men's Work' : Wel-fare State Spen-ding and the
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 212--212
+Underfull \hbox (badness 3439) in paragraph at lines 214--214
 \OT1/Roboto-LF/light/n/10.5 (+20) Gen-de-red and Clas-sed Dy-na-mics of Un-paid Care []. \OT1/Roboto-LF/light/it/10.5 (+20) Gen-der & So-ciety\OT1/Roboto-LF/light/n/10.5 (+20) , 35(5) : 778-805.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--212
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 []\OT1/Roboto-LF/light/n/10.5 (+20) Anthony Ke-vins, Alexan-der Horn, Cars-ten Jen-sen et Kees van Kers-ber-gen. [] The
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 212--212
+Underfull \hbox (badness 7099) in paragraph at lines 214--214
 \OT1/Roboto-LF/light/n/10.5 (+20) Illu-sion of Class in Wel-fare State Po-li-tics ? [], \OT1/Roboto-LF/light/it/10.5 (+20) Jour-nal of So-cial Po-licy\OT1/Roboto-LF/light/n/10.5 (+20) , 48(1) : 21-41.
  []
 
 
-Underfull \hbox (badness 3333) in paragraph at lines 212--212
+Underfull \hbox (badness 3333) in paragraph at lines 214--214
 []\OT1/Roboto-LF/light/n/10.5 (+20) Stuart So-roka, Ri-chard Johns-ton, An-thony Ke-vins, Keith Ban-ting et Will Kym-li-cka. [] Mi-
  []
 
 
-Underfull \hbox (badness 2772) in paragraph at lines 212--212
+Underfull \hbox (badness 2772) in paragraph at lines 214--214
 \OT1/Roboto-LF/light/n/10.5 (+20) gra-tion and Wel-fare State Spen-ding [], \OT1/Roboto-LF/light/it/10.5 (+20) Eu-ro-pean Po-li-ti-cal Science Re-view\OT1/Roboto-LF/light/n/10.5 (+20) , 8(2) : 173-194.
  []
 
 > Step: build the whole table.
 [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Underfull \hbox (badness 1571) in paragraph at lines 212--212
+Underfull \hbox (badness 1571) in paragraph at lines 214--214
 []\OT1/Roboto-LF/light/n/10.5 (+20) Naomi Light-man et An-thony Ke-vins. [] `Wo-men's Work' : Wel-fare State Spen-ding and the
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 212--212
+Underfull \hbox (badness 3439) in paragraph at lines 214--214
 \OT1/Roboto-LF/light/n/10.5 (+20) Gen-de-red and Clas-sed Dy-na-mics of Un-paid Care []. \OT1/Roboto-LF/light/it/10.5 (+20) Gen-der & So-ciety\OT1/Roboto-LF/light/n/10.5 (+20) , 35(5) : 778-805.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--212
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 []\OT1/Roboto-LF/light/n/10.5 (+20) Anthony Ke-vins, Alexan-der Horn, Cars-ten Jen-sen et Kees van Kers-ber-gen. [] The
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 212--212
+Underfull \hbox (badness 7099) in paragraph at lines 214--214
 \OT1/Roboto-LF/light/n/10.5 (+20) Illu-sion of Class in Wel-fare State Po-li-tics ? [], \OT1/Roboto-LF/light/it/10.5 (+20) Jour-nal of So-cial Po-licy\OT1/Roboto-LF/light/n/10.5 (+20) , 48(1) : 21-41.
  []
 
 [3]
-Underfull \hbox (badness 3333) in paragraph at lines 212--212
+Underfull \hbox (badness 3333) in paragraph at lines 214--214
 []\OT1/Roboto-LF/light/n/10.5 (+20) Stuart So-roka, Ri-chard Johns-ton, An-thony Ke-vins, Keith Ban-ting et Will Kym-li-cka. [] Mi-
  []
 
 
-Underfull \hbox (badness 2772) in paragraph at lines 212--212
+Underfull \hbox (badness 2772) in paragraph at lines 214--214
 \OT1/Roboto-LF/light/n/10.5 (+20) gra-tion and Wel-fare State Spen-ding [], \OT1/Roboto-LF/light/it/10.5 (+20) Eu-ro-pean Po-li-ti-cal Science Re-view\OT1/Roboto-LF/light/n/10.5 (+20) , 8(2) : 173-194.
  []
 
@@ -925,13 +902,13 @@ Underfull \hbox (badness 2772) in paragraph at lines 212--212
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 2393) in paragraph at lines 221--221
+Underfull \hbox (badness 2393) in paragraph at lines 223--223
 \OT1/Roboto-LF/light/n/10.5 (+20) kus Hin-ter-leit-ner, R. A. W. Rhodes et R. Kent Wea-ver, Ox-ford Uni-ver-sity Press : 732-766.
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 2393) in paragraph at lines 221--221
+Underfull \hbox (badness 2393) in paragraph at lines 223--223
 \OT1/Roboto-LF/light/n/10.5 (+20) kus Hin-ter-leit-ner, R. A. W. Rhodes et R. Kent Wea-ver, Ox-ford Uni-ver-sity Press : 732-766.
  []
 
@@ -944,85 +921,95 @@ Underfull \hbox (badness 2393) in paragraph at lines 221--221
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
 [4]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 287.
+(hyperref)                removing `\mathsurround' on input line 304.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 287.
+(hyperref)                removing `\z@' on input line 304.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 287.
+(hyperref)                removing `superscript' on input line 304.
 
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/it' aliased to
-(Font)              `OT1/Roboto-LF/light/it' on input line 287.
+(Font)              `OT1/Roboto-LF/light/it' on input line 304.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
-(Font)              scaled to size 7.34996pt on input line 287.
+(Font)              scaled to size 7.34996pt on input line 304.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 290.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 290.
+(hyperref)                removing `\mathsurround' on input line 307.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 290.
+(hyperref)                removing `\z@' on input line 307.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--291
-
- []
-
-LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
-(Font)              `OT1/Roboto-LF/light/n' on input line 307.
-LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 7.34996pt on input line 307.
-
-Underfull \hbox (badness 10000) in paragraph at lines 295--308
-
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 307.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--308
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 295--308
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 295--308
+Underfull \hbox (badness 10000) in paragraph at lines 304--308
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
+(Font)              `OT1/Roboto-LF/light/n' on input line 324.
+LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
+(Font)              scaled to size 7.34996pt on input line 324.
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--325
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--337
+Underfull \hbox (badness 10000) in paragraph at lines 312--325
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--337
+Underfull \hbox (badness 10000) in paragraph at lines 312--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--325
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
+Underfull \hbox (badness 10000) in paragraph at lines 347--354
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--354
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
 
  []
 
@@ -1036,18 +1023,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19914 strings out of 476025
- 374489 string characters out of 5790016
+ 19736 strings out of 476025
+ 371127 string characters out of 5790016
  1893388 words of memory out of 5000000
- 39970 multiletter control sequences out of 15000+600000
- 557812 words of font info for 140 fonts, out of 8000000 for 9000
+ 39786 multiletter control sequences out of 15000+600000
+ 560112 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,8n,109p,10742b,1073s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy5.pfb>
-Output written on CV_fr.pdf (7 pages, 116024 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy5.pfb>
+Output written on CV_fr.pdf (7 pages, 113759 bytes).
 PDF statistics:
- 363 PDF objects out of 1000 (max. 8388607)
- 223 compressed objects within 3 object streams
- 34 named destinations out of 1000 (max. 500000)
- 24273 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 362 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 24281 words of extra memory for PDF output out of 24883 (max. 10000000)
 

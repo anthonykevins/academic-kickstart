@@ -8,12 +8,9 @@
 \usepackage[french]{babel} 
 \usepackage[paperheight=279.4mm,paperwidth=210mm,left=20mm,right=20mm,top=20mm,footskip=10mm,nohead]{geometry}
 \usepackage{microtype}
-\usepackage{blindtext}
 \usepackage{titlesec}
-\renewcommand{\thesection}{\Roman{section}}
 \titleformat{\section}
 {\normalfont\bfseries}{\thesection}{0em}{}
-\renewcommand{\thesubsection}{\Roman{subsection}}
 \titleformat{\subsection}
 {\normalfont\mdseries\itshape}{\thesubsection}{0em}{}
 \titlespacing*{\section}{0pt}{2ex plus 2ex minus 0ex}{1ex plus 0ex}
@@ -23,14 +20,13 @@
 \usepackage{hyperref}
 \urlstyle{same}
 \hypersetup{
+	pdflang=fr-CA,
     colorlinks=true,
     urlcolor=[RGB]{56, 97, 246},
-    pdfpagemode=FullScreen,
-    unicode=true,  % Already correct in your French CV
+    unicode=true, 
     pdftoolbar=true,
     pdfmenubar=true,
     pdffitwindow=false,
-    pdfstartview={FitH},
     pdftitle={Anthony Kevins - Professeur agrégé en science politique et études internationales - CV universitaire},
     pdfauthor={Anthony Kevins},
     pdfsubject={CV universitaire - Chercheur en science politique spécialisé en opinion publique, politiques sociales et comportement politique},
@@ -49,6 +45,12 @@
 \setlist[itemize]{leftmargin=*}
 \raggedbottom
 
+\newcommand{\moisannee}{%
+  \ifcase\month\or janvier\or février\or mars\or avril\or mai\or juin\or
+  juillet\or août\or septembre\or octobre\or novembre\or décembre\fi
+  \space\number\year
+}
+
 \begin{document}
 \pagestyle{plain}
 
@@ -64,11 +66,11 @@
 
 \huge Anthony Kevins\\
 \begin{minipage}[t]{.87\linewidth}
-	\large Professeur agrégé en science politique et d'études internationales\\
+	\large Professeur agrégé en science politique et études internationales\\
 \end{minipage}%
 \begin{minipage}[t]{.13\linewidth}
 	\raggedleft
-	\scriptsize \textbf{Juillet 2026}\\
+	\scriptsize \textbf{\moisannee}\\
 \end{minipage}%
 \normalsize
 
@@ -128,18 +130,18 @@
 \section{Prix et bourses}
 \vspace{-2em}
 \begin{longtblr}[entry=none,label=none]{@{} l X @{} }
-	2025-2026 & Teaching Innovation Award (avec Guy Aitchison), Université de Loughborough, £2475 \\
-	2024-2025 & UK Young Academy Project Funding (collaborateur de projet), £13 850 \\
-	2023-2025 & Small Research Grant, The British Academy/Leverhulme Trust, £9930 (231164) \\ 
-	2023 & SSH Research and Innovation Funding, École des sciences humaines et sociales, Université de Loughborough, £1997 \\
-	2021-2022 & Early Career Researcher Seed Corn Funding, École des sciences humaines et sociales, Université de Loughborough, 2000 £ \\ 
+	2025-2026 & Teaching Innovation Award (avec Guy Aitchison), Université de Loughborough, 2 475 £ \\
+	2024-2025 & UK Young Academy Project Funding (collaborateur de projet), 13 850 £\\
+	2023-2025 & Small Research Grant, The British Academy/Leverhulme Trust, 9 930 £ (231164) \\ 
+	2023 & SSH Research and Innovation Funding, École des sciences humaines et sociales, Université de Loughborough, 1 997 £ \\
+	2021-2022 & Early Career Researcher Seed Corn Funding, École des sciences humaines et sociales, Université de Loughborough, 2 000 £ \\ 
 	2017-2019 & Bourse individuelle Marie Curie, Horizon 2020, programme cadre de l'Union européenne, 165 598 €                                                                  \\
 	2017      & Departmental Research Grant, Département de science politique, Université d'Aarhus (avec Carsten Jensen), 45 000 DKK                                               \\
-	2013-2014 & Bourse d'études de l’Institut des politiques sociales et de la santé de McGill, 5000 \$                   \\
+	2013-2014 & Bourse d'études de l’Institut des politiques sociales et de la santé de McGill, 5 000 \$                   \\
 	2010-2013 & Bourse Guy Drummond, Faculté des arts, Université McGill, 37 500 \$                                                                                            \\
 	2010      & Bourse pour participer au Consortium on Qualitative Research Methods, Département de science politique, Université McGill                                             \\
 	2008-2010 & Bourse Nathan Steinberg en science politique, Faculté des arts, Université McGill, 30 000 \$                                                                   \\
-	2008-2009 & Bourse du doyen au troisième cycle, Faculté des arts,Université McGill, 2000 \$                                                                              \\
+	2008-2009 & Bourse du doyen au troisième cycle, Faculté des arts, Université McGill, 2 000 \$                                                                              \\
 \end{longtblr}
 
 %PUBLICATIONS
@@ -176,8 +178,8 @@
 	2024 & Alexander Horn, Anthony Kevins et Kees van Kersbergen. « Workfare and Attitudes toward the Unemployed: New Evidence on Policy Feedback from 1990 to 2018 », \textit{Comparative Political Studies}, 57(5), 818-850. \href{https://doi.org/10.1177/00104140231178743}{doi.org/10.1177/00104140231178743}                    
 	\\
 	
-	2023 & Alexander Horn, Anthony Kevins et Kees van Kersbergen. ``The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015'', \textit{Socio-Economic Review}, 21(4): 2137–2166. \href{https://doi.org/10.1093/ser/mwac060}{doi.org/10.1093/ser/mwac060}                                                          \\ [-.5ex]
-	& $\circ$ Récipiendaire du \href{https://sase.org/publications/socio-economic-review/ser-best-paper-awards/}{SER Best Article Prize} pour le meilleur article publié en 2023 dans \textit{Socio-Economic Review}.                                                                                                                                                                                                                                                    \\
+	2023 & Alexander Horn, Anthony Kevins et Kees van Kersbergen. « The Paternalist Politics of Punitive and Enabling Workfare: Evidence from a New Dataset on Workfare Reforms in 16 Countries, 1980-2015 », \textit{Socio-Economic Review}, 21(4): 2137–2166. \href{https://doi.org/10.1093/ser/mwac060}{doi.org/10.1093/ser/mwac060}                                                          \\ [-.5ex]
+	& \textbullet\ Récipiendaire du \href{https://sase.org/publications/socio-economic-review/ser-best-paper-awards/}{SER Best Article Prize} pour le meilleur article publié en 2023 dans \textit{Socio-Economic Review}.                                                                                                                                                                                                                                                    \\
 	
 	2023 & Anthony Kevins et Barbara Vis. « Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes », \textit{Political Behavior}, 45: 1121–1142. \href{https://doi.org/10.1007/s11109-021-09751-5}{doi.org/10.1007/s11109-021-09751-5}                                             \\
 	
@@ -186,32 +188,32 @@
 	2022 & Anthony Kevins. « Distributing Democratic Influence: External Efficacy and the Preferred Influence of Policy Winners and Losers », \textit{International Journal of Public Opinion Research}, 34(4): 1-11. \href{https://doi.org/10.1093/ijpor/edac035}{doi.org/10.1093/ijpor/edac035}                                                                                                                                              \\
 
 	2022          & Anthony Kevins. « Input from Whom? Public Reactions to Different Consultation Measures », \textit{Political Studies}, 70(2): 281-303. \href{https://doi.org/10.1177/0032321720956327}{doi.org/10.1177/0032321720956327}                                                                                                                     \\
-	2022          & Anthony Kevins et Naomi Lightman. ``How Should the Government Treat Asylum Seekers? The Role of Labour Market Vulnerability and Ethnic Diversity in Europe'', \textit{Social Science Research}, 104. \href{https://doi.org/10.1016/j.ssresearch.2021.102666}{doi.org/10.1016/j.ssresearch.2021.102666}                                        \\
+	2022          & Anthony Kevins et Naomi Lightman. « How Should the Government Treat Asylum Seekers? The Role of Labour Market Vulnerability and Ethnic Diversity in Europe », \textit{Social Science Research}, 104. \href{https://doi.org/10.1016/j.ssresearch.2021.102666}{doi.org/10.1016/j.ssresearch.2021.102666}                                        \\
 	2021 & Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. « Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals », \textit{Party Politics}, 27(5): 983–995. \href{https://doi.org/10.1177/1354068820907998}{doi.org/10.1177/1354068820907998}                                             \\
 	
 	2021          & Naomi Lightman et Anthony Kevins. « `Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care ».  \textit{Gender \& Society}, 35(5): 778-805. \href{https://doi.org/10.1177/08912432211038695}{doi.org/10.1177/08912432211038695}                                                                         \\
 	2021          & Anthony Kevins. « Race, Class, or Both? Responses to Candidate Characteristics in Canada, the UK, and the US », \textit{Politics, Groups, and Identities}, 9(4): 699-720. \href{https://doi.org/10.1080/21565503.2019.1636833}{doi.org/10.1080/21565503.2019.1636833}                                                                       \\
-	& $\circ$ Couverture médiatique dans le \href{https://vancouversun.com/opinion/columnists/women-people-colour-get-fewer-votes-canada-studies}{Vancouver Sun}.                                                                                                    \\
+	& \textbullet\ Couverture médiatique dans le \href{https://vancouversun.com/opinion/columnists/women-people-colour-get-fewer-votes-canada-studies}{Vancouver Sun}.                                                                                                    \\
 
-	2021          & Anthony Kevins et Joshua Robison. ``Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation'', \textit{Political Psychology}, 42(1): 71-91. \href{https://doi.org/10.1111/pops.12688}{doi.org/10.1111/pops.12688}                                                                                               \\
+	2021          & Anthony Kevins et Joshua Robison. « Who Should Get a Say? Race, Law Enforcement Guidelines, and Systems of Representation », \textit{Political Psychology}, 42(1): 71-91. \href{https://doi.org/10.1111/pops.12688}{doi.org/10.1111/pops.12688}                                                                                               \\
 	2020          & Anthony Kevins et Naomi Lightman. « Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualized Labour Markets », \textit{Comparative European Politics}, 18(3): 460–484. \href{https://doi.org/10.1057/s41295-019-00194-1}{doi.org/10.1057/s41295-019-00194-1}                                  \\
 	2020          & Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. « Motive Attribution and the Moral Politics of the Welfare State », \textit{Journal of Social Policy}, 49(1): 145-165. \href{https://doi.org/10.1017/S0047279419000175}{doi.org/10.1017/S0047279419000175}                                                           \\
 	2019          & Naomi Lightman et Anthony Kevins. « Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries », \textit{European Sociological Review}, 35(6): 825–844. \href{https://academic.oup.com/esr/article/35/6/825/5521386?guestAccessKey=5a546076-ebad-417e-a168-d998e6b56a96}{doi.org/10.1093/esr/jcz032}    \\
 	2019          & Anthony Kevins. « Dualized Trust: Risk, social trust, and the Welfare State », \textit{Socio-Economic Review}, 17(4): 875–897. \href{https://doi.org/10.1093/ser/mwx064}{doi.org/10.1093/ser/mwx064}                                                                                                                                      \\	
 	2019          & Carsten Jensen et Anthony Kevins. « Numbers and Attitudes Towards Welfare State Generosity », \textit{Political Studies}, 67(2): 496–516. \href{https://doi.org/10.1177/0032321718780516}{doi.org/10.1177/0032321718780516}                                                                                                               \\ [-.5ex]
-	              & $\circ$ Récipiendaire du \href{https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners}{Harrison Prize} pour le meilleur article publié en 2019 dans \textit{Political Studies}.                                                                                                                                                                                                                                                    \\
+	              & \textbullet\ Récipiendaire du \href{https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners}{Harrison Prize} pour le meilleur article publié en 2019 dans \textit{Political Studies}.                                                                                                                                                                                                                                                    \\
 	2019          & Anthony Kevins et Kees van Kersbergen. « The Effects of Welfare State Universalism on Migrant Integration », \textit{Policy \& Politics}, 47(1): 115-132. \href{https://doi.org/10.1332/030557318X15407315707251}{doi.org/10.1332/030557318X15407315707251}                                                                                 \\
 	2019          & Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. « The Illusion of Class in Welfare State Politics? », \textit{Journal of Social Policy}, 48(1): 21-41. \href{https://dx.doi.org/10.1017/S0047279418000247}{dx.doi.org/10.1017/S0047279418000247}                                                                     \\ 
 	2018          & Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. « Yardsticks of Inequality: Preferences for Redistribution in Advanced Democracies », \textit{Journal of European Social Policy}, 28(4): 402-418. \href{https://doi.org/10.1177/0958928717753579}{doi.org/10.1177/0958928717753579}                                  \\ 
 	2018          & Alexander Horn et Anthony Kevins. « Problem Pressure and Social Policy Innovation: Lessons from 19th-Century Germany », \textit{Social Science History}, 42(3): 495-515. \href{https://doi.org/10.1017/ssh.2018.13}{doi.org/10.1017/ssh.2018.13}                                                                                            \\ 
 	2018          & Anthony Kevins et Stuart Soroka. « Growing Apart? Partisan Sorting in Canada, 1992-2015 »,  \textit{Canadian Journal of Political Science}, 51(1): 103-133. \href{https://doi.org/10.1017/S0008423917000713}{doi.org/10.1017/S0008423917000713}                                                                                             \\ [-.5ex]
-	              & $\circ$ Couverture médiatique dans \href{https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/}{The Globe and Mail} et \href{https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/}{Maclean's}.                                                                                          \\
+	              & \textbullet\ Couverture médiatique dans \href{https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/}{The Globe and Mail} et \href{https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/}{Maclean's}.                                                                                          \\
 	2017          & Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. « Peeping at the Corpus – What is Really Going on behind the Equality and Welfare Items of the Manifesto Project? », \textit{Journal of European Social Policy}, 27(5): 403-416. \href{https://doi.org/10.1177/0958928716688263}{doi.org/10.1177/0958928716688263} \\ 
 	2016          & Stuart Soroka, Richard Johnston, Anthony Kevins, Keith Banting et Will Kymlicka. « Migration and Welfare State Spending », \textit{European Political Science Review}, 8(2): 173-194. \href{https://doi.org/10.1017/S1755773915000041}{doi.org/10.1017/S1755773915000041}                                                                   \\ 
 	2015          & Anthony Kevins. « Political Actors and the Extension of Welfare Coverage », \textit{Journal of European Social Policy}, 25(3): 303-315. \href{https://doi.org/10.1177/0958928715588705}{doi.org/10.1177/0958928715588705}                                                                                                                   \\
 \end{longtblr}
 
-\subsection{Chapitres de Livre}
+\subsection{Chapitres de Livres}
 \vspace{-2em}
 \begin{longtblr}[entry=none,label=none]{@{} l X @{}}
 	2024 & Anthony Kevins et Barbara Vis. « Blame, Public Consultations, and the Impact of Gender », \textit{The Politics and Governance and Blame}, edité par Matthew Flinders, Gergana Dimova, Markus Hinterleitner, R. A. W. Rhodes et R. Kent Weaver, Oxford University Press: 732-766. \href{https://doi.org/10.1093/oso/9780198896388.003.0029}{doi.org/10.1093/oso/9780198896388.003.0029} \\
@@ -236,7 +238,7 @@
 	2025 & « News Avoidance and Scepticism About Anthropogenic Climate Change – Is There an Ostrich Effect? Survey Evidence from 18 Countries », avec James Stanyer. ECPR General Conference, Thessaloniki, Grèce. \\
 	2025 & « Optimal Representation : Candidate Selection and Candidate Characteristics in European Parliament elections », avec William Daniel. Biennial Conference of the International Political Science Association, Séoul, Corée du Sud. \\
 	2025 & « Optimal Representation : Candidate Selection and Candidate Characteristics in European Parliament elections », avec William Daniel. Annual Meeting of the European Political Science Association, Madrid, Espagne. \\
-	2024 & « How We Think About the Political Stances of Others: Evidence on Projection from Canada, Germany, and the UK »,avec Seonghui Lee. Elections, Public Opinion and Parties Conférence, Manchester, Royaume-Uni. \\
+	2024 & « How We Think About the Political Stances of Others: Evidence on Projection from Canada, Germany, and the UK », avec Seonghui Lee. Elections, Public Opinion and Parties Conference, Manchester, Royaume-Uni. \\
 	2024 & « Optimal Representation: the Importance of Identity in European Parliament Elections », avec William Daniel. Conférence annuelle de l'University Association for Contemporary European Studies, Trente, Italie. \\
 	2023 & « How We Think About the Political Stances of Others: Evidence on Projection from Canada, Germany, and the UK », avec Seonghui Lee. Conférence annuelle de l'European Political Science Association, Glasgow, Royaume-Uni. \\ 
 	2023 & « Investigating the Democratic Legitimacy of Citizens Climate Assemblies », avec Joshua Robison. Conférence annuelle de l'European Political Science Association, Glasgow, Royaume-Uni. \\ 
@@ -281,6 +283,21 @@
 	% 2013 & « Political Actors and the Extension of Welfare Coverage: Benefits for the Unemployed in France and Italy ». Conférence annuelle de l'ACSP, Victoria, Canada.\\
 \end{longtblr}
 
+%COMMUNICATIONS SUR INVITATION
+\section{Conférences invitées}
+\vspace{-1em}
+\begin{longtblr}[entry=none,label=none]{@{} l X @{}}
+	2024 & « Investigating the Democratic Legitimacy of Citizens Climate Assemblies », avec Joshua Robison. Open Data Analysis for Social and Political Sciences, Brunel University London, en ligne. \\
+	2023 & « Investigating the Democratic Legitimacy of Citizens Climate Assemblies », avec Joshua Robison. RSA East Midlands Seminar Series, The Regional Studies Association, en ligne. \\
+	2023 & « Partisanship and Public Reactions to Citizens' Climate Assemblies: A Survey Experiment », avec Joshua Robison. Comparative Politics Research Group, Université de Lund, Lund, Suède. \\
+	2021 & « Inequality and Redistributive Policy Preferences ». The Politics of Inequality, Université d'Aarhus, Aarhus, Danemark. \\
+	2021 & « How and When Does Workfare Shape Policy Attitudes? New Evidence on Cross-National Trends in Workfare and Policy Preferences from 1990 to 2018 », avec Alexander Horn et Kees van Kersbergen. Comparative Political Economy Working Group, Université de Constance, Constance, Allemagne. \\
+	2019 & « Public Consultations: Do Weakened Clarity of Responsibility and Increased Perceived Responsiveness Reduce Blame Attribution? », avec Barbara Vis. UvA Experimental Design Group/Hot Politics Lab, Université d'Amsterdam, Amsterdam, Pays-Bas. \\
+	2019 & « Exploring Voter Reactions to Public Consultations: Race, Issue Publics, and Blame Attribution ». Sociology Colloquium, Université de Tilbourg, Tilbourg, Pays-Bas. \\
+	2018 & « Immigrant Sentiment and Labour Market Vulnerability: Economic Perceptions of Immigration in Dualized Labour Markets », avec Naomi Lightman. Symposium on Challenges to European Integration: Welfare States and Free Movement in the EU, Université de Leyde, Leyde, Pays-Bas. \\
+	2017 & « Who Should Have a Say?\ : Preferences for Unequal Representation ». Atelier sur la représentation démocratique, Université d'Aarhus, Aarhus, Danemark. \\
+\end{longtblr}
+
 %TEACHING
 \section{Enseignement}
 \phantomsection
@@ -309,7 +326,7 @@
 %PROFESSIONAL SERVICE
 \section{Service à la communauté}
 \phantomsection
-\addcontentsline{toc}{subsection}{Engagement communautaire}\textit{Engagement communautaire} : \href{https://doi.org/10.64628/AB.emwc4f6hh}{The Conversation} (2026), \href{https://www.newsweek.com/mark-carney-scores-major-election-victory-in-canada-11820500}{Newsweek} (2026), \href{https://valonline.org.uk/future-focus-2024/}{Voluntary Action LeicesterShire} (2024), \href{https://issuu.com/kemps/docs/biz_network_april_2024/74}{Business Network} (2024), \href{https://senedd.wales/seneddclimate}{The Welsh Parliament's Climate Change, Environment and Infrastructure Committee} (2022), \href{https://tinyurl.com/4t6k26nh/}{The Political Behavior Blog} (2021), \href{https://stukroodvlees.nl/meer-inspraak-minder-schuld/}{Stuk Rood Vlees} (2021), \href{http://www.wipsociology.org/2021/09/16/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/}{Work In Progress}/\href{https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/}{The Gender \& Society Blog} (2021), \href{https://www.lboro.ac.uk/media-centre/press-releases/2020/october/life-beyond-covid-19-loughborough-experts/}{The Parliamentary Office of Science and Technology's (POST) Knowledge Exchange Unit} (2020), \href{https://socialpolicyblog.com/2019/05/08/explaining-other-peoples-stances-on-inequality/}{The Social Policy Blog} (2019), \href{https://cordis.europa.eu/project/rcn/209009/brief/fr}{Le service d’information sur la recherche et le développement communautaires (CORDIS)} (2019), \href{https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html}{Le Monde} (2019), \href{https://archive.discoversociety.org/2019/02/06/policy-and-politics-one-of-us-how-welfare-states-help-shape-immigrant-integration/}{Discover Society} (2019), \href{https://policyandpoliticsblog.com/2019/02/20/one-of-us-how-welfare-states-help-shape-immigrant-integration/}{Policy \& Politics Journal Blog} (2019) et \href{http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/}{LSE British Politics \& Policy Blog} (2018), Conférencier invité au département de la santé et des soins, municipalité d'Aarhus, Danemark (2015).
+\addcontentsline{toc}{subsection}{Engagement communautaire}\textit{Engagement communautaire} : \href{https://doi.org/10.64628/AB.emwc4f6hh}{The Conversation} (2026), \href{https://www.newsweek.com/mark-carney-scores-major-election-victory-in-canada-11820500}{Newsweek} (2026), \href{https://valonline.org.uk/future-focus-2024/}{Voluntary Action LeicesterShire} (2024), \href{https://issuu.com/kemps/docs/biz_network_april_2024/74}{Business Network} (2024), \href{https://senedd.wales/seneddclimate}{The Welsh Parliament's Climate Change, Environment and Infrastructure Committee} (2022), \href{https://tinyurl.com/4t6k26nh/}{The Political Behavior Blog} (2021), \href{https://stukroodvlees.nl/meer-inspraak-minder-schuld/}{Stuk Rood Vlees} (2021), \href{http://www.wipsociology.org/2021/09/16/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/}{Work In Progress}/\href{https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/}{The Gender \& Society Blog} (2021), \href{https://post.parliament.uk/life-beyond-covid-19-what-are-experts-concerned-about/}{The Parliamentary Office of Science and Technology's (POST) Knowledge Exchange Unit} (2020), \href{https://socialpolicyblog.co.uk/2019/05/08/explaining-other-peoples-stances-on-inequality/}{The Social Policy Blog} (2019), \href{https://cordis.europa.eu/project/rcn/209009/brief/fr}{Le service d’information sur la recherche et le développement communautaires (CORDIS)} (2019), \href{https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html}{Le Monde} (2019), \href{https://archive.discoversociety.org/2019/02/06/policy-and-politics-one-of-us-how-welfare-states-help-shape-immigrant-integration/}{Discover Society} (2019), \href{https://policyandpoliticsblog.com/2019/02/20/one-of-us-how-welfare-states-help-shape-immigrant-integration/}{Policy \& Politics Journal Blog} (2019) et \href{http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/}{LSE British Politics \& Policy Blog} (2018), Conférencier invité au département de la santé et des soins, municipalité d'Aarhus, Danemark (2015).
 
 \subsection{Affiliations professionnelles}
 \vspace{-.25em}
@@ -333,7 +350,7 @@
 \addcontentsline{toc}{subsection}{Président de panel}\textit{Président de panel} : Elections, Public Opinion and Parties Conférence (2024); Conférence annuelle de l'Association européenne de science politique (2019; 2023).\\ 
 \hfill \break
 \phantomsection
-\addcontentsline{toc}{subsection}{Comité de lecteurs}\textit{Comité de lecteurs} : Bloomsbury I.B. Tauris; Economic and Social Research Council; Oxford University Press; Conseil de recherches en sciences humaines du Canada; \textit{Administration \& Society; Acta Politica; Acta Sociologica; American Political Science Review; British Journal of Political Science; Canadian Journal of Political Science; Canadian Public Policy; Comparative Political Studies; Economics \& Politics; Environmental Policy and Governance; European Journal of Political Research; European Journal of Social Security; European Political Science Review; European Sociological Review; Governance; Hypatia; International Journal of Comparative Sociology; International Journal of Public Opinion Research; International Journal of Social Welfare; International Political Science Review; International Sociology; Journal of European Social Policy; Journal of Social Policy; Journal of Politics; Journal of Public Policy; Party Politics; Policy Sciences; Policy Studies Journal; Political Behavior; Political Studies; Political Studies Review; Public Performance \& Management Review; Race and Social Problems; Social Policy \& Administration; Social Forces; Social Policy and Society; Socio-Economic Review}.
+\addcontentsline{toc}{subsection}{Comité de lecteurs}\textit{Comité de lecteurs} : Bloomsbury I.B. Tauris; Economic and Social Research Council; Oxford University Press; Conseil de recherches en sciences humaines du Canada; \textit{Administration \& Society; Acta Politica; Acta Sociologica; American Political Science Review; British Journal of Political Science; Canadian Journal of Political Science; Canadian Public Policy; Comparative Political Studies; Economics \& Politics; Environmental Policy and Governance; European Journal of Political Research; European Journal of Social Security; European Political Science Review; European Sociological Review; Governance; Hypatia; International Journal of Comparative Sociology; International Journal of Public Opinion Research; International Journal of Social Welfare; International Political Science Review; International Sociology; Journal of Ethnic and Migration Studies; Journal of European Social Policy; Journal of Social Policy; Journal of Politics; Journal of Public Policy; Party Politics; Policy Sciences; Policy Studies Journal; Political Behavior; Political Studies; Political Studies Review; Public Performance \& Management Review; Race and Social Problems; Social Policy \& Administration; Social Forces; Social Policy and Society; Socio-Economic Review}.
 
 %LANGUAGES
 \section{Langues}

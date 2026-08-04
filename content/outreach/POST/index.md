@@ -13,7 +13,7 @@ summary = "Life beyond COVID-19: What are experts concerned about?"
 # tags = ["Demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://post.parliament.uk/life-beyond-covid-19-what-are-experts-concerned-about//"
+external_link = "https://post.parliament.uk/life-beyond-covid-19-what-are-experts-concerned-about/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

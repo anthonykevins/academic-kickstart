@@ -26,7 +26,7 @@ Below you will find a selection of my work on funded research projects, as well 
   
 Ageing populations, limited infrastructure and staffing shortages, and reduced government funding have all contributed to the long-running crisis in social care in the UK. Further complicating matters, the COVID-19 pandemic and its resulting fiscal challenges have increased public attention to social care while simultaneously decreasing government capacity to finance social programmes. As a result, trade-offs in long-term care policy have become even more complex and contentious. 
 
-This two-year project -- funded by the British Academy/Leverhulme Small Research Grant scheme (SRG23\231164) -- investigates social care preferences under conditions of relative scarcity, looking at how citizens balance trade-offs across different policy dimensions (e.g., resource distribution, financing, service provision). 
+This two-year project -- funded by the British Academy/Leverhulme Small Research Grant scheme (SRG23/231164) -- investigates social care preferences under conditions of relative scarcity, looking at how citizens balance trade-offs across different policy dimensions (e.g., resource distribution, financing, service provision). 
 
 This project therefore tackles the question: how can the Government manage the trade-off between the need for high-quality long-term social care provision and the costs of these measures to citizens in a way that maximises public support (1) among those most likely to be affected by the reforms in the short-term and (2) across a wide range of different party supporters? 
 
