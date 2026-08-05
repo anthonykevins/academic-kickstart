@@ -3,7 +3,9 @@ Latex/Archives
 # IDE specific
 .idea/
 .vscode/
-resources/
+
+# Hugo
+/resources/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -11,4 +13,4 @@ resources/
 # macOS
 .DS_Store
 .AppleDouble
-.LSOverride/public
+.LSOverride
