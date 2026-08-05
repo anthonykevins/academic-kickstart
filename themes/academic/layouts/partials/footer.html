@@ -1,0 +1,158 @@
+<!-- CookieConsent v3 (Orest Bida) — CSS + JS (UMD build) -->
+<link rel="preload" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css"></noscript>
+<script defer src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js"></script>
+
+{{ $isProd := or (eq hugo.Environment "production") (eq (getenv "HUGO_ENV") "production") }}
+{{ if $isProd }}
+<script>
+(function(){
+  // ---- GA4 loader (fires only after analytics consent) ----
+  function loadGA4(){
+    if (window._ga4Loaded) return;
+    window._ga4Loaded = true;
+
+    // Load gtag.js
+    var s = document.createElement('script');
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=G-5QD7DTYJM3';
+    s.async = true;
+    document.head.appendChild(s);
+
+    // Init gtag + Consent Mode defaults (deny until accepted)
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    window.gtag = window.gtag || gtag;
+
+    gtag('consent', 'default', {
+      ad_storage: 'denied',
+      analytics_storage: 'denied',
+      functionality_storage: 'denied',
+      security_storage: 'granted'
+    });
+
+    gtag('js', new Date());
+    gtag('config', 'G-5QD7DTYJM3', { anonymize_ip: true });
+    console.info('[GA4] Loaded after consent');
+  }
+
+  function initConsent(){
+    if (!window.CookieConsent) {
+      console.warn('[CookieConsent] Global not found. Check CDN URL.');
+      return;
+    }
+
+    CookieConsent.run({
+      guiOptions: {
+        consentModal: { layout: 'box', position: 'bottom right', transition: 'slide' },
+        preferencesModal: { layout: 'box', position: 'left', transition: 'slide' }
+      },
+
+      // Define categories (analytics disabled by default)
+      categories: { analytics: { enabled: false, readOnly: false } },
+
+      // Copy
+      language: {
+        default: 'en',
+        translations: {
+          en: {
+            consentModal: {
+              title: 'We use cookies',
+              description: 'This site uses cookies to analyse traffic. You can consent or customize your preferences.',
+              acceptAllBtn: 'Accept all',
+              rejectAllBtn: 'Reject',
+              showPreferencesBtn: 'Manage settings'
+            },
+            preferencesModal: {
+              title: 'Cookie preferences',
+              acceptAllBtn: 'Accept all',
+              rejectAllBtn: 'Reject',
+              savePreferencesBtn: 'Save preferences',
+              closeIconLabel: 'Close modal',
+sections: [
+  {
+    title: 'Analytics cookies',
+    description: 'Used to track site usage via Google Analytics (GA4).',
+    linkedCategory: 'analytics'
+  }
+]
+            }
+          }
+        }
+      },
+
+      // Fires on first consent AND on every page load thereafter
+      onConsent: function(){
+        if (CookieConsent.acceptedCategory('analytics')) {
+          loadGA4();
+          if (window.gtag) gtag('consent', 'update', { analytics_storage: 'granted' });
+        } else {
+          console.info('[GA4] Analytics not consented.');
+        }
+      },
+
+      // React to preference changes immediately
+      onChange: function({ changedCategories }){
+        if (changedCategories && changedCategories.includes('analytics')) {
+          if (CookieConsent.acceptedCategory('analytics')) {
+            loadGA4();
+            if (window.gtag) gtag('consent', 'update', { analytics_storage: 'granted' });
+          } else {
+            console.info('[GA4] Analytics disabled by user.');
+          }
+        }
+      }
+    });
+  }
+
+  // Wait for full page load so the UMD global is definitely available
+  if (document.readyState === 'complete') {
+    initConsent();
+  } else {
+    window.addEventListener('load', initConsent);
+  }
+})();
+</script>
+{{ end }}
+
+<!-- Existing libs -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
+
+<!-- Custom Dropdown Script -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const dropdownToggles = document.querySelectorAll('.dropdown-toggle');
+
+    dropdownToggles.forEach(toggle => {
+      toggle.addEventListener('click', function (e) {
+        e.preventDefault();
+        const menu = this.nextElementSibling;
+        if (menu && menu.classList.contains('dropdown-menu')) {
+          menu.classList.toggle('show');
+        }
+      });
+    });
+
+    document.addEventListener('click', function (e) {
+      dropdownToggles.forEach(toggle => {
+        const menu = toggle.nextElementSibling;
+        if (
+          menu &&
+          menu.classList.contains('dropdown-menu') &&
+          !toggle.contains(e.target) &&
+          !menu.contains(e.target)
+        ) {
+          menu.classList.remove('show');
+        }
+      });
+    });
+  });
+</script>
+
+{{/* Load Academic theme JavaScript */}}
+{{ $js := resources.Get "js/academic.js" }}
+{{ if $js }}
+  {{ $js_bundle := $js | minify | fingerprint }}
+  <script src="{{ $js_bundle.RelPermalink }}" integrity="{{ $js_bundle.Data.Integrity }}"></script>
+{{ end }}

@@ -1,0 +1,6 @@
+{{/* layouts/shortcodes/alert.html */}}
+{{- $type := or (.Get "type") (.Get "theme") -}}
+{{- if not $type }}{{ $type = "info" }}{{ end -}}
+<div class="alert alert-{{ $type }}">
+  {{ .Inner | markdownify }}
+</div>
