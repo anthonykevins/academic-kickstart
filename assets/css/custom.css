@@ -1,0 +1,501 @@
+:root {
+  --accent-color: #00539f;
+  --accent-color-dark: #003e7e;
+  --accent-light: #e6f0fa;
+}
+
+#profile h1,
+#profile h2,
+#profile h3,
+#profile p,
+#profile span {
+  font-size: 1rem;
+  color: var(--body-color);
+  margin-inline: auto;
+}
+
+#profile h2,
+#profile p {
+  line-height: 1.4;
+}
+
+#profile .network-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0; /* explicitly remove flex gap */
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+}
+
+#profile .network-icon a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  font-size: 1.85rem;
+  padding: 0;
+  margin: 0 0px;
+  box-sizing: content-box;
+  color: var(--accent-color);
+  transition: color 0.2s ease-in-out;
+}
+
+#profile .network-icon a:hover {
+  color: var(--accent-color-dark);
+  transform: scale(1.1);
+  background-color: #f0f4f8;
+  border-radius: 50%;
+}
+
+#profile .network-icon i {
+  line-height: 1;
+  font-size: inherit;
+  vertical-align: middle;
+}
+
+.portrait {
+  max-width: 100%;
+  height: auto;
+  width: 250px;
+  object-fit: cover;
+  display: block;
+  border-radius: 6px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, .08);
+}
+
+.navbar-light .navbar-nav > .nav-item > .nav-link {
+  font-size: 1.1rem;
+}
+
+/* Exclude #profile .network-icon a, .dropdown-item a, and .navbar__submenu-link from underline effect */
+a:not(#profile .network-icon a):not(.dropdown-item a):not(.navbar__submenu-link) {
+  color: var(--accent-color);
+  text-decoration: none;
+  background-image: linear-gradient(var(--accent-color), var(--accent-color));
+  background-size: 0% 0.15em;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+  transition: background-size 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+a:not(#profile .network-icon a):not(.dropdown-item a):not(.navbar__submenu-link):hover,
+a:not(#profile .network-icon a):not(.dropdown-item a):not(.navbar__submenu-link):focus {
+  background-size: 100% 0.15em;
+  color: var(--accent-color);
+}
+
+h1 { font-size: 2.25rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.3rem; }
+
+h3 {
+  color: var(--accent-color);
+}
+
+.button,
+.btn {
+  background-color: var(--accent-color);
+  border: none;
+  color: white;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+}
+
+.button:hover,
+.btn:hover {
+  background-color: #003e7e;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.widget-title,
+.home-section h2 {
+  font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 500; /* Moderately bold, but not heavy */
+  font-size: 1.2rem;
+  color: var(--accent-color);
+}
+
+.widget-title,
+.home-section h2,
+.home-section h3 {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-weight: 500;
+  font-size: 1.375rem;
+  letter-spacing: 0.25px;
+  color: var(--accent-color);
+}
+
+#profile h1[itemprop="name"] {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+  letter-spacing: 0.5px;
+}
+
+#profile {
+  animation: fadeIn 0.8s ease-out;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+#profile .portrait,
+#profile .portrait-title {
+  align-self: flex-start;
+}
+
+.home-section {
+  margin: 3rem 0;
+  scroll-margin-top: 70px;
+}
+
+@media (max-width: 768px) {
+  #profile {
+    align-items: center !important;
+    text-align: center !important;
+  }
+
+  #profile > * {
+    align-self: center !important;
+  }
+
+  #profile .network-icon a {
+    width: 42px;
+    height: 42px;
+    font-size: 1.75rem;
+    margin: 0 2px;
+    transition: color 0.2s ease, transform 0.15s ease-in-out;
+  }
+
+  #profile .network-icon {
+    margin-bottom: 1rem;
+  }
+
+  #profile .portrait-title {
+    align-self: center;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.main-content {
+  max-width: 80ch;
+  margin: 0 auto;
+}
+
+a:focus-visible {
+  outline: 2px solid var(--accent-color);
+  outline-offset: 2px;
+}
+
+body {
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body, h1, h2, h3, h4, h5 {
+  text-rendering: optimizeLegibility;
+}
+
+.button:focus,
+.btn:focus {
+  outline: 2px dashed var(--accent-color);
+  outline-offset: 3px;
+}
+
+.site-footer {
+  background-color: #ffffff;
+  border-top: 1px solid #e0e0e0;
+  padding: 2rem 1rem;
+  font-size: 0.9rem;
+  color: #555;
+  text-align: center;
+}
+
+.back-to-top {
+  bottom: 1rem;
+  right: 1rem;
+  opacity: 0.5;
+  transition: opacity 0.2s ease;
+}
+
+.back-to-top:hover {
+  opacity: 1;
+}
+
+.card-desription > p {
+  font-size: 1rem !important;
+  margin-top: 0.25rem;
+}
+
+.card-text h4 {
+  font-size: 1.1rem;
+  padding-top: 0.5rem;
+  margin-top: 0.25rem;
+  font-weight: 600;
+}
+
+.card {
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  transition: box-shadow 0.3s ease;
+  background-color: #fafafa;
+}
+
+.card:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+ul.ul-interests li,
+ul.ul-education li {
+  font-size: 1rem;
+}
+
+.portrait-title {
+  text-align: center;
+}
+
+.project-section {
+  padding: 1.5rem;
+  background: #f9f9f9;
+  border-radius: 6px;
+  margin-bottom: 2rem;
+}
+
+.project-section h2 {
+  font-size: 1.75rem;
+  margin-bottom: 0.75rem;
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 0.25rem;
+}
+
+.project-section img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.teaching-section {
+  border-radius: 6px;
+  margin-bottom: 4rem;
+}
+
+.teaching-section h2 {
+  font-size: 1.5rem;
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 0.25rem;
+}
+
+.teaching-section ul li {
+  line-height: 1.75;
+}
+
+
+.pub-section {
+  border-radius: 6px;
+  margin-bottom: 4rem;
+}
+
+.pub-section h2 {
+  font-size: 1.5rem;
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 0.25rem;
+}
+
+.pub-section ul li {
+  line-height: 1.75;
+}
+.title-line-break span {
+  display: block;
+}
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  min-width: 10rem;
+  padding: 0.5rem 0;
+  margin: 0;
+  font-size: 1rem;
+  text-align: left;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,.15);
+  border-radius: 0.25rem;
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,.175);
+}
+
+.dropdown-menu.show {
+  display: block;
+}
+
+h2[id], h3[id], h4[id] {
+  scroll-margin-top: 100px;
+}
+
+.outreach-scroll .projects-container {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 1.5rem;
+  padding-bottom: 1rem;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.outreach-scroll .project-card {
+  flex: 0 0 auto;
+  width: fit-content;
+  min-width: 0;
+  scroll-snap-align: start;
+}
+
+.scroll-btn {
+  display: none;
+}
+
+.outreach-scroll-wrapper {
+  position: relative;
+  z-index: 0;
+}
+
+.outreach-scroll .scroll-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 100px;
+  transform: translateY(-50%);
+  z-index: 2;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  font-size: 1rem;
+  color: var(--accent-color);
+  z-index: 10;
+}
+
+.outreach-scroll .scroll-btn-left {
+  left: -6px;
+}
+
+.outreach-scroll .scroll-btn-right {
+  right: -6px;
+}
+
+.outreach-scroll .card-text {
+  width: 0;
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+#profile h1[itemprop="name"] {
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#profile .portrait-title h3:nth-of-type(2),
+#profile .portrait-title h3:nth-of-type(3) {
+  color: rgba(0, 0, 0, 0.55);
+}
+
+.section-heading h2 {
+  margin-top: 0;
+}
+
+/* ============================================================
+   Added on top of the restored original file above.
+   Checked against every rule above for conflicts before adding.
+   ============================================================ */
+
+/* Nav bar overflow fix.
+   Bug: at larger root font sizes (e.g. browser zoom or OS text
+   scaling pushing root font-size past ~24px), the menu items run
+   off the right edge of the navbar instead of wrapping. Confirmed
+   on localhost:1313 at font-size: 28px. */
+.navbar-nav {
+  flex-wrap: wrap;
+  row-gap: 4px;
+}
+.navbar-collapse {
+  flex-grow: 0;
+  flex-shrink: 1;
+}
+
+/* Wider content column on large screens.
+   .container is capped at Bootstrap's 1140px default with no
+   override elsewhere in this file, leaving a large empty margin
+   on wide monitors. This widens it moderately (not full-bleed) on
+   screens that have the room. */
+@media screen and (min-width: 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+}
+
+/* Bullet marker recolor: Research Interests / Specialist Skills. */
+ul.ul-interests li::marker,
+ul.ul-education li::marker {
+  color: var(--accent-color);
+}
+
+/* Same marker recolor extended to Teaching and Projects. */
+.teaching-section li::marker,
+.project-section li::marker,
+.article-style li::marker {
+  color: var(--accent-color);
+}
+
+/* Bullet SHAPE unification: hollow ring (list-style: circle)
+   everywhere, matching the homepage's Research Interests /
+   Specialist Skills lists. Teaching and Projects were using the
+   browser default (list-style: disc, a solid dot) even after the
+   marker recolor above, so the same color was rendering as two
+   visibly different bullet styles. Confirmed on localhost that
+   .teaching-section and .article-style lists use "disc" natively;
+   this overrides both to "circle" to match. */
+.teaching-section li,
+.article-style li,
+.project-section li {
+  list-style-type: circle;
+}
+
+/* Publications page: these "bullets" are not CSS list markers at
+   all -- they're literal "◦" characters typed directly into
+   content/publications/_index.md and _index.fr.md, e.g.
+   "<br>◦ Winner of the ... Prize". ::marker/list-style can't
+   reach plain text, so this only works once each "◦" is wrapped
+   in a span in the content file:
+     find:    ◦
+     replace: <span class="pub-note-marker">◦</span>
+   (safe as a global replace in both files -- "◦" isn't used
+   anywhere else in either one). This rule colors the wrapped
+   span once that edit is made; it has no effect until then.
+
+   margin-right replaces the literal space that the find/replace
+   above ate (it consumed "◦ " -- bullet plus space -- and left
+   nothing after the closing tag), so spacing no longer depends on
+   a stray space surviving in the content file. */
+.pub-note-marker {
+  color: var(--accent-color);
+  margin-right: 0.35em;
+}
