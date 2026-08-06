@@ -23,6 +23,7 @@ Vous trouverez ci-dessous une vue d’ensemble de mes expériences en enseigneme
 
 <div class="teaching-section">
 
+<span class="frag-anchor" id="frag-current-teaching"></span>
 <h2>Enseignement actuel/récent</h2>
 
 <ul>
@@ -36,6 +37,7 @@ Vous trouverez ci-dessous une vue d’ensemble de mes expériences en enseigneme
 
 <div class="teaching-section">
 
+<span class="frag-anchor" id="frag-past-teaching"></span>
 <h2>Enseignement précédent</h2>
 
 <ul>

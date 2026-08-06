@@ -19,6 +19,7 @@ Cette section offre une présentation de mes projets de recherche actuels et pas
 
 &nbsp;
 
+<span class="frag-anchor" id="frag-social-care-priorities"></span>
 ## Les arbitrages en matière de soins de longue durée
 
 <img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/downing_heading.webp" alt="Photo d'un panneau de Downing Street" loading="lazy" decoding="async" title="Photo of a Downing Street sign, courtesy of Rui Chamberlain on Unsplash"/>
@@ -31,6 +32,7 @@ L’objectif est de répondre à la question suivante : comment le gouvernement 
 
 &nbsp;
 
+<span class="frag-anchor" id="frag-differentiated-representation"></span>
 ## Préférences pour la représentation différentielle
 
 <img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/consultation_heading.webp" alt="Photo de mains levées" loading="lazy" decoding="async" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
@@ -47,6 +49,7 @@ Pour consulter d'autres études liées à ce projet, veuillez me contacter par [
 
 &nbsp;
 
+<span class="frag-anchor" id="frag-universalism-welfare-state"></span>
 ## L'universalisme et l'État-providence
 
 <img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/universalism_heading.webp" alt="Photo de graffiti" loading="lazy" decoding="async" title="Photo of graffiti, courtesy of Etienne Girardet on Unsplash"/>
@@ -63,6 +66,7 @@ Une partie de cette recherche est basée sur un sondage inédit, effectué aux �
 
 &nbsp;
 
+<span class="frag-anchor" id="frag-insiders-outsiders"></span>
 ## Les inclus et les exclus de l'État-providence
 
 <img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/dualism_heading.webp" alt="Photo d'un quai de gare" loading="lazy" decoding="async" title="Photo of a station platform, courtesy of Suad Kamardeen on Unsplash"/>

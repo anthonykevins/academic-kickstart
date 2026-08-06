@@ -65,7 +65,26 @@
       {{- $objectID = (md5 .RelPermalink) -}}
     {{- end -}}
 
-    {{- $index = $index | append (dict "objectID" $objectID "date" .Date.UTC.Unix "publishdate" .PublishDate "lastmod" .Lastmod.UTC.Unix "expirydate" .ExpiryDate.UTC.Unix "lang" .Lang "permalink" $permalink "relpermalink" $rel_permalink "title" $title "summary" (plainify $desc) "content" .Plain "authors" $authors "kind" .Kind "type" .Type "section" .Section "tags" .Params.Tags "categories" .Params.Categories) -}}
+    {{- /* Some pages (Publications, Projects, Teaching) mark internal jump
+         points with invisible <span class="frag-anchor" id="..."></span>
+         markers in their content, so search results can deep-link straight
+         to the matched subsection/citation instead of just the page top.
+         Split the rendered HTML on those markers to build a list of
+         {id, text} fragments; pages with no markers just get an empty list,
+         so this is a no-op for every other page. */ -}}
+    {{- $fragments := slice -}}
+    {{- $marked := replaceRE `<span class="frag-anchor" id="([a-zA-Z0-9_-]+)"></span>` "\x01${1}\x02" .Content -}}
+    {{- $parts := split $marked "\x01" -}}
+    {{- range $i, $part := $parts -}}
+      {{- if gt $i 0 -}}
+        {{- $bits := split $part "\x02" -}}
+        {{- $fid := index $bits 0 -}}
+        {{- $body := index $bits 1 -}}
+        {{- $fragments = $fragments | append (dict "id" $fid "text" ($body | plainify)) -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $index = $index | append (dict "objectID" $objectID "date" .Date.UTC.Unix "publishdate" .PublishDate "lastmod" .Lastmod.UTC.Unix "expirydate" .ExpiryDate.UTC.Unix "lang" .Lang "permalink" $permalink "relpermalink" $rel_permalink "title" $title "summary" (plainify $desc) "content" .Plain "authors" $authors "kind" .Kind "type" .Type "section" .Section "tags" .Params.Tags "categories" .Params.Categories "fragments" $fragments) -}}
 
   {{- end -}}
 {{- end -}}

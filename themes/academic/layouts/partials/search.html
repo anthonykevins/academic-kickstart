@@ -36,7 +36,14 @@
   <div class="search-hit" id="hit-{{"{{"}}key{{"}}"}}">
     <div class="search-hit-content">
       <div class="search-hit-name-wrapper">
-        <a href="{{"{{"}}relpermalink{{"}}"}}" class="search-hit-name">
+        {{/* href is intentionally left as "#" here and set via .attr() in
+             academic-search.js instead of the {{...}} string-replace used
+             for the other fields below -- Hugo's HTML minifier percent-
+             encodes literal "{{...}}" placeholders inside href specifically
+             (it treats it as a URL and escapes the unsafe brace characters),
+             so a string-replace placeholder there can never survive to be
+             filled in client-side. */}}
+        <a href="#" class="search-hit-name">
           <div>{{"{{"}}title{{"}}"}}</div>
         </a>
         <span class="search-hit-type">{{"{{"}}type{{"}}"}}</span>

@@ -314,19 +314,25 @@
   * --------------------------------------------------------------------------- */
 
   function toggleDarkMode() {
+    // header.html only outputs the hl-light/hl-dark highlight.js <link> tags
+    // when syntax highlighting is enabled for the current page (several
+    // pages set highlight: false and have neither). Guard every access so a
+    // missing link can't throw and silently abort the rest of this function.
+    let $hlLight = $('link[title=hl-light]');
+    let $hlDark = $('link[title=hl-dark]');
     if ($('body').hasClass('dark')) {
       $('body').css({opacity: 0, visibility: 'visible'}).animate({opacity: 1}, 500);
       $('body').removeClass('dark');
-      $('link[title=hl-light]')[0].disabled = false;
-      $('link[title=hl-dark]')[0].disabled = true;
+      if ($hlLight.length) $hlLight[0].disabled = false;
+      if ($hlDark.length) $hlDark[0].disabled = true;
       $('.js-dark-toggle i').removeClass('fa-sun');
       $('.js-dark-toggle i').addClass('fa-moon');
       localStorage.setItem('dark_mode', '0');
     } else {
       $('body').css({opacity: 0, visibility: 'visible'}).animate({opacity: 1}, 500);
       $('body').addClass('dark');
-      $('link[title=hl-light]')[0].disabled = true;
-      $('link[title=hl-dark]')[0].disabled = false;
+      if ($hlLight.length) $hlLight[0].disabled = true;
+      if ($hlDark.length) $hlDark[0].disabled = false;
       $('.js-dark-toggle i').removeClass('fa-moon');
       $('.js-dark-toggle i').addClass('fa-sun');
       localStorage.setItem('dark_mode', '1');
@@ -344,16 +350,21 @@
       default_mode = 1;
     }
     let dark_mode = parseInt(localStorage.getItem('dark_mode') || default_mode);
+    // Same guard as toggleDarkMode() above -- these <link> tags don't exist
+    // on pages with highlight: false, and this block runs unconditionally
+    // on every page load, so it threw on every one of those pages.
+    let $hlLight = $('link[title=hl-light]');
+    let $hlDark = $('link[title=hl-dark]');
     if (dark_mode) {
       $('body').addClass('dark');
-      $('link[title=hl-light]')[0].disabled = true;
-      $('link[title=hl-dark]')[0].disabled = false;
+      if ($hlLight.length) $hlLight[0].disabled = true;
+      if ($hlDark.length) $hlDark[0].disabled = false;
       $('.js-dark-toggle i').removeClass('fa-moon');
       $('.js-dark-toggle i').addClass('fa-sun');
     } else {
       $('body').removeClass('dark');
-      $('link[title=hl-light]')[0].disabled = false;
-      $('link[title=hl-dark]')[0].disabled = true;
+      if ($hlLight.length) $hlLight[0].disabled = false;
+      if ($hlDark.length) $hlDark[0].disabled = true;
       $('.js-dark-toggle i').removeClass('fa-sun');
       $('.js-dark-toggle i').addClass('fa-moon');
     }

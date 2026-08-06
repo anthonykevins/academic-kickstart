@@ -20,6 +20,7 @@ Below you will find a selection of my work on funded research projects, as well 
 
 &nbsp;
 
+<span class="frag-anchor" id="frag-social-care-priorities"></span>
 ## Balancing Social Care Priorities
 
 <img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/downing_heading.webp" alt="Photo of a Downing Street sign" loading="lazy" decoding="async" title="Photo of a Downing Street sign, courtesy of Rui Chamberlain on Unsplash"/>
@@ -34,6 +35,7 @@ This project has involved extensive data collection (to view some preliminary re
 
 &nbsp;
 
+<span class="frag-anchor" id="frag-differentiated-representation"></span>
 ## Preferences for Differentiated Representation
 
 <img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/consultation_heading.webp" alt="Photo of raised hands" loading="lazy" decoding="async" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
@@ -51,6 +53,7 @@ My publications on this topic include research on:
 
 &nbsp;
 
+<span class="frag-anchor" id="frag-universalism-welfare-state"></span>
 ## Universalism and the Welfare State
 
 <img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/universalism_heading.webp" alt="Photo of graffiti" loading="lazy" decoding="async" title="Photo of graffiti, courtesy of Etienne Girardet on Unsplash"/>
@@ -68,6 +71,7 @@ My published work on the subject has examined:
 
 &nbsp;
 
+<span class="frag-anchor" id="frag-insiders-outsiders"></span>
 ## Insiders and Outsiders
 
 <img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/dualism_heading.webp" alt="Photo of a train station platform" loading="lazy" decoding="async" title="Photo of a station platform, courtesy of Suad Kamardeen on Unsplash"/>

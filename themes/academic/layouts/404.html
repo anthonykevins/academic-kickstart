@@ -1,6 +1,14 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
-<div class="container">
+{{/* The fixed navbar is 100px tall (academic.css: .navbar min-height:
+     100px !important) but body's global offset for it is only 70px
+     (academic.css: body margin-top: 70px), a 30px shortfall baked into
+     the theme. Normal content pages don't show this because page_header.html
+     adds its own extra top padding on top of that offset -- this page has
+     no such wrapper, so it needs the padding added directly. pt-5 (3rem)
+     was verified empirically against localhost to clear the navbar with
+     comfortable margin, matching normal pages' spacing. */}}
+<div class="container pt-5">
 
   <h1>{{ i18n "page_not_found" }}</h1>
   <p>{{ i18n "404_recommendations" }}</p>

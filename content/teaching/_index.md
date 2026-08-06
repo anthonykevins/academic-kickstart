@@ -24,6 +24,7 @@ Below you will find a brief overview of courses that I have taught on. For more 
 
 <div class="teaching-section">
 
+<span class="frag-anchor" id="frag-current-teaching"></span>
 <h2>Current/Recent Teaching</h2>
 
 <ul>
@@ -37,6 +38,7 @@ Below you will find a brief overview of courses that I have taught on. For more 
 
 <div class="teaching-section">
 
+<span class="frag-anchor" id="frag-past-teaching"></span>
 <h2>Past Teaching</h2>
 
 <ul>

@@ -164,16 +164,41 @@ function parseResults(query, results) {
     }
 
     // Parse template.
+    // Note: relpermalink is deliberately NOT filled in via the {{...}}
+    // string-replace above -- Hugo's HTML minifier treats href as a URL
+    // attribute and percent-encodes the literal "{{relpermalink}}"
+    // placeholder at build time (into %7b%7brelpermalink%7d%7d), before
+    // this script ever runs, so the regex-based render() below can never
+    // find and replace it. Every other placeholder here is plain text (not
+    // inside a URL-typed attribute), so it's unaffected and can go through
+    // render() as normal. The href is set directly via .attr() instead,
+    // after the template markup is turned into real DOM elements.
     let templateData = {
       key: key,
       title: value.item.title,
       type: content_key,
       date: dateLabel,
-      relpermalink: value.item.relpermalink,
       snippet: snippet
     };
     let output = render(template, templateData);
-    $('#search-hits').append(output);
+    let $output = $(output);
+
+    // Deep-link into the matched subsection/citation when possible. Some
+    // pages (Publications, Projects, Teaching) mark internal jump points as
+    // `fragments` in the index -- {id, text} pairs generated at build time
+    // from invisible anchor spans in the content. If the query text shows up
+    // inside one of those fragments, link straight to it (e.g. searching
+    // "input" jumps to that one citation on the Publications page, rather
+    // than just the top of a 40-citation list) instead of the bare page URL.
+    let href = value.item.relpermalink;
+    if (query && value.item.fragments && value.item.fragments.length) {
+      let hitFragment = value.item.fragments.find(function(f) {
+        return f.text && f.text.toLowerCase().indexOf(query.toLowerCase()) > -1;
+      });
+      if (hitFragment) href = value.item.relpermalink + '#' + hitFragment.id;
+    }
+    $output.find('.search-hit-name').attr('href', href);
+    $('#search-hits').append($output);
 
     // Highlight search terms in result.
     $.each( snippetHighlights, function(hlKey, hlValue){
