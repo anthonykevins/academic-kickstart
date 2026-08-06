@@ -21,7 +21,7 @@ Cette section offre une présentation de mes projets de recherche actuels et pas
 
 ## Les arbitrages en matière de soins de longue durée
 
-<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="/img/projects/downing_heading.webp" alt="Photo d'un panneau de Downing Street" loading="lazy" decoding="async" title="Photo of a Downing Street sign, courtesy of Rui Chamberlain on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/downing_heading.webp" alt="Photo d'un panneau de Downing Street" loading="lazy" decoding="async" title="Photo of a Downing Street sign, courtesy of Rui Chamberlain on Unsplash"/>
   
 Au Royaume-Uni, les défis liés au vieillissement de la population, au manque d’infrastructures et de personnel, ainsi qu’à la diminution du financement public ont contribué à une crise durable dans le secteur des soins de longue durée. La pandémie de COVID-19 et les pressions budgétaires qui en ont découlé ont encore aggravé la situation : elles ont accru la visibilité du problème tout en réduisant la capacité de l’État à y répondre.
 
@@ -33,7 +33,7 @@ L’objectif est de répondre à la question suivante : comment le gouvernement 
 
 ## Préférences pour la représentation différentielle
 
-<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="/img/projects/consultation_heading.webp" alt="Photo de mains levées" loading="lazy" decoding="async" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/consultation_heading.webp" alt="Photo de mains levées" loading="lazy" decoding="async" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
 
 La représentation équitable est le fondement de la démocratie représentative. Cela dit, les citoyens y sont-ils réellement favorables ? Comme on peut le constater en observant les débats houleux sur l’influence de certains groupes sociaux, les gens peuvent avoir des positions très diverses sur la représentation différentielle (c’est-à-dire l’influence inégale des citoyens sur le processus politique). Une personne peut croire, par exemple, qu’en matière de politiques d’intégration, les immigrés récents méritent d’avoir une influence accrue (à cause de leur degré d’affectation), une influence diminuée (à cause de leurs intérêts particuliers), ou une influence égale à celle des autres. De surcroît, le même citoyen pourrait simultanément avoir des préférences très diverses quant à d’autres groupes sociaux ou domaines politiques (par exemple, au sujet des banquiers et de la législation financière, ou des retraités et des services aux aînés). Financé par l'Union européenne par le biais d'une bourse Marie Skłodowska-Curie (« Individual Fellowship »), ce projet explore donc les attitudes envers l’influence de groupes spécifiques sur les enjeux qui les préoccupent.
 
@@ -49,7 +49,7 @@ Pour consulter d'autres études liées à ce projet, veuillez me contacter par [
 
 ## L'universalisme et l'État-providence
 
-<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="/img/projects/universalism_heading.webp" alt="Photo de graffiti" loading="lazy" decoding="async" title="Photo of graffiti, courtesy of Etienne Girardet on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/universalism_heading.webp" alt="Photo de graffiti" loading="lazy" decoding="async" title="Photo of graffiti, courtesy of Etienne Girardet on Unsplash"/>
 
 À quel point les citoyens sont-ils attachés à l’universalisme, à la redistribution et à l’État-providence ? Quels sont les facteurs qui influencent cet attachement ? Par mon affiliation au projet UNIWEL (« Universalism and the Welfare State » ) à l’Université d’Aarhus, je me suis penché sur divers sujets liés à ce thème, incluant :
 
@@ -65,7 +65,7 @@ Une partie de cette recherche est basée sur un sondage inédit, effectué aux �
 
 ## Les inclus et les exclus de l'État-providence
 
-<img style="margin-top: 0.5rem; margin-bottom: 0rem" align="top" src="/img/projects/dualism_heading.webp" alt="Photo d'un quai de gare" loading="lazy" decoding="async" title="Photo of a station platform, courtesy of Suad Kamardeen on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/dualism_heading.webp" alt="Photo d'un quai de gare" loading="lazy" decoding="async" title="Photo of a station platform, courtesy of Suad Kamardeen on Unsplash"/>
 
 Qui mérite notre appui collectif ? Les réponses possibles à cette question ont varié radicalement à travers le temps, les pays et les domaines politiques. Alors que d'un côté, plusieurs systèmes de protection sociale se sont caractérisés par des lacunes dans leur couverture, la façon par laquelle les gouvernements ont étendu l'accès aux allocations varie grandement. D'un autre côté, ce processus a toutefois été accompagné d’efforts pour restreindre l'accès, afin de décourager la dépendance et de limiter les dépenses sociales.
 

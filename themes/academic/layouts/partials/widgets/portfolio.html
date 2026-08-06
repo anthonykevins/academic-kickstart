@@ -66,6 +66,9 @@
       {{ end }}
     {{ end }}
 
+    {{ if eq $st.Params.design.view 3 }}<div class="outreach-scroll-wrapper">
+    <button type="button" class="scroll-btn scroll-btn-left" aria-label="Scroll left" onclick="var c=this.closest('.outreach-scroll-wrapper').querySelector('.projects-container'); c.scrollBy({left: -c.clientWidth*0.8, behavior:'smooth'});">&#8249;</button>{{ end }}
+
     <div class="{{ if or $st.Params.content.filter_button (eq $st.Params.design.view 3) }}isotope projects-container{{end}} {{if eq $st.Params.design.view 3}}js-layout-masonry{{else}}row js-layout-row{{end}} {{ if eq $st.Params.design.view 5 }}project-showcase mt-5{{end}}">
       {{ range $idx, $item := where $.Site.RegularPages "Type" $items_type }}
         {{ $link := $item.RelPermalink }}
@@ -83,6 +86,9 @@
         {{ end }}
       {{ end }}
     </div>
+
+    {{ if eq $st.Params.design.view 3 }}<button type="button" class="scroll-btn scroll-btn-right" aria-label="Scroll right" onclick="var c=this.closest('.outreach-scroll-wrapper').querySelector('.projects-container'); c.scrollBy({left: c.clientWidth*0.8, behavior:'smooth'});">&#8250;</button>
+    </div>{{ end }}
 
   </div>
 </div>

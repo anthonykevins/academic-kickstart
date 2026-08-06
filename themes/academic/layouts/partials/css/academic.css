@@ -22,8 +22,6 @@ html {
 }
 
 #aboutme{
-  padding-top: 40px;
-  margin-top: -40px;
   scroll-snap-align: end;
 }
 

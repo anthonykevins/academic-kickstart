@@ -156,3 +156,34 @@ sections: [
   {{ $js_bundle := $js | minify | fingerprint }}
   <script src="{{ $js_bundle.RelPermalink }}" integrity="{{ $js_bundle.Data.Integrity }}"></script>
 {{ end }}
+
+{{/* Load built-in (Fuse-based) search: CDN libs, then the bridge variables
+     academic-search.js expects, then the search script itself. */}}
+{{ if eq .Site.Params.search.engine 1 }}
+  {{ $jsAssets := .Site.Data.assets.js }}
+  <script src="{{ printf $jsAssets.fuse.url $jsAssets.fuse.version }}" integrity="{{ $jsAssets.fuse.sri }}" crossorigin="anonymous"></script>
+  <script src="{{ printf $jsAssets.mark.url $jsAssets.mark.version }}" integrity="{{ $jsAssets.mark.sri }}" crossorigin="anonymous"></script>
+  <script>
+    var search_index_filename = "{{ "index.json" | relLangURL }}";
+    var i18n = {
+      results: "{{ i18n "search_results" }}",
+      no_results: "{{ i18n "search_no_results" }}"
+    };
+    var content_type = {
+      "publication": "{{ i18n "publication" }}",
+      "publications": "{{ i18n "publications" }}",
+      "project": "{{ i18n "projects" }}",
+      "projects": "{{ i18n "projects" }}",
+      "teaching": "{{ if eq .Site.Language.Lang "fr" }}Enseignement{{ else }}Teaching{{ end }}",
+      "talk": "{{ i18n "talks" }}",
+      "post": "{{ i18n "posts" }}",
+      "outreach": "{{ if eq .Site.Language.Lang "fr" }}Dans les médias{{ else }}Impact & Engagement{{ end }}",
+      "author": "{{ if eq .Site.Language.Lang "fr" }}Profil{{ else }}Profile{{ end }}"
+    };
+  </script>
+  {{ $searchJs := resources.Get "js/academic-search.js" }}
+  {{ if $searchJs }}
+    {{ $searchJsBundle := $searchJs | minify | fingerprint }}
+    <script src="{{ $searchJsBundle.RelPermalink }}" integrity="{{ $searchJsBundle.Data.Integrity }}"></script>
+  {{ end }}
+{{ end }}

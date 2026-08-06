@@ -1,4 +1,5 @@
 +++
+title = "Anthony Kevins"
 # Display name
 name = "Anthony Kevins"
 
@@ -23,14 +24,14 @@ bio = ""
 email = "a.kevins@lboro.ac.uk"
 
   # List (academic) interests or hobbies
-interests = ["Opinion publique", "Représentation démocratique", "Inégalités", "Politiques sociales", "Précarité sur le marché du travail <br /> <br />"]
+interests = ["Opinion publique", "Représentation démocratique", "Inégalités", "Politiques sociales", "Précarité sur le marché du travail"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
- education = ["Logiciels : Stata, R, Git, Qualtrics, LaTeX, Markdown.", "Langues : anglais (langue maternelle), français (niveau autonome - C1), italien (niveau avancé - B2). <br /> <br />"]
+ education = ["Logiciels : Stata, R, Git, Qualtrics, LaTeX, Markdown.", "Langues : anglais (langue maternelle), français (niveau autonome - C1), italien (niveau avancé - B2)."]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

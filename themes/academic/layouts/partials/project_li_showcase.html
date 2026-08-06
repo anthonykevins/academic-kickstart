@@ -49,7 +49,7 @@
       {{ with $resource }}
       {{ $image := .Resize "540x" }}
       {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
-        <img src="{{ $image.RelPermalink }}" itemprop="image" alt="" loading="lazy" decoding="async">
+        <img src="{{ $image.RelPermalink }}" itemprop="image" alt="{{ $item.Title | plainify }}" loading="lazy" decoding="async">
       {{if $do_link}}</a>{{end}}
       {{end}}
     </div>

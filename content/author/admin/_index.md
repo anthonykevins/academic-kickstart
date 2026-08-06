@@ -1,4 +1,5 @@
 +++
+title = "Anthony Kevins"
 
 # Display name
 name = "Anthony Kevins"
@@ -31,7 +32,7 @@ interests = ["Public Opinion", "Representation", "Inequality", "Social Policy", 
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
- education = ["Methods: Survey Design; Data Visualisation; Quantitative Data Analysis.", "Software/Coding: Git; LaTeX; Markdown; Qualtrics; R; Stata; Visual Studio Code.", "Foreign Languages: French (Full Professional Proficiency); Italian (Limited Working Proficiency). <br /> <br />"]
+ education = ["Methods: Survey Design; Data Visualisation; Quantitative Data Analysis.", "Software/Coding: Git; LaTeX; Markdown; Qualtrics; R; Stata; Visual Studio Code.", "Foreign Languages: French (Full Professional Proficiency); Italian (Limited Working Proficiency)."]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

@@ -4,6 +4,16 @@
   --accent-light: #e6f0fa;
 }
 
+.search-hit-date {
+  color: rgba(0, 0, 0, .4);
+  font-size: .8rem;
+  margin-left: .5rem;
+}
+
+.search-hit-date:empty {
+  display: none;
+}
+
 #profile h1,
 #profile h2,
 #profile h3,
@@ -67,7 +77,7 @@
 }
 
 .navbar-light .navbar-nav > .nav-item > .nav-link {
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 /* Exclude #profile .network-icon a, .dropdown-item a, and .navbar__submenu-link from underline effect */
@@ -149,7 +159,7 @@ h3 {
 }
 
 .home-section {
-  margin: 3rem 0;
+  margin: 8px 0;
   scroll-margin-top: 70px;
 }
 
@@ -361,8 +371,7 @@ h2[id], h3[id], h4[id] {
 
 .outreach-scroll .project-card {
   flex: 0 0 auto;
-  width: fit-content;
-  min-width: 0;
+  width: min(550px, 85vw);
   scroll-snap-align: start;
 }
 

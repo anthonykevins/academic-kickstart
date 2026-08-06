@@ -14,7 +14,16 @@ let fuseOptions = {
   shouldSort: true,
   includeMatches: true,
   tokenize: true,
-  threshold: 0.0,
+  // A threshold of exactly 0.0 requires a mathematically perfect score, but
+  // Fuse's scoring always carries a small nonzero location-proximity term
+  // even for a true exact substring match -- so with location:0 this could
+  // only ever match text sitting right at the very start of a field. Longer
+  // fields like `content` (e.g. the full Publications page) never matched
+  // at all as a result. 0.1 keeps matching effectively exact/near-exact
+  // (confirmed real substring matches like "input" now hit, while a
+  // nonsense query like "zzznonexistentqueryxyz" still returns nothing)
+  // while no longer requiring the match to be at position 0.
+  threshold: 0.1,
   location: 0,
   distance: 100,
   maxPatternLength: 32,
@@ -68,9 +77,31 @@ function initSearch(force, fuse) {
   updateURL(newURL);
 }
 
+// Fuse matches raw character substrings with no concept of word boundaries,
+// so a query like "test" will match inside "latest" -- tokenize:true only
+// splits the query, not the text being searched. Restricting matches to
+// word-start boundaries removes that false-positive class while still
+// allowing legitimate prefix typing (e.g. "wel" finding "welfare" as the
+// user types), since a boundary check anchors on the start of a word, not
+// the whole word.
+let searchableKeys = ['title', 'summary', 'authors', 'content', 'tags', 'categories'];
+function escapeRegExp(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+function matchesWordBoundary(query, item) {
+  let re = new RegExp('\\b' + escapeRegExp(query), 'i');
+  return searchableKeys.some(function(key) {
+    let value = item[key];
+    if (Array.isArray(value)) value = value.join(' ');
+    return value && re.test(value);
+  });
+}
+
 // Perform search.
 function searchAcademic(query, fuse) {
-  let results = fuse.search(query);
+  let results = fuse.search(query).filter(function(r) {
+    return matchesWordBoundary(query, r.item);
+  });
   // console.log({"results": results});
 
   if (results.length > 0) {
@@ -84,25 +115,34 @@ function searchAcademic(query, fuse) {
 // Parse search results.
 function parseResults(query, results) {
   $.each( results, function(key, value) {
-    let content = value.item.content;
+    let content = value.item.content || "";
+    let summary = value.item.summary || "";
     let snippet = "";
     let snippetHighlights = [];
 
-    if ( fuseOptions.tokenize ) {
+    // Prefer a snippet centered on wherever the query text actually appears
+    // in the full content, so results show relevant context rather than
+    // always showing the start of the page. (Fuse's own match indices
+    // aren't reliable here since `tokenize` matching doesn't map cleanly
+    // back to a single substring position.)
+    let matchIndex = query ? content.toLowerCase().indexOf(query.toLowerCase()) : -1;
+    if (matchIndex > -1) {
+      let start = (matchIndex - summaryLength > 0) ? matchIndex - summaryLength : 0;
+      let end = (matchIndex + query.length + summaryLength < content.length) ? matchIndex + query.length + summaryLength : content.length;
+      snippet = content.substring(start, end);
       snippetHighlights.push(query);
-    } else {
-      $.each( value.matches, function(matchKey, matchValue) {
-        if (matchValue.key == "content") {
-          let start = (matchValue.indices[0][0]-summaryLength>0) ? matchValue.indices[0][0]-summaryLength : 0;
-          let end = (matchValue.indices[0][1]+summaryLength<content.length) ? matchValue.indices[0][1]+summaryLength : content.length;
-          snippet += content.substring(start, end);
-          snippetHighlights.push(matchValue.value.substring(matchValue.indices[0][0], matchValue.indices[0][1]-matchValue.indices[0][0]+1));
-        }
-      });
     }
 
+    // If the query wasn't found verbatim in the body content (a fuzzy/
+    // tokenized match, or a page with little body text -- e.g. an outreach
+    // card that's mostly just a title + external link), fall back to the
+    // page's own summary field, then to the start of its content.
+    if (snippet.length < 1 && summary.length > 0) {
+      snippet = summary;
+      if (query) snippetHighlights.push(query);
+    }
     if (snippet.length < 1) {
-      snippet += content.substring(0, summaryLength*2);
+      snippet = content.substring(0, summaryLength*2);
     }
 
     // Load template.
@@ -114,11 +154,21 @@ function parseResults(query, results) {
       content_key = content_type[content_key];
     }
 
+    // Format the page date (if any) as a plain year for a quick recency cue.
+    let dateLabel = "";
+    if (value.item.date) {
+      let d = new Date(value.item.date * 1000);
+      if (!isNaN(d.getTime()) && d.getFullYear() > 1970) {
+        dateLabel = d.getFullYear().toString();
+      }
+    }
+
     // Parse template.
     let templateData = {
       key: key,
       title: value.item.title,
       type: content_key,
+      date: dateLabel,
       relpermalink: value.item.relpermalink,
       snippet: snippet
     };

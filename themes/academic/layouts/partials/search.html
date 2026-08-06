@@ -30,3 +30,20 @@
     </section>
   </div>
 </aside>
+
+{{ if eq $.Site.Params.search.engine 1 }}
+<script type="text/template" id="search-hit-fuse-template">
+  <div class="search-hit" id="hit-{{"{{"}}key{{"}}"}}">
+    <div class="search-hit-content">
+      <div class="search-hit-name-wrapper">
+        <a href="{{"{{"}}relpermalink{{"}}"}}" class="search-hit-name">
+          <div>{{"{{"}}title{{"}}"}}</div>
+        </a>
+        <span class="search-hit-type">{{"{{"}}type{{"}}"}}</span>
+        <span class="search-hit-date">{{"{{"}}date{{"}}"}}</span>
+        <p id="summary-{{"{{"}}key{{"}}"}}" class="search-hit-description">{{"{{"}}snippet{{"}}"}}</p>
+      </div>
+    </div>
+  </div>
+</script>
+{{ end }}

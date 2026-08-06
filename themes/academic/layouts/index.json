@@ -2,7 +2,11 @@
 {{- $index := slice -}}
 {{- $pages := .Site.RegularPages -}}
 {{- /* Add the index page of docs separately since it's not in RegularPages above. */ -}}
-{{- $pages := $pages | union (where (where .Site.Pages "Kind" "section") "Type" "docs") -}}
+{{- /* Publications, Projects, and Teaching each live entirely as prose inside
+     their own section _index.md (no separate leaf pages), so without this
+     they'd be silently excluded from search -- same reason "docs" needed
+     adding back. */ -}}
+{{- $pages := $pages | union (where (where .Site.Pages "Kind" "section") "Type" "in" (slice "docs" "publications" "projects" "teaching")) -}}
 {{- /* Add author pages to index so their bios can be searched. Hide empty `/author/` node. */ -}}
 {{- $pages := $pages | union (where (where $.Site.Pages "Section" "author") "Params.name" "!=" nil) -}}
 

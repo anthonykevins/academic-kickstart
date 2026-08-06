@@ -115,26 +115,33 @@
   // Publication container.
   let $grid_pubs = $('#container-publications');
 
-  // Initialise Isotope.
-  $grid_pubs.isotope({
-    itemSelector: '.isotope-item',
-    percentPosition: true,
-    masonry: {
-      // Use Bootstrap compatible grid layout.
-      columnWidth: '.grid-sizer'
-    },
-    filter: function() {
-      let $this = $(this);
-      let searchResults = searchRegex ? $this.text().match( searchRegex ) : true;
-      let filterResults = filterValues ? $this.is( filterValues ) : true;
-      return searchResults && filterResults;
-    }
-  });
+  // Isotope powers publication/project filtering (unused while all
+  // `filter_button` instances are commented out in content). Guard every
+  // call site so a missing/unloaded Isotope library can't throw and halt
+  // the rest of this script (it previously blocked search initialization
+  // further down this file).
+  if ($grid_pubs.length && $.fn.isotope) {
+    // Initialise Isotope.
+    $grid_pubs.isotope({
+      itemSelector: '.isotope-item',
+      percentPosition: true,
+      masonry: {
+        // Use Bootstrap compatible grid layout.
+        columnWidth: '.grid-sizer'
+      },
+      filter: function() {
+        let $this = $(this);
+        let searchResults = searchRegex ? $this.text().match( searchRegex ) : true;
+        let filterResults = filterValues ? $this.is( filterValues ) : true;
+        return searchResults && filterResults;
+      }
+    });
+  }
 
   // Filter by search term.
   let $quickSearch = $('.filter-search').keyup( debounce( function() {
     searchRegex = new RegExp( $quickSearch.val(), 'gi' );
-    $grid_pubs.isotope();
+    if ($grid_pubs.length && $.fn.isotope) $grid_pubs.isotope();
   }) );
 
   // Debounce input to prevent spamming filter requests.
@@ -174,7 +181,7 @@
     filterValues = concatValues( pubFilters );
 
     // Activate filters.
-    $grid_pubs.isotope();
+    if ($grid_pubs.length && $.fn.isotope) $grid_pubs.isotope();
 
     // If filtering by publication type, update the URL hash to enable direct linking to results.
     if (filterGroup == "pubtype") {
@@ -204,7 +211,7 @@
     filterValues = concatValues( pubFilters );
 
     // Activate filters.
-    $grid_pubs.isotope();
+    if ($grid_pubs.length && $.fn.isotope) $grid_pubs.isotope();
 
     // Set selected option.
     $('.pubtype-select').val(filterValue);
@@ -382,6 +389,10 @@
     });
 
     // Filter projects.
+    // Guarded: Isotope/imagesLoaded aren't loaded on this site (no filter
+    // buttons are active in content), so skip rather than throw and halt
+    // the rest of this script.
+    if ($.fn.isotope && $.fn.imagesLoaded) {
     $('.projects-container').each(function(index, container) {
       let $container = $(container);
       let $section = $container.closest('section');
@@ -421,6 +432,7 @@
         }
       });
     });
+    }
 
     // Enable publication filter for publication index page.
     if ($('.pub-filters-select')) {
