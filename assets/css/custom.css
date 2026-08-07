@@ -355,6 +355,32 @@ ul.ul-education li {
   display: block;
 }
 
+/* Dropdown items (e.g. the Projects subsection menu) ship with all padding
+   and margin zeroed out via `my-0 py-0 mx-0 px-0` utility classes on the
+   <li> in navbar.html, which reads as cramped, especially on mobile. A
+   legacy rule (academic.css: .navbar-nav .open .dropdown-menu > li > a) was
+   meant to restore comfortable padding on mobile, but it targets Bootstrap
+   3's `.open` class -- this theme's actual dropdown toggle script (see the
+   "Custom Dropdown Script" in footer.html) adds `.show` instead, so `.open`
+   is never applied and that rule never fires. Add real padding to the link
+   itself instead, so it doesn't depend on that dead rule. */
+.dropdown-menu .dropdown-item > a {
+  display: block;
+  padding: 0.65rem 1.25rem;
+}
+
+/* The search panel's "Search"/"Rechercher" label sits in a fixed half-width
+   column (search.html: .col-6) at full page-title size (h1, 2.25rem). The
+   French translation "Rechercher" is nearly double the character count of
+   "Search" and overflows that column on narrow screens, wrapping so just
+   the final "r" lands on its own line. Scoped to this one heading (not
+   sitewide h1s) since it's really a small panel label, not a page title. */
+@media (max-width: 575.98px) {
+  #search .search-header h1 {
+    font-size: 1.5rem;
+  }
+}
+
 h2[id], h3[id], h4[id] {
   scroll-margin-top: 100px;
 }
