@@ -6,7 +6,7 @@ title = "Business Network"
  date = 2024-04-06T00:00:00
  
 # Project summary to display on homepage.
-summary = "It's debatable whether this is more government"
+summary = "It’s debatable whether this is more government"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -16,7 +16,7 @@ summary = "It's debatable whether this is more government"
 external_link = "https://issuu.com/kemps/docs/biz_network_april_2024/74"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

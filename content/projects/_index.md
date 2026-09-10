@@ -1,11 +1,5 @@
 ---
 title: Projects
-permalink: /projects/
-author_profile: true
-redirect_from:
-  - /projects
-lang: en
-ref: projects
 math: false
 highlight: false
 summary: "Anthony Kevins' funded research projects on social care reform, differentiated political representation, welfare state universalism, and labour market insiders and outsiders."
@@ -16,14 +10,14 @@ summary: "Anthony Kevins' funded research projects on social care reform, differ
 
 ---
 
-Below you will find a selection of my work on funded research projects, as well as a sample of my publications on each theme. A complete list of my published research can be found on the [Publications](https://anthonykevins.github.io/publications/) page -- which includes links to open-access copies of my articles -- or via my [CV](https://anthonykevins.github.io/files/CV.pdf).
+Below you will find a selection of my work on funded research projects, as well as a sample of my publications on each theme. A complete list of my published research can be found on the [Publications](/publications/) page -- which includes links to open-access copies of my articles -- or via my [CV](/files/CV.pdf).
 
 &nbsp;
 
 <span class="frag-anchor" id="frag-social-care-priorities"></span>
 ## Balancing Social Care Priorities
 
-<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/downing_heading.webp" alt="Photo of a Downing Street sign" loading="lazy" decoding="async" title="Photo of a Downing Street sign, courtesy of Rui Chamberlain on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" width="1200" height="303" src="/img/projects/downing_heading.webp" alt="Photo of a Downing Street sign" loading="lazy" decoding="async" title="Photo of a Downing Street sign, courtesy of Rui Chamberlain on Unsplash"/>
   
 Ageing populations, limited infrastructure and staffing shortages, and reduced government funding have all contributed to the long-running crisis in social care in the UK. Further complicating matters, the COVID-19 pandemic and its resulting fiscal challenges have increased public attention to social care while simultaneously decreasing government capacity to finance social programmes. As a result, trade-offs in long-term care policy have become even more complex and contentious. 
 
@@ -31,14 +25,14 @@ This two-year project -- funded by the British Academy/Leverhulme Small Research
 
 This project therefore tackles the question: how can the Government manage the trade-off between the need for high-quality long-term social care provision and the costs of these measures to citizens in a way that maximises public support (1) among those most likely to be affected by the reforms in the short-term and (2) across a wide range of different party supporters? 
 
-This project has involved extensive data collection (to view some preliminary results, check out our [Evidence Brief](https://anthonykevins.github.io/files/Evidence_Brief.pdf)) and a published [research article](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ijsw.12710) based on secondary data. 
+This project has involved extensive data collection (to view some preliminary results, check out our [Evidence Brief](/files/Evidence_Brief.pdf)) and a published [research article](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ijsw.12710) based on secondary data. 
 
 &nbsp;
 
 <span class="frag-anchor" id="frag-differentiated-representation"></span>
 ## Preferences for Differentiated Representation
 
-<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/consultation_heading.webp" alt="Photo of raised hands" loading="lazy" decoding="async" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" width="1200" height="303" src="/img/projects/consultation_heading.webp" alt="Photo of raised hands" loading="lazy" decoding="async" title="Photo of raised hands, courtesy of Jaime Lopes on Unsplash"/>
 
 Equal representation is at the core of representative democracy, but are citizens actually in favour of it? Using original survey data, my research on this theme investigates when and why citizens believe that policy-affected individuals should have more or less influence than others. 
 
@@ -56,7 +50,7 @@ My publications on this topic include research on:
 <span class="frag-anchor" id="frag-universalism-welfare-state"></span>
 ## Universalism and the Welfare State
 
-<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/universalism_heading.webp" alt="Photo of graffiti" loading="lazy" decoding="async" title="Photo of graffiti, courtesy of Etienne Girardet on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" width="1200" height="303" src="/img/projects/universalism_heading.webp" alt="Photo of graffiti" loading="lazy" decoding="async" title="Photo of graffiti, courtesy of Etienne Girardet on Unsplash"/>
 
 How committed are citizens to universalism, redistribution, and the welfare state, and what factors shape their commitment? Through working on the UNIWEL (Universalism and the Welfare State) project at Aarhus University's Department of Political Science, I investigated various topics related to this theme -- including via a novel survey that we fielded in the US and nine European countries. 
 
@@ -74,16 +68,16 @@ My published work on the subject has examined:
 <span class="frag-anchor" id="frag-insiders-outsiders"></span>
 ## Insiders and Outsiders
 
-<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" src="/img/projects/dualism_heading.webp" alt="Photo of a train station platform" loading="lazy" decoding="async" title="Photo of a station platform, courtesy of Suad Kamardeen on Unsplash"/>
+<img style="margin-top: 0.5rem; margin-bottom: 1.5rem" align="top" width="1200" height="303" src="/img/projects/dualism_heading.webp" alt="Photo of a train station platform" loading="lazy" decoding="async" title="Photo of a station platform, courtesy of Suad Kamardeen on Unsplash"/>
 
-What factors shape relations between insiders and outsiders? Building from research I conducted as part of my PhD, I have explored the division between groups that have historically been protected by social policy and labour market regulations (i.e. insiders) and those we have excluded from that protection (i.e. outsiders). 
+What factors shape relations between insiders and outsiders? Building from research I conducted as part of my PhD, I have explored the division between groups that have historically been protected by social policy and labour market regulations (i.e. insiders) and those who have been excluded from that protection (i.e. outsiders). 
 
 Some of the topics I have addressed with this research include:
 
 -   [The drivers of social assistance reforms](https://repository.lboro.ac.uk/articles/journal_contribution/Political_actors_public_opinion_and_the_extension_of_welfare_coverage/9976259)
 -   [The relationship between care work, inequality, and job satisfaction](https://repository.lboro.ac.uk/articles/journal_contribution/Bonus_or_burden_Care_work_inequality_and_job_satisfaction_in_eighteen_European_countries/9976268)
--   [The effect of labour market vulnerability on attitudes toward immigrants](https://repository.lboro.ac.uk/articles/journal_contribution/Immigrant_sentiment_and_labour_market_vulnerability_economic_perceptions_of_immigration_in_dualized_labour_markets/9976301) and [asylum-seeking policy](https://anthonykevins.github.io/files/Asylum_Seekers.pdf)
+-   [The effect of labour market vulnerability on attitudes toward immigrants](https://repository.lboro.ac.uk/articles/journal_contribution/Immigrant_sentiment_and_labour_market_vulnerability_economic_perceptions_of_immigration_in_dualized_labour_markets/9976301) and [asylum-seeking policy](/files/Asylum_Seekers.pdf)
 -   [The impact of the insider/outsider divide on generalised trust](https://repository.lboro.ac.uk/articles/journal_contribution/Dualized_trust_risk_social_trust_and_the_welfare_state/9976265)
 -   [The institutional and political determinants of coverage extension (book - open access copy)](https://repository.lboro.ac.uk/articles/book/Expanding_welfare_in_an_age_of_austerity_Increasing_protection_in_an_unprotected_world/9994709) 
 
-If you're interested in finding a proper e-version of my book and are affiliated with a university, you may be able to get access through [JSTOR](https://www.jstor.org/stable/j.ctt20krz5m). Alternatively, you can buy a copy of the book from [Amsterdam University Press](https://www.aup.nl/en/book/9789462980211/expanding-welfare-in-an-age-of-austerity) or [elsewhere](https://smile.amazon.com/Expanding-Welfare-Age-Austerity-Unprotected/dp/9462980217).  
+If you're interested in finding a proper e-version of my book and are affiliated with a university, you may be able to get access through [JSTOR](https://www.jstor.org/stable/j.ctt20krz5m). Alternatively, you can buy a copy of the book from [Amsterdam University Press](https://www.aup.nl/en/book/9789462980211/expanding-welfare-in-an-age-of-austerity) or [elsewhere](https://www.amazon.com/Expanding-Welfare-Age-Austerity-Unprotected/dp/9462980217).  

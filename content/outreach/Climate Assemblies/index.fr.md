@@ -16,7 +16,7 @@ summary = "People are more likely to trust climate assemblies when those most af
 external_link = "https://www.lboro.ac.uk/news-events/news/2026/july/climate-change-conference-citizen-assemblies/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

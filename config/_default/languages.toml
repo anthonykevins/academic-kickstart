@@ -11,7 +11,7 @@
  languageCode = "fr"
  title = "Anthony Kevins"
   [fr.params]
-    description = "Ma recherche se concentre sur l'interaction entre l'opinion publique et les réformes politiques, en particulier sur les politiques sociales et les groupes marginalisés."
+    description = "Ma recherche se concentre sur l’interaction entre l’opinion publique et les réformes politiques, en particulier sur les politiques sociales et les groupes marginalisés."
     footnotereturnlinkcontents = "<sup>^</sup>"
     preserveTaxonomyNames = true
   [[fr.menu.main]]

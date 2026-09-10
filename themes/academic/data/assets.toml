@@ -7,6 +7,19 @@
 
 # JavaScript
 
+# NOTE: js.jQuery and js.bootstrap below are NOT what the site loads.
+# partials/footer.html hardcodes jQuery 3.5.1 (code.jquery.com), popper.js
+# 1.16.1 and Bootstrap JS 4.6.2 (both cdn.jsdelivr.net), bypassing this file.
+# Those three hardcoded tags now carry verified `integrity` hashes, so they no
+# longer depend on this file, and css.bootstrap below has been bumped to 4.6.2
+# to match the JS. If you change a version in either place, regenerate the hash
+# from the file the CDN actually serves:
+#   curl -s <the exact URL> | openssl dgst -sha384 -binary | openssl enc -base64 -A
+# A wrong hash makes the browser drop the file silently, so always load the page
+# locally before deploying.
+#
+# Worth doing eventually: move those three tags onto this data file (adding a
+# js.popper entry) so versions live in one place rather than two.
 [js.jQuery]
   version = "3.3.1"
   sri = "sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg=="
@@ -67,13 +80,19 @@
 # CSS
 
 [css.bootstrap]
-  version = "4.1.3"
-  sri = "sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE="
+  version = "4.6.2"
+  sri = "sha256-+IZRbz1B6ee9mUx/ejmonK+ulIP5A5bLDd6v6NHqXnI="
   url = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/%s/css/bootstrap.min.css"
+# Font Awesome: 5.6.0 (Dec 2018) -> 5.15.4, the final 5.x release. Verified in
+# a browser that every icon class this site uses still resolves to a glyph, so
+# it is a drop-in; 6.x renames many of them (fa-search -> fa-magnifying-glass
+# and so on) and would need the compatibility shim. Also moved off
+# use.fontawesome.com to cdnjs, which the site already uses for Bootstrap,
+# fancybox, highlight.js and mark.js -- one fewer origin to connect to.
 [css.fontAwesome]
-  version = "5.6.0"
-  sri = "sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h"
-  url = "https://use.fontawesome.com/releases/v%s/css/all.css"
+  version = "5.15.4"
+  sri = "sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+  url = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/%s/css/all.min.css"
 [css.academicons]
   version = "1.8.6"
   sri = "sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw="

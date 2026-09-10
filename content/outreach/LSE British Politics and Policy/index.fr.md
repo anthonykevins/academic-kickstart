@@ -16,7 +16,7 @@ summary = "Inflated figures, inflated opposition: how claims about welfare benef
 external_link = "https://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

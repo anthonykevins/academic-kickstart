@@ -1,38 +1,42 @@
 {{ if and .Site.Params.sharing (ne .Params.share false) }}
-<div class="share-box" aria-hidden="true">
+{{/* aria-hidden="true" here hid five focusable share links from assistive
+     tech while leaving them in the tab order, and none of them had an
+     accessible name (icon-only). Exposed and labelled; the <i> icons are
+     marked decorative instead. */}}
+<div class="share-box">
   <ul class="share">
     <li>
-      <a class="twitter"
+      <a class="twitter" aria-label="Share on Twitter" title="Share on Twitter"
          href="https://twitter.com/intent/tweet?text={{ .Title | html }}&amp;url={{ .Permalink | html }}"
          target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
+        <i class="fab fa-twitter" aria-hidden="true"></i>
       </a>
     </li>
     <li>
-      <a class="facebook"
+      <a class="facebook" aria-label="Share on Facebook" title="Share on Facebook"
          href="https://www.facebook.com/sharer.php?u={{ .Permalink | html }}"
          target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
+        <i class="fab fa-facebook-f" aria-hidden="true"></i>
       </a>
     </li>
     <li>
-      <a class="linkedin"
+      <a class="linkedin" aria-label="Share on LinkedIn" title="Share on LinkedIn"
          href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ .Permalink | html }}&amp;title={{ .Title | html }}"
          target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
+        <i class="fab fa-linkedin-in" aria-hidden="true"></i>
       </a>
     </li>
     <li>
-      <a class="weibo"
+      <a class="weibo" aria-label="Share on Weibo" title="Share on Weibo"
          href="http://service.weibo.com/share/share.php?url={{ .Permalink | html }}&amp;title={{ .Title | html }}"
          target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
+        <i class="fab fa-weibo" aria-hidden="true"></i>
       </a>
     </li>
     <li>
-      <a class="email"
+      <a class="email" aria-label="Share by email" title="Share by email"
          href="mailto:?subject={{ .Title | html }}&amp;body={{ .Permalink | html }}">
-        <i class="fas fa-envelope"></i>
+        <i class="fas fa-envelope" aria-hidden="true"></i>
       </a>
     </li>
   </ul>

@@ -196,6 +196,12 @@
 - id: search
   translation: Rechercher
 
+- id: skip_to_content
+  translation: Aller au contenu principal
+
+- id: close_search
+  translation: Fermer la recherche
+
 - id: search_placeholder
   translation: Recherche...
 
@@ -203,7 +209,7 @@
   translation: Résultats trouvés
 
 - id: search_no_results
-  translation: Aucun résultat n'a été trouvé
+  translation: Aucun résultat n’a été trouvé
 
 # Error 404
 

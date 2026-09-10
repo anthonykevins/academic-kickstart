@@ -1,0 +1,17 @@
+{{/* Inline SVG replacement for the Academicons webfont.
+
+     Call: {{ partial "icon_academicons.html" (dict "icon" "orcid" "class" "big-icon") }}
+
+     Path data lives in data/academicons.toml (see that file for how to add an
+     icon). The <svg> is marked decorative -- every call site puts the
+     accessible name on the surrounding <a>. Width is derived from the viewBox
+     so non-square icons (researchgate and google-scholar are 384x512) keep
+     their aspect ratio at any font-size. */}}
+{{- $d := index site.Data.academicons .icon -}}
+{{- if $d -}}
+  {{- $vb := split $d.viewbox " " -}}
+  {{- $ratio := div (float (index $vb 2)) (float (index $vb 3)) -}}
+  <svg class="ai-svg{{ with .class }} {{ . }}{{ end }}" viewBox="{{ $d.viewbox }}" style="width:{{ printf "%.3f" $ratio }}em" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false"><path d="{{ $d.path }}"/></svg>
+{{- else -}}
+  {{- warnf "icon_academicons: no inline SVG for icon %q -- add it to data/academicons.toml" .icon -}}
+{{- end -}}

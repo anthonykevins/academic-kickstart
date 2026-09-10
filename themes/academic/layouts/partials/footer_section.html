@@ -9,14 +9,21 @@
     {{ with .Site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
   
     Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    {{/* sourcethemes.com is no longer the theme's home -- the domain is parked and
+       redirects to a GoDaddy "for sale" page, so this credit was sending every
+       visitor there. Point at the project's current repository instead. */}}
+    <a href="https://github.com/HugoBlox/theme-academic-cv" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>
 
     · Favicon: <a href="https://vectorified.com/big-ben-icon#big-ben-icon-20.png" target="_blank" rel="noopener">Big Ben Icon</a>
 
     {{ if ne .Type "docs" }}
-    <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
+    {{/* This span previously carried aria-hidden="true", which hid the
+         back-to-top control from assistive tech while leaving it in the tab
+         order (WCAG 4.1.2 / axe aria-hidden-focus) and made its aria-label
+         unreachable. It is a real, useful control -- keep it exposed. */}}
+    <span class="float-right">
+      <a href="#" id="back_to_top" aria-label="{{ i18n "back_to_top" | default "Back to top" }}" title="{{ i18n "back_to_top" | default "Back to top" }}">
         <span class="button_icon">
           <i class="fas fa-chevron-up fa-2x"></i>
         </span>

@@ -187,6 +187,12 @@
 - id: search
   translation: Search
 
+- id: skip_to_content
+  translation: Skip to main content
+
+- id: close_search
+  translation: Close search
+
 - id: search_placeholder
   translation: Search...
 

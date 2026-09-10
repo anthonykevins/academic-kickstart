@@ -18,7 +18,7 @@
 
 <!-- About widget -->
 <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="{{ if $.Site.Params.email }}person-email{{ end }}{{ if $.Site.Params.phone }} person-telephone{{ end }}{{ if $.Site.Params.address}} person-address{{ end }}">
-  <div class="col-12 col-lg-4">
+  <div class="col-12 col-md-4">
     <div id="profile">
 
       {{ if $.Site.Params.gravatar }}
@@ -29,8 +29,8 @@
       {{ end }}
 
       <div class="portrait-title">
-        <h2 itemprop="name">{{ $person.name }}</h2>
-{{ with $person.role }}<h3 itemprop="jobTitle">{{ . | safeHTML }}</h3>{{ end }}
+        <h1 itemprop="name">{{ $person.name }}</h1>
+{{ with $person.role }}<h2 itemprop="jobTitle">{{ . | safeHTML }}</h2>{{ end }}
 
         {{ range $person.organizations }}
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
@@ -43,13 +43,24 @@
 
       <link itemprop="url" href="{{ .Permalink }}">
 
-      <ul class="network-icon" aria-hidden="true">
+      {{/* This list previously carried aria-hidden="true", which deleted every
+           profile link below from the accessibility tree while leaving all of
+           them keyboard-focusable -- a WCAG 4.1.2 failure (axe: aria-hidden-focus).
+           A keyboard screen-reader user tabbed onto five controls their software
+           insisted did not exist, and the per-link aria-labels were unreachable.
+           Do not put aria-hidden back on a container holding focusable links. */}}
+      <ul class="network-icon">
         {{ range $person.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
         {{ if in (slice "fab" "fas" "far" "fal") $pack }}
           {{ $pack_prefix = "fa" }}
         {{ end }}
+        {{/* `.icon | humanize` yields the Font Awesome icon NAME, which reads
+             badly for some icons -- the email link announced as "Envelope".
+             Map the icons actually in use; anything unmapped falls back. */}}
+        {{ $icon_labels := dict "envelope" "Email" "orcid" "ORCID" "researchgate" "ResearchGate" "google-scholar" "Google Scholar" "linkedin" "LinkedIn" "twitter" "Twitter" "github" "GitHub" "mastodon" "Mastodon" "bluesky" "Bluesky" }}
+        {{ $icon_label := or (index $icon_labels .icon) (.icon | humanize) }}
         {{ $link := .link }}
         {{ $scheme := (urls.Parse $link).Scheme }}
         {{ $target := "" }}
@@ -59,8 +70,8 @@
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
         <li>
-          <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon | humanize }}" title="{{ .icon | humanize }}">
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+          <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ $icon_label }}" title="{{ $icon_label }}">
+            {{ if eq $pack "ai" }}{{ partial "icon_academicons.html" (dict "icon" .icon "class" "big-icon") }}{{ else }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon" aria-hidden="true"></i>{{ end }}
           </a>
         </li>
         {{ end }}
@@ -68,10 +79,10 @@
 
     </div>
   </div>
-  <div class="col-12 col-lg-8" itemprop="description">
+  <div class="col-12 col-md-8" itemprop="description">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    {{ if and $page.Params.widget $page.Title }}<h2 class="section-title">{{ $page.Title | markdownify | emojify }}</h2>{{ end }}
 
     {{ $person_page.Content }}
 

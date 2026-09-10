@@ -1,15 +1,7 @@
 ---
 title: Teaching
-permalink: /teaching/
-author_profile: true
-redirect_from:
-  - /teaching
-lang: en
-ref: teaching
 math: false
 highlight: false
-blackfriday:
-  fractions: false
 summary: "Undergraduate and postgraduate courses taught by Anthony Kevins at Loughborough University, Aarhus University, and McGill University."
 
 # Optional featured image (relative to `static/img/` folder).
@@ -18,7 +10,7 @@ summary: "Undergraduate and postgraduate courses taught by Anthony Kevins at Lou
 
 ---
 
-Below you will find a brief overview of courses that I have taught on. For more information on my teaching experience and pedagogical approach, please consult my [Teaching Portfolio](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf).
+Below you will find a brief overview of courses that I have taught on. For more information on my teaching experience and pedagogical approach, please consult my [Teaching Portfolio](/files/Teaching_Portfolio.pdf).
 
 &nbsp;
 
@@ -50,8 +42,8 @@ Below you will find a brief overview of courses that I have taught on. For more 
   <li>Political Institutions (Bachelor's Core Course, Aarhus University)</li>
   <li>Democracy and Representation (Master's Course, Aarhus University)</li>
   <li>Pragmatism and Politics (Master's Course, Aarhus University)</li>
-  <li>Politics: Contemporary Europe (Bachelor's Course, McGill University)</li>
   <li>Social Science Methods for Journalists (Master's Core Course, Aarhus University)</li>
+  <li>Politics: Contemporary Europe (Bachelor's Course, McGill University)</li>
 </ul>
 
 </div>

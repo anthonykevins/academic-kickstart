@@ -24,22 +24,24 @@ copyright = "&copy; Anthony Kevins, {year}"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
-[params]
-  privacy_pack = false
-
-[services]
-  [services.disqus]
-    shortname = ""
-
 ############################
 ## Advanced options below ##
 ############################
 
+# IMPORTANT: in TOML a bare key belongs to the most recently opened [table].
+# Everything from here down to the first [header] is site-wide config, so it
+# must stay ABOVE that header. This block previously sat *after*
+# [services.disqus], which meant Hugo silently discarded all of it --
+# `hugo config` reported the default timeout of 30s rather than the value set
+# here, and enableRobotsTXT / disableAliases / enableGitInfo / ignoreFiles
+# never took effect at all. (The site's robots.txt comes from
+# static/robots.txt, which is why nothing appeared to be broken.)
+
 enableRobotsTXT = true
 disableAliases = true
-timeout = 600000
-
-
+timeout = "600s"
+enableEmoji = true
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -49,21 +51,32 @@ defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
+############################
+## Tables below           ##
+############################
+
+[params]
+  privacy_pack = false
+
+# Number of items per page in paginated lists.
+# (Hugo 0.128 renamed the old top-level `paginate` key to pagination.pagerSize.)
+[pagination]
+  pagerSize = 10
+
+[services]
+  [services.disqus]
+    shortname = ""
+
 # Multilanguage setup
- [languages]
+[languages]
   [languages.en]
     title = "Anthony Kevins"
     weight = 1
-[languages.fr]
-title  = "Anthony Kevins"
-weight = 2
-
-[languages.fr.params]
-paginate = 10  # Number of items per page in paginated lists.
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-preserveTaxonomyNames = true
+  [languages.fr]
+    title = "Anthony Kevins"
+    weight = 2
+    [languages.fr.params]
+      footnotereturnlinkcontents = "<sup>^</sup>"
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]
@@ -83,9 +96,12 @@ preserveTaxonomyNames = true
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
+#
+# `tag` and `category` were removed: no content in this site sets either, so
+# Hugo generated empty /tags/ and /categories/ pages carrying nothing but a
+# heading -- and listed both in the sitemap for Google to crawl. Add a line
+# back here if you ever start tagging content.
 [taxonomies]
-  tag = "tags"
-  category = "categories"
   publication_type = "publication_types"
   author = "authors"
 

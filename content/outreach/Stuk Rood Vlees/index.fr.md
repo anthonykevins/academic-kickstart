@@ -16,7 +16,7 @@ summary = "Meer inspraak, minder schuld?"
 external_link = "https://stukroodvlees.nl/meer-inspraak-minder-schuld/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

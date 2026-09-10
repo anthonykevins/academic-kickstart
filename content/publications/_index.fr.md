@@ -1,15 +1,7 @@
 ---
 title: Publications
-permalink: /publications_fr/
-author_profile: true
-redirect_from:
-  - /publications_fr
-lang: fr
-ref: publications
 math: false
 highlight: false
-blackfriday: 
-  fractions: false
 ---
 
 &nbsp;
@@ -53,7 +45,7 @@ Alexander Horn, Anthony Kevins et Kees van Kersbergen. (2023) <a href="https://a
 
 <span class="frag-anchor" id="frag-kevins-vis-2023-blame-attribution"></span>
 Anthony Kevins et Barbara Vis. (2023)  <a href="https://link.springer.com/content/pdf/10.1007/s11109-021-09751-5.pdf">« Do Public Consultations Reduce Blame Attribution? The Impact of Consultation Characteristics, Gender, and Gender Attitudes »</a>, <em>Political Behavior</em>, 45: 1121–1142. <a href="https://doi.org/10.1007/s11109-021-09751-5">doi.org/10.1007/s11109-021-09751-5</a><br>
-<span class="pub-note-marker">◦</span>Résumé sur <a href="https://stukroodvlees.nl/meer-inspraak-minder-schuld/">Stuk Rood Vlees</a> et le <a href="http://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/">Political Behavior Blog</a>
+<span class="pub-note-marker">◦</span>Résumé sur <a href="https://stukroodvlees.nl/meer-inspraak-minder-schuld/">Stuk Rood Vlees</a> et le <a href="https://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/">Political Behavior Blog</a>
 
 <span class="frag-anchor" id="frag-kevins-lee-2023-projection-centrism"></span>
 Anthony Kevins et Seonghui Lee. (2023) <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.12851">« Projection in the Face of Centrism: Voter Inferences about Candidates’ Party Affiliation in Low-information Contexts »</a>, <em>Political Psychology</em>, 44(2): 319-336. <a href="https://doi.org/10.1111/pops.12851">doi.org/10.1111/pops.12851</a>
@@ -65,13 +57,13 @@ Anthony Kevins. (2022) <a href="https://academic.oup.com/ijpor/article-pdf/34/4/
 Anthony Kevins. (2022) <a href="https://journals.sagepub.com/doi/pdf/10.1177/0032321720956327">« Input from Whom? Public Reactions to Different Consultation Measures »</a>, <em>Political Studies</em>, 70(2): 281-303. <a href="https://doi.org/10.1177/0032321720956327">doi.org/10.1177/0032321720956327</a>
 
 <span class="frag-anchor" id="frag-kevins-lightman-2022-asylum-seekers"></span>
-Anthony Kevins et Naomi Lightman. (2022)  <a href="https://anthonykevins.github.io/files/Asylum_Seekers.pdf">« How Should the Government Treat Asylum Seekers? The Role of Labour Market Vulnerability and Ethnic Diversity in Europe »</a>, <em>Social Science Research</em>, 104. <a href="https://doi.org/10.1016/j.ssresearch.2021.102666">doi.org/10.1016/j.ssresearch.2021.102666</a>
+Anthony Kevins et Naomi Lightman. (2022)  <a href="/files/Asylum_Seekers.pdf">« How Should the Government Treat Asylum Seekers? The Role of Labour Market Vulnerability and Ethnic Diversity in Europe »</a>, <em>Social Science Research</em>, 104. <a href="https://doi.org/10.1016/j.ssresearch.2021.102666">doi.org/10.1016/j.ssresearch.2021.102666</a>
 
 <span class="frag-anchor" id="frag-horn-kevins-2021-political-parties-social-groups"></span>
 Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (2021) <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Political_parties_and_social_groups_New_perspectives_and_data_on_group_and_policy_appeals/11628444">« Political Parties and Social Groups: New Perspectives and Data on Group and Policy Appeals »</a>, <em>Party Politics</em>, 27(5): 983–995. <a href="https://doi.org/10.1177/1354068820907998">doi.org/10.1177/1354068820907998</a>
 
 <span class="frag-anchor" id="frag-lightman-kevins-2021-womens-work"></span>
-Naomi Lightman et Anthony Kevins. (2021) <a href="https://journals.sagepub.com/doi/pdf/10.1177/08912432211038695">« 'Women's Work': Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care »</a>, <em>Gender & Society</em>,  35(5): 778-805. <a href="https://doi.org/10.1177/08912432211038695">doi.org/10.1177/08912432211038695</a><br>
+Naomi Lightman et Anthony Kevins. (2021) <a href="https://journals.sagepub.com/doi/pdf/10.1177/08912432211038695">« ’Women’s Work’: Welfare State Spending and the Gendered and Classed Dynamics of Unpaid Care »</a>, <em>Gender & Society</em>,  35(5): 778-805. <a href="https://doi.org/10.1177/08912432211038695">doi.org/10.1177/08912432211038695</a><br>
 <span class="pub-note-marker">◦</span>Résumé sur <a href="http://www.wipsociology.org/2021/09/16/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/">Work in Progress</a> et le <a href="https://gendersociety.wordpress.com/2021/09/03/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/">Gender & Society Blog</a>
 
 <span class="frag-anchor" id="frag-kevins-2021-race-class-both"></span>
@@ -86,25 +78,25 @@ Anthony Kevins et Naomi Lightman. (2020) <a href="https://repository.lboro.ac.uk
 
 <span class="frag-anchor" id="frag-kevins-horn-2020-motive-attribution"></span>
 Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (2020) <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D2DC2B5761B7474254AB8BEC75CF9B0D/S0047279419000175a.pdf/motive_attribution_and_the_moral_politics_of_the_welfare_state.pdf">« Motive Attribution and the Moral Politics of the Welfare State »</a>, <em>Journal of Social Policy</em>, 49(1): 145-165. <a href="https://doi.org/10.1017/S0047279419000175">doi.org/10.1017/S0047279419000175</a><br>
-<span class="pub-note-marker">◦</span>Résumé sur le <a href="https://socialpolicyblog.com/2019/05/08/explaining-other-peoples-stances-on-inequality/">Social Policy Blog</a>
+<span class="pub-note-marker">◦</span>Résumé sur le <a href="https://socialpolicyblog.co.uk/2019/05/08/explaining-other-peoples-stances-on-inequality/">Social Policy Blog</a>
 
 <span class="frag-anchor" id="frag-lightman-kevins-2019-bonus-or-burden"></span>
-Naomi Lightman et Anthony Kevins. (2019) <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Bonus_or_burden_Care_work_inequality_and_job_satisfaction_in_eighteen_European_countries/9976268">« Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries »</a>, <em>European Sociological Review</em>, 35(6): 825–844. <a href="https://doi.org/10.1093/esr/jcz032">doi.org/10.1093/esr/jcz032</a>
+Naomi Lightman et Anthony Kevins. (2019) <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Bonus_or_burden_Care_work_inequality_and_job_satisfaction_in_eighteen_European_countries/9976268">« Bonus or Burden? Care Work, Inequality, and Job Satisfaction in Eighteen European Countries »</a>, <em>European Sociological Review</em>, 35(6): 825–844. <a href="https://academic.oup.com/esr/article/35/6/825/5521386?guestAccessKey=5a546076-ebad-417e-a168-d998e6b56a96">doi.org/10.1093/esr/jcz032</a>
 
 <span class="frag-anchor" id="frag-kevins-2019-dualized-trust"></span>
 Anthony Kevins. (2019) <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Dualized_trust_risk_social_trust_and_the_welfare_state/9976265">« Dualized Trust: Risk, Social Trust, and the Welfare State »</a>, <em>Socio-Economic Review</em>, 17(4): 875–897. <a href="https://doi.org/10.1093/ser/mwx064">doi.org/10.1093/ser/mwx064</a>
 
 <span class="frag-anchor" id="frag-jensen-kevins-2019-numbers-attitudes"></span>
-Carsten Jensen et Anthony Kevins. (2019) <a href="http://journals.sagepub.com/doi/pdf/10.1177/0032321718780516">« Numbers and Attitudes Towards Welfare State Generosity »</a>, <em>Political Studies</em>, 67(2): 496–516. <a href="https://doi.org/10.1177/0032321718780516">doi.org/10.1177/0032321718780516</a><br>
+Carsten Jensen et Anthony Kevins. (2019) <a href="https://journals.sagepub.com/doi/pdf/10.1177/0032321718780516">« Numbers and Attitudes Towards Welfare State Generosity »</a>, <em>Political Studies</em>, 67(2): 496–516. <a href="https://doi.org/10.1177/0032321718780516">doi.org/10.1177/0032321718780516</a><br>
 <span class="pub-note-marker">◦</span>Récipiendaire du <a href="https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners">prix du meilleur article</a> publié en 2019 dans <em>Political Studies</em><br>
-<span class="pub-note-marker">◦</span>Résumé sur le <a href="http://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/">LSE British Politics & Policy Blog</a>
+<span class="pub-note-marker">◦</span>Résumé sur le <a href="https://blogs.lse.ac.uk/politicsandpolicy/how-claims-about-welfare-benefit-levels-affect-public-opinion/">LSE British Politics & Policy Blog</a>
 
 <span class="frag-anchor" id="frag-kevins-vankersbergen-2019-welfare-universalism-migrant"></span>
 Anthony Kevins et Kees van Kersbergen. (2019) <a href="https://repository.lboro.ac.uk/articles/journal_contribution/The_effects_of_welfare_state_universalism_on_migrant_integration/9976226">« The Effects of Welfare State Universalism on Migrant Integration »</a>, <em>Policy & Politics</em>, 47(1): 115-132. <a href="https://doi.org/10.1332/030557318X15407315707251">doi.org/10.1332/030557318X15407315707251</a><br>
-<span class="pub-note-marker">◦</span>Résumé sur <a href="https://discoversociety.org/2019/02/06/policy-and-politics-one-of-us-how-welfare-states-help-shape-immigrant-integration/">Discover Society</a> et le <a href="https://policyandpoliticsblog.com/2019/02/20/one-of-us-how-welfare-states-help-shape-immigrant-integration/">Policy & Politics Journal Blog</a>
+<span class="pub-note-marker">◦</span>Résumé sur <a href="https://archive.discoversociety.org/2019/02/06/policy-and-politics-one-of-us-how-welfare-states-help-shape-immigrant-integration/">Discover Society</a> et le <a href="https://policyandpoliticsblog.com/2019/02/20/one-of-us-how-welfare-states-help-shape-immigrant-integration/">Policy & Politics Journal Blog</a>
 
 <span class="frag-anchor" id="frag-kevins-horn-2019-illusion-of-class"></span>
-Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (2019) <a href="https://repository.lboro.ac.uk/articles/journal_contribution/The_illusion_of_class_in_welfare_state_politics_/9976223">« The Illusion of Class in Welfare State Politics? »</a>, <em>Journal of Social Policy</em>, 48(1): 21-41. <a href="https://dx.doi.org/10.1017/S0047279418000247">dx.doi.org/10.1017/S0047279418000247</a>
+Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (2019) <a href="https://repository.lboro.ac.uk/articles/journal_contribution/The_illusion_of_class_in_welfare_state_politics_/9976223">« The Illusion of Class in Welfare State Politics? »</a>, <em>Journal of Social Policy</em>, 48(1): 21-41. <a href="https://doi.org/10.1017/S0047279418000247">doi.org/10.1017/S0047279418000247</a>
 
 <span class="frag-anchor" id="frag-kevins-horn-2018-yardsticks-of-inequality"></span>
 Anthony Kevins, Alexander Horn, Carsten Jensen et Kees van Kersbergen. (2018) <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Yardsticks_of_inequality_Preferences_for_redistribution_in_advanced_democracies/9976232">« Yardsticks of Inequality: Preferences for Redistribution in Advanced Democracies »</a>, <em>Journal of European Social Policy</em>, 28(4): 402-418. <a href="https://doi.org/10.1177/0958928717753579">doi.org/10.1177/0958928717753579</a>
@@ -114,7 +106,7 @@ Alexander Horn et Anthony Kevins. (2018) <a href="https://repository.lboro.ac.uk
 
 <span class="frag-anchor" id="frag-kevins-soroka-2018-growing-apart"></span>
 Anthony Kevins et Stuart Soroka. (2018) <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Growing_apart_Partisan_sorting_in_Canada_1992_2015/9976238">« Growing Apart? Partisan Sorting in Canada, 1992-2015 »</a>, <em>Canadian Journal of Political Science</em>, 51(1): 103-133. <a href="https://doi.org/10.1017/S0008423917000713">doi.org/10.1017/S0008423917000713</a><br>
-<span class="pub-note-marker">◦</span>Couverture médiatique dans <a href="https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/">The Globe and Mail</a> et <a href="https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/">Maclean's</a>
+<span class="pub-note-marker">◦</span>Couverture médiatique dans <a href="https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/">The Globe and Mail</a> et <a href="https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/">Maclean’s</a>
 
 <span class="frag-anchor" id="frag-horn-kevins-2017-peeping-at-the-corpus"></span>
 Alexander Horn, Anthony Kevins, Carsten Jensen et Kees van Kersbergen. (2017) <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Peeping_at_the_corpus_What_is_really_going_on_behind_the_equality_and_welfare_items_of_the_Manifesto_project_/9976253">« Peeping at the Corpus – What is Really Going on Behind the Equality and Welfare Items of the Manifesto Project? »</a>, <em>Journal of European Social Policy</em>, 27(5) : 403-416. <a href="https://doi.org/10.1177/0958928716688263">doi.org/10.1177/0958928716688263</a>
@@ -139,9 +131,9 @@ Anthony Kevins et Barbara Vis. (2024) <a href="https://repository.lboro.ac.uk/ar
 Alexander Horn et Anthony Kevins. (2023) <a href="https://repository.lboro.ac.uk/articles/chapter/Ever_the_committed_egalitarians_or_the_end_of_Scandinavian_exceptionalism_Comparing_equality_and_welfare_state_preferences_among_voters_and_parties/24220813">« Ever the Committed Egalitarians – or the End of Scandinavian Exceptionalism? Comparing Equality and Welfare State Preferences among Voters and Parties »</a>, <em>No Normal Science!  Festschrift for Kees van Kersbergen</em>, Christoffer Green-Pedersen, Carsten Jensen, and Barbara Vis (eds.), Politica: 160-172. <a href="https://politica.dk/fileadmin/politica/Billeder/Books/no_normal_science/no_normal_science_.pdf">[Livre disponible en ligne gratuitement ici]</a>
 
 <span class="frag-anchor" id="frag-kevins-2022-labour-market-vulnerability-immigration"></span>
-Anthony Kevins. (2022) <a href="https://anthonykevins.github.io/files/CPO_Chapter_14.pdf">« The Impact of Labour Market Vulnerability: Explaining Attitudes toward Immigration in Europe »</a>, <em>Comparative Public Opinion</em>, Cameron D. Anderson and Mathieu Turgeon (eds.), Routledge: 259-283. <a href="https://doi.org/10.4324/9781003121992-17">doi.org/10.4324/9781003121992-17</a>
+Anthony Kevins. (2022) <a href="/files/CPO_Chapter_14.pdf">« The Impact of Labour Market Vulnerability: Explaining Attitudes toward Immigration in Europe »</a>, <em>Comparative Public Opinion</em>, Cameron D. Anderson and Mathieu Turgeon (eds.), Routledge: 259-283. <a href="https://doi.org/10.4324/9781003121992-17">doi.org/10.4324/9781003121992-17</a>
 
 <span class="frag-anchor" id="frag-kevins-2022-immigration-ubi"></span>
-Anthony Kevins. (2022) <a href="https://anthonykevins.github.io/files/UBI.pdf">« When Does Immigration Shape Support for a Universal Basic Income? The Role of Education and Employment Status »</a>, <em>The Handbook on Migration and Welfare</em>, Markus M. L. Crepaz (ed.), Edward Elgar Publishing: 137-155. <a href="https://doi.org/10.4337/9781839104572.00014">doi.org/10.4337/9781839104572.00014</a>
+Anthony Kevins. (2022) <a href="/files/UBI.pdf">« When Does Immigration Shape Support for a Universal Basic Income? The Role of Education and Employment Status »</a>, <em>The Handbook on Migration and Welfare</em>, Markus M. L. Crepaz (ed.), Edward Elgar Publishing: 137-155. <a href="https://doi.org/10.4337/9781839104572.00014">doi.org/10.4337/9781839104572.00014</a>
 
 </div>

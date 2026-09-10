@@ -16,7 +16,7 @@ summary = "Nous demandons des programmes sociaux moins généreux lorsque nos re
 external_link = "https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

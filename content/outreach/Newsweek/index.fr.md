@@ -16,7 +16,7 @@ summary = "Mark Carney Scores Major Election Victory in Canada"
 external_link = "https://www.newsweek.com/mark-carney-scores-major-election-victory-in-canada-11820500"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

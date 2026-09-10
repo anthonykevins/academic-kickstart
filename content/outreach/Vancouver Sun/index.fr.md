@@ -16,7 +16,7 @@ summary = "__Couverture médiatique&#160;:__ Do women and people of colour get f
 external_link = "https://vancouversun.com/opinion/columnists/women-people-colour-get-fewer-votes-canada-studies"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

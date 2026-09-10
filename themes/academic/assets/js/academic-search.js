@@ -224,8 +224,17 @@ function render(template, data) {
 * --------------------------------------------------------------------------- */
 
 // If Academic's in-built search is enabled and Fuse loaded, then initialize it.
-if (typeof Fuse === 'function') {
-// Wait for Fuse to initialize.
+//
+// The index is ~44KB (50KB for /fr/) and was fetched as part of every page
+// load, whether or not the visitor ever searched. It is now fetched on the
+// first signal that someone intends to search -- opening the search panel or
+// focusing the box -- or immediately when the page is opened with a ?q= deep
+// link, so shared search URLs still work.
+let academicSearchIndexRequested = false;
+
+function loadAcademicSearchIndex() {
+  if (academicSearchIndexRequested) return;
+  academicSearchIndexRequested = true;
   $.getJSON(search_index_filename, function (search_index) {
     let fuse = new Fuse(search_index, fuseOptions);
 
@@ -249,5 +258,21 @@ if (typeof Fuse === 'function') {
         }, 250));
       }
     });
+
+    // The handlers above bind only once the index has arrived. If a fast typist
+    // got characters in before then, run that query now so nothing is lost.
+    if ($('#search-query').val()) {
+      initSearch(true, fuse);
+    }
   });
+}
+
+if (typeof Fuse === 'function') {
+  if (getSearchQuery('q')) {
+    // Deep link straight into a search: load immediately.
+    loadAcademicSearchIndex();
+  }
+  // Delegated, so these survive the search panel being re-rendered.
+  $(document).on('click', '.js-search', loadAcademicSearchIndex);
+  $(document).on('focus', '#search-query', loadAcademicSearchIndex);
 }

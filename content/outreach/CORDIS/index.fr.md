@@ -16,7 +16,7 @@ summary = "Des études soulignent le conflit latent inhérent aux différents co
 external_link = "https://cordis.europa.eu/project/rcn/209009/brief/fr"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

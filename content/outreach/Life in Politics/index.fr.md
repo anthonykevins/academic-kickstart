@@ -16,7 +16,7 @@ summary = "CRCC Welcomes Local Councillors and MP"
 external_link = "https://blog.lboro.ac.uk/crcc/events/crcc-welcomes-local-councillors-and-mp/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

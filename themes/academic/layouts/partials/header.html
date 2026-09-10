@@ -34,6 +34,11 @@
     {{ $desc = .Params.abstract }}
   {{ else if .IsPage }}
     {{ $desc = .Summary }}
+  {{ else if and .IsNode .Summary }}
+    {{/* Section/list pages used to skip straight to the site-wide description,
+         so a dozen pages shared one string. Use the section's own intro when it
+         has one. */}}
+    {{ $desc = .Summary | plainify | htmlUnescape | truncate 155 }}
   {{ else if .Site.Params.description }}
     {{ $desc = .Site.Params.description }}
   {{ else }}
@@ -41,10 +46,32 @@
   {{ end }}
   <meta name="description" content="{{ $desc }}">
 
+  {{/* Keep thin, auto-generated taxonomy pages out of the index. /authors/ lists
+       one name; /authors/admin/ is a partial duplicate of the homepage profile
+       (44% word overlap); /publication_types/ and its terms are not linked from
+       anywhere on the site. "follow" so any link equity still flows through. */}}
+  {{ if in (slice "taxonomy" "term") .Kind }}
+  <meta name="robots" content="noindex, follow">
+  {{ end }}
+
+  {{/* Self-reference used .Site.LanguageCode ("en-us") while translations used
+       .Lang ("en"), so the same English URL was advertised under two different
+       hreflang values depending on which page you looked at. Use .Lang for both,
+       and add x-default pointing at the site's default language. */}}
   {{ range .Translations }}
   <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
   {{ end }}
-  <link rel="alternate" hreflang="{{ .Site.LanguageCode | default "en-us" }}" href="{{ .Permalink }}">
+  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+  {{/* x-default must point at the DEFAULT language's version of this page.
+       .Site is language-scoped -- on /fr/ pages .Site.Home.Lang is "fr" -- so
+       take the default language from the first entry in .Sites, which Hugo
+       orders by language weight (en weight 1, fr weight 2). */}}
+  {{ $defaultLang := (index .Sites 0).Language.Lang }}
+  {{ if eq .Lang $defaultLang }}
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+  {{ else }}{{ range .Translations }}{{ if eq .Lang $defaultLang }}
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+  {{ end }}{{ end }}{{ end }}
 
   {{ partial "css/parse_theme.css" . }}
   {{ $css := .Site.Data.assets.css }}
@@ -62,11 +89,14 @@
   {{ else }}
     {{ $scr.Set "use_cdn" 1 }}
     {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.bootstrap.url $css.bootstrap.version) $css.bootstrap.sri | safeHTML }}
-    {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.academicons.url $css.academicons.version) $css.academicons.sri | safeHTML }}
+    {{/* The fancybox stylesheet used to load here on every page. Nothing on the
+         site uses it -- there is no data-fancybox or js-fancybox element
+         anywhere, and the fancybox JS was never loaded either. */}}
+    {{/* The academicons stylesheet used to load here. Its three icons are now
+         inlined as SVG (see partials/icon_academicons.html), which removes a
+         render-blocking stylesheet and a ~46KB font download from every page. */}}
     {{ printf "<link rel='preload' href='%s' as='style' onload='this.onload=null;this.rel=\"stylesheet\"' integrity='%s' crossorigin='anonymous'>" (printf $css.fontAwesome.url $css.fontAwesome.version) $css.fontAwesome.sri | safeHTML }}
     <noscript>{{ printf "<link rel='stylesheet' href='%s' integrity='%s' crossorigin='anonymous'>" (printf $css.fontAwesome.url $css.fontAwesome.version) $css.fontAwesome.sri | safeHTML }}</noscript>
-    {{ printf "<link rel='preload' href='%s' as='style' onload='this.onload=null;this.rel=\"stylesheet\"' integrity='%s' crossorigin='anonymous'>" (printf $css.fancybox.url $css.fancybox.version) $css.fancybox.sri | safeHTML }}
-    <noscript>{{ printf "<link rel='stylesheet' href='%s' integrity='%s' crossorigin='anonymous'>" (printf $css.fancybox.url $css.fancybox.version) $css.fancybox.sri | safeHTML }}</noscript> 
 
     {{/* Default to enabling highlighting, but allow the user to override it in .Params or .Site.Params.
          Use $scr to store "highlight_enabled", so that we can read it again in footer.html. */}}
@@ -81,12 +111,26 @@
       {{ with .Site.Params.highlight_style }}
         {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\">" (printf $css.highlight.url $css.highlight.version .) | safeHTML }}
       {{ else }}
-        {{ if eq ($scr.Get "light") true }}
-          {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-light\">" (printf $css.highlight.url $css.highlight.version "github") | safeHTML }}
-          {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-dark\" disabled>" (printf $css.highlight.url $css.highlight.version "dracula") | safeHTML }}
+        {{/* The light/dark stylesheet PAIR exists only to feed the day/night
+             toggle, which swaps them at runtime. `disabled` does not stop the
+             browser fetching the inactive one, so with day_night off (see
+             config/_default/params.toml) every visitor was downloading a
+             second highlight.js theme that can never be shown. Emit the pair
+             only when the toggle is actually enabled. */}}
+        {{ if .Site.Params.day_night }}
+          {{ if eq ($scr.Get "light") true }}
+            {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-light\">" (printf $css.highlight.url $css.highlight.version "github") | safeHTML }}
+            {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-dark\" disabled>" (printf $css.highlight.url $css.highlight.version "dracula") | safeHTML }}
+          {{ else }}
+            {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-light\" disabled>" (printf $css.highlight.url $css.highlight.version "github") | safeHTML }}
+            {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-dark\">" (printf $css.highlight.url $css.highlight.version "dracula") | safeHTML }}
+          {{ end }}
         {{ else }}
-          {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-light\" disabled>" (printf $css.highlight.url $css.highlight.version "github") | safeHTML }}
-          {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-dark\">" (printf $css.highlight.url $css.highlight.version "dracula") | safeHTML }}
+          {{ if eq ($scr.Get "light") true }}
+            {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-light\">" (printf $css.highlight.url $css.highlight.version "github") | safeHTML }}
+          {{ else }}
+            {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-dark\">" (printf $css.highlight.url $css.highlight.version "dracula") | safeHTML }}
+          {{ end }}
         {{ end }}
       {{ end }}
     {{ end }}
@@ -167,8 +211,18 @@
   <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
   <meta property="og:description" content="{{ $desc }}">
   <meta property="og:image" content="{{ (printf "img/%s" $.Site.Params.avatar) | absURL }}">
+  {{/* Declaring dimensions makes LinkedIn and Facebook render the preview far
+       more reliably (they otherwise have to fetch and measure the image, and
+       often skip it). These MUST match static/img/<avatar> -- currently
+       avatar.jpg at 1200x1200. Update them if you replace that file. */}}
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="1200">
   <meta property="og:locale" content="{{ .Site.LanguageCode | default "en-us" }}">
 
+  {{/* Deliberately "summary", not "summary_large_image": the og:image is a
+       square portrait, and the large card crops to roughly 1.91:1, which would
+       slice the top and bottom off the photo. A large card would need a
+       purpose-made ~1200x630 image. */}}
   <meta name="twitter:card" content="summary">
   {{ with .Site.Params.twitter }}
   <meta name="twitter:site" content="@{{ . }}">
@@ -185,7 +239,16 @@
 
 </head>
 <body id="top" data-spy="scroll" data-target="{{ if or .IsHome .Params.widgets }}#navbar-main{{ else }}#TableOfContents{{ end }}" data-offset="71" {{ if not ($scr.Get "light") }}class="dark"{{ end }}>
+  {{/* Skip link: first focusable thing in the document, so keyboard users can
+       jump the navbar (8 items plus a dropdown) on every page. WCAG 2.4.1
+       "Bypass Blocks", Level A. Target lives at the end of navbar.html. */}}
+  <a class="skip-link" href="#content">{{ i18n "skip_to_content" | default "Skip to main content" }}</a>
+
   {{ partial "search" . }}
 
-</body>
-</html>
+{{/* NOTE: </body></html> used to be emitted HERE, immediately after the search
+     panel -- so the navbar, the entire page content and the footer were all
+     rendered AFTER the document had been closed. Browsers silently recover, but
+     it was invalid HTML on every page and could truncate output for parsers
+     that respect the body close. The closing tags now live at the end of
+     footer.html, which is the last partial every layout calls. */}}

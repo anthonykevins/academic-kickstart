@@ -16,7 +16,7 @@ summary = "One of us? How welfare states help shape immigrant integration"
 external_link = "https://archive.discoversociety.org/2019/02/06/policy-and-politics-one-of-us-how-welfare-states-help-shape-immigrant-integration/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

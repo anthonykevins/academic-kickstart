@@ -16,7 +16,7 @@ summary = "__Couverture médiatique&#160;:__ Big-tent politics is now all but de
 external_link = "https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

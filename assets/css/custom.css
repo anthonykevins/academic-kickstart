@@ -4,8 +4,11 @@
   --accent-light: #e6f0fa;
 }
 
+/* Was rgba(0, 0, 0, .4), which composites to #999 on white: 2.85:1, under the
+   WCAG AA minimum of 4.5:1 for text this size (.8rem is normal-size text, not
+   "large"). .58 composites to #6b6b6b -> 5.33:1. */
 .search-hit-date {
-  color: rgba(0, 0, 0, .4);
+  color: rgba(0, 0, 0, .58);
   font-size: .8rem;
   margin-left: .5rem;
 }
@@ -138,12 +141,19 @@ h3 {
   color: var(--accent-color);
 }
 
+/* Until the heading-hierarchy fix at the end of this file, the name was an
+   <h2>, so this rule matched nothing and the name rendered at the same 1rem as
+   every other line in the sidebar. It is the page's <h1> now, so this applies.
+   See the "Sidebar hierarchy" block at the end of the file -- the name, role
+   and affiliation are deliberately set at three different sizes there. */
 #profile h1[itemprop="name"] {
   border-bottom: none !important;
   padding-bottom: 0 !important;
-  margin-bottom: 0.5rem;
-  font-size: 1.25rem;
-  letter-spacing: 0.5px;
+  margin-bottom: 0.35rem;
+  font-size: 1.35rem;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: 0.3px;
 }
 
 #profile {
@@ -163,7 +173,10 @@ h3 {
   scroll-margin-top: 70px;
 }
 
-@media (max-width: 768px) {
+/* NOTE: 767.98px, not 768px. Bootstrap's md breakpoint starts AT 768px, so a
+   `max-width: 768px` query overlaps it and both the stacked-mobile styling and
+   the two-column layout applied at exactly that width. */
+@media (max-width: 767.98px) {
   #profile {
     align-items: center !important;
     text-align: center !important;
@@ -360,10 +373,14 @@ ul.ul-education li {
    <li> in navbar.html, which reads as cramped, especially on mobile. A
    legacy rule (academic.css: .navbar-nav .open .dropdown-menu > li > a) was
    meant to restore comfortable padding on mobile, but it targets Bootstrap
-   3's `.open` class -- this theme's actual dropdown toggle script (see the
-   "Custom Dropdown Script" in footer.html) adds `.show` instead, so `.open`
-   is never applied and that rule never fires. Add real padding to the link
-   itself instead, so it doesn't depend on that dead rule. */
+   3's `.open` class, which Bootstrap 4 never applies -- it uses `.show` --
+   so that rule never fires. Add real padding to the link itself instead, so
+   it doesn't depend on that dead rule.
+
+   (This comment used to credit a "Custom Dropdown Script" in footer.html for
+   adding `.show`. That script has been removed -- it was what stopped the
+   dropdown re-opening; see the note where it used to be. Bootstrap's own
+   plugin adds `.show`, so everything below still applies unchanged.) */
 .dropdown-menu .dropdown-item > a {
   display: block;
   padding: 0.65rem 1.25rem;
@@ -376,7 +393,7 @@ ul.ul-education li {
    the final "r" lands on its own line. Scoped to this one heading (not
    sitewide h1s) since it's really a small panel label, not a page title. */
 @media (max-width: 575.98px) {
-  #search .search-header h1 {
+  #search .search-header h2.search-title {
     font-size: 1.5rem;
   }
 }
@@ -448,8 +465,10 @@ h2[id], h3[id], h4[id] {
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-#profile .portrait-title h3:nth-of-type(2),
-#profile .portrait-title h3:nth-of-type(3) {
+/* Was h3:nth-of-type(2)/(3). The role line above these moved from <h3>
+   to <h2> in the heading-hierarchy fix, which shifts every nth-of-type
+   index; matching on the microdata attribute is immune to that. */
+#profile .portrait-title h3[itemprop="worksFor"] {
   color: rgba(0, 0, 0, 0.55);
 }
 
@@ -533,4 +552,476 @@ ul.ul-education li::marker {
 .pub-note-marker {
   color: var(--accent-color);
   margin-right: 0.35em;
+}
+
+/* ============================================================
+   Heading-hierarchy fix — semantics only; appearance preserved.
+
+   Before, the homepage emitted <h1>Search (a UI label), <h2>Anthony
+   Kevins (the actual subject of the page), then <h1>About Me and
+   <h1>Impact & Engagement, then nineteen <h4> outreach cards: three
+   h1s, the page subject demoted to h2, and an h1 -> h4 level skip.
+
+   After: <h1> is the name, section titles are <h2 class="section-title">,
+   outreach cards are <h3>. The rules below reproduce the previous
+   COMPUTED styles on the new tags so nothing moves visually. Values
+   taken from academic.css (the h1..h6 base, h1, .card h4 and
+   .section-heading h1 rules) and from the h1 / .card-text h4 rules
+   earlier in this file.
+
+   Note on !important: the ".widget-title, .home-section h2,
+   .home-section h3" rule above sets font-family with !important, so
+   these have to match it to keep the old face.
+   ============================================================ */
+
+.home-section h2.section-title {
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 2.25rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: normal;
+  color: #313131;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Two-column widgets put the title in a .section-heading column, where
+   academic.css set `margin: 0 0 10px 0` on the old <h1>. Must come after
+   the rule above, which has equal specificity. */
+.section-heading h2.section-title {
+  margin: 0 0 10px 0;
+}
+
+/* Outreach card titles: were <h4>, styled by `.card h4` (academic.css)
+   plus `.card-text h4` earlier in this file. That `.card-text h4` rule is
+   now unused — left in place rather than removed in case another card
+   partial is switched back to h4. */
+.card .card-text h3 {
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-transform: uppercase;
+  color: #313131;
+  padding-top: 0.5rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.card .card-text h3 a {
+  color: #000;
+  border-bottom: solid 1px transparent;
+}
+
+.card .card-text h3 a:hover {
+  color: #000;
+  border-bottom: solid 1px #000;
+  text-decoration: none;
+}
+
+/* The role line moved from <h3> to <h2>, which picks up the 1.4 line-height
+   from the "#profile h2" group rule and loses the h3 margins. These restore
+   the values it computed to as an <h3> (measured in-browser before the swap:
+   line-height 1.25, margin-top 0, margin-bottom 0.5rem). */
+#profile .portrait-title h2[itemprop="jobTitle"] {
+  line-height: 1.25;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+/* Search panel label: was <h1>, now <h2 class="search-title">. Margin and
+   line-height come from the `.search-header h1, .search-header h2` rule in
+   academic.css. */
+.search-header h2.search-title {
+  font-size: 2.25rem;
+  font-weight: 400;
+  color: #313131;
+}
+
+
+/* ============================================================
+   Sidebar hierarchy.
+
+   Every line in #profile was pinned to 1rem by the "#profile h1, #profile h2,
+   #profile h3, #profile p, #profile span" rule near the top of this file, so
+   name / role / department / university all rendered at one size and weight
+   and the eye had nothing to land on. Three steps instead: name (1.35rem,
+   600), role (1rem, 500), affiliation (0.9rem, 400, muted). The affiliation
+   colour is the existing rgba(0,0,0,.55) = #737373, which is 4.74:1 on white
+   and still clears WCAG AA at this size.
+   ============================================================ */
+
+#profile .portrait-title h2[itemprop="jobTitle"] {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.25;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+#profile .portrait-title h3[itemprop="worksFor"] {
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.35;
+  margin-top: 0;
+  margin-bottom: 0.15rem;
+}
+
+#profile .portrait-title h3[itemprop="worksFor"]:last-of-type {
+  margin-bottom: 0.75rem;
+}
+
+/* ============================================================
+   Wide-screen dead space.
+
+   #profile sits in a col-lg-4 next to a much taller col-lg-8, so on large
+   screens the left column ran out of content and left a tall empty rectangle
+   below the social icons. Sticking the profile to the viewport puts that space
+   to work: the name, photo and contact links stay visible while the reader
+   scrolls the bio. Desktop only -- below the lg breakpoint the columns stack
+   and a sticky profile would pin itself over the text.
+   ============================================================ */
+
+@media (min-width: 768px) {
+  #profile {
+    position: sticky;
+    /* CORRECTION to an earlier version of this comment, which claimed the
+       navbar is rem-based and "exactly 5rem". It is not. academic.css sets
+       .navbar { min-height: 100px !important } with a max-width:1200px override
+       to 50px, and the rendered height varies with content wrapping. Measured:
+       50px at 800-940px, 91px at 1100px, 100px at 1280-1400px. 5.5rem resolves
+       to 88px (root 16px, below 58em) or 110px (root 20px, above it), which
+       clears the navbar at every one of those widths -- but by coincidence of
+       the two scales lining up, not because they are the same unit. Re-measure
+       if either the navbar rules or the root font-size breakpoint changes. */
+    top: 5.5rem;
+  }
+}
+
+
+/* ============================================================
+   Profile icons in the md column.
+
+   Now that the two-column layout starts at md (768px) rather than lg, the
+   profile column is only ~240px between 768px and 991px. Five icons at 40px
+   plus the theme's 10px li margin need ~280px, so the row wrapped 3+2.
+   Tighten both for that range only; below 768px the mobile block above takes
+   over, and at lg+ the column is wide enough for the full-size row.
+   ============================================================ */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #profile .network-icon li {
+    margin-right: 0;
+  }
+
+  #profile .network-icon a {
+    width: 36px;
+    height: 36px;
+    font-size: 1.5rem;
+  }
+}
+
+
+/* ============================================================
+   Inline Academicons SVGs.
+
+   These replaced the academicons webfont (a render-blocking stylesheet plus a
+   ~46KB font, for three icons). A font glyph inherits font-size and colour
+   from its parent; an inline <svg> does not, so restore both. The width comes
+   from each icon's viewBox via an inline style in the partial, so non-square
+   icons keep their proportions.
+   ============================================================ */
+
+.ai-svg {
+  height: 1em;
+  fill: currentColor;
+  vertical-align: -0.125em;
+}
+
+
+/* ============================================================
+   Skip link.
+
+   Visually hidden until it takes focus, then pinned top-left above the fixed
+   navbar. It is the first focusable element in the document (header.html) and
+   targets #content at the end of navbar.html.
+   ============================================================ */
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 2000;
+  padding: 0.75rem 1.25rem;
+  background: #fff;
+  color: var(--accent-color);
+  font-weight: 600;
+  border: 2px solid var(--accent-color);
+  border-radius: 0 0 4px 0;
+  text-decoration: none;
+}
+
+.skip-link:focus {
+  left: 0;
+}
+
+/* The target itself must never take visible space or show a focus ring --
+   focus lands here only so the next Tab continues into the content. */
+#content {
+  outline: none;
+}
+
+/* ============================================================
+   Reduced motion.
+
+   The profile fades in and slides up, cards animate their shadow on hover and
+   the social icons scale. Users who ask their OS to reduce motion should get
+   none of it. Colour and shadow transitions are left alone -- they do not
+   move anything.
+   ============================================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  #profile {
+    animation: none;
+  }
+
+  #profile .network-icon a:hover {
+    transform: none;
+  }
+
+  .card,
+  .card:hover,
+  .back-to-top,
+  #profile .network-icon a {
+    transition: none;
+  }
+
+  .outreach-scroll .projects-container {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ============================================================
+   Print.
+
+   Academic pages get printed and saved as PDF. Drop the furniture that means
+   nothing on paper (fixed navbar, search panel, cookie banner, back-to-top,
+   share buttons), let the sticky profile flow normally, unwrap the horizontal
+   outreach carousel so every card prints rather than just the visible ones,
+   and print link targets after the link text so URLs survive.
+   ============================================================ */
+
+@media print {
+  .navbar,
+  .search-results,
+  .search-header,
+  #search,
+  .skip-link,
+  .back-to-top,
+  #back_to_top,
+  .share-box,
+  .scroll-btn,
+  #cc-main,
+  .cc--anim,
+  #modal {
+    display: none !important;
+  }
+
+  body {
+    background: #fff !important;
+    font-size: 11pt;
+  }
+
+  /* The profile is sticky on screen; on paper it must sit in the flow. */
+  #profile {
+    position: static !important;
+  }
+
+  /* The carousel scrolls sideways on screen -- print every card instead. */
+  .outreach-scroll .projects-container {
+    display: block !important;
+    overflow: visible !important;
+  }
+
+  .outreach-scroll .project-card {
+    width: auto !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .card,
+  .pub-card,
+  .project-section,
+  .teaching-section,
+  .pub-section {
+    box-shadow: none !important;
+    background: transparent !important;
+    break-inside: avoid;
+  }
+
+  a {
+    background-image: none !important;
+    color: #000 !important;
+  }
+
+  /* Show destinations for real links, but not for in-page anchors or the
+     navigation, which would just add noise. */
+  .article-style a[href^="http"]::after,
+  .pub-section a[href^="http"]::after,
+  .project-section a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 85%;
+    word-break: break-all;
+  }
+
+  h1, h2, h3, h4 {
+    break-after: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+    break-inside: avoid;
+  }
+}
+
+
+/* ============================================================
+   Citation modal code block.
+
+   The BibTeX in the "Cite" modal carries the .hljs class, which used to be
+   styled by the highlight.js stylesheet. That stylesheet was loading on every
+   page purely to style this one element -- highlighting never ran, because the
+   vendored footer.html has no highlight.js <script>. These rules reproduce the
+   base look (github theme: light panel, dark text, scrollable) locally.
+   ============================================================ */
+
+#modal pre,
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.75em 1em;
+  background: #f8f8f8;
+  color: #333;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+#modal pre code {
+  background: none;
+  padding: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* ============================================================
+   Featured Publications cards
+   ------------------------------------------------------------
+   Three cards side by side: Figure 1 of each paper on top, title and
+   citation below (the title is the link; there is no DOI line). All three are visible without interaction -- this replaced
+   first a carousel (which hid two of the three) and then a stacked
+   media-object list (where the long titles left the rows looking
+   half-empty).
+
+   The box reuses the theme's .card (radius, shadow) and .card-text
+   (which is what styles the <h3>), with three overrides: sentence case
+   instead of the uppercase used for the short outreach titles, a white
+   background with a hairline border -- the thumbnails are white, so
+   #fafafa leaves a visible seam and the shadow alone gives the card no
+   edge against the page -- and no width on .project-card-style items,
+   see the grid note below.
+   ============================================================ */
+
+/* The blank widget's single-column branch emits the section title bare;
+   the portfolio widget ("Impact & Engagement", the next section down)
+   wraps its title in .center-text + .mt-0. Match it, so the two
+   full-width sections line up. */
+#featured_publications h2.section-title {
+  text-align: center;
+  margin-top: 0;
+}
+
+.pub-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  align-items: stretch;
+  max-width: 1140px;   /* keeps each card near the 500px source width */
+  margin: 0 auto;
+}
+
+.pub-cards-more {
+  max-width: 1140px;
+  margin: 1.5rem auto 0;
+}
+
+.pub-cards .card.pub-card {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0;
+  background-color: #fff;
+  border: 1px solid #e8e8e8;
+  overflow: hidden;   /* keeps the image corners inside the 6px radius */
+}
+
+.pub-card-media {
+  display: block;
+}
+
+.pub-card-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ececec;
+}
+
+.pub-cards .card .card-text.pub-card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  padding: 0.85rem 1rem 1rem;
+}
+
+.pub-cards .card .card-text h3 {
+  text-transform: none;   /* article titles are too long for all caps */
+  font-size: 1rem;
+  line-height: 1.4;
+  padding-top: 0;
+  margin: 0 0 0.4rem;
+}
+
+.pub-cards .card .card-text p {
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6);
+  margin: 0 0 0.3rem;
+}
+
+/* The citation sits directly under the title. It was previously pushed to
+   the card foot with margin-top:auto so the DOI lines shared a baseline;
+   with the DOIs gone that just left a gap under short titles. */
+.pub-cards .card .card-text p.pub-card-meta {
+  margin-bottom: 0;
+}
+
+@media (max-width: 991.98px) {
+  .pub-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 575.98px) {
+  .pub-cards {
+    grid-template-columns: 1fr;
+  }
 }

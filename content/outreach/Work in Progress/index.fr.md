@@ -6,7 +6,7 @@ title = "Work in Progress"
  date = 2021-09-16T00:00:00
 
 # Project summary to display on homepage.
-summary = "« Women's Work » and the Welfare State"
+summary = "« Women’s Work » and the Welfare State"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -16,7 +16,7 @@ summary = "« Women's Work » and the Welfare State"
 external_link = "http://www.wipsociology.org/2021/09/16/womens-work-and-the-welfare-state-new-analysis-quantifies-how-gender-class-and-social-policy-shape-unpaid-care-work/" 
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

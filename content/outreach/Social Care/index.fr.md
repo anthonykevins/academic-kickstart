@@ -16,7 +16,7 @@ summary = "What the English public wants (and what they don’t want) to priorit
 external_link = "https://www.lboro.ac.uk/media-centre/press-releases/2026/july/andy-burnham-social-care-announcement/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

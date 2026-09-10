@@ -14,3 +14,16 @@ Latex/Archives
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# LaTeX build artifacts. Some are already tracked (Latex/CV, Latex/Research
+# Plan, several Presentations folders), and .gitignore does not untrack
+# anything -- this only stops NEW ones being committed. Use
+# `git rm --cached <file>` if you ever want the tracked ones out.
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+
+# The Claude desktop app copies files it sends into the chat here.
+Claude outputs/

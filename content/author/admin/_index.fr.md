@@ -15,7 +15,7 @@ role = "Professeur agrégé"
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "Chercheur Marie Curie", url = "https://www.uu.nl/staff/AVKevins" }, { name = "École de gouvernance", url = "https://www.uu.nl/en/organisation/utrecht-university-school-of-governance" }, { name = "Université d’Utrecht", url = "https://www.uu.nl/en" } ]
-organizations = [ { name = "Département des relations internationales, des sciences politiques et d'histoire"}, { name = "Université de Loughborough"} ]
+organizations = [ { name = "Département de relations internationales, de science politique et d’histoire"}, { name = "Université de Loughborough"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -57,7 +57,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.dk/citations?user=m-LdYYIAAAAJ&hl=fr"
+  link = "https://scholar.google.com/citations?user=m-LdYYIAAAAJ&hl=fr"
 
 [[social]]
  icon = "linkedin"
@@ -66,8 +66,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Ma recherche se concentre sur l'interaction entre l'opinion publique et les réformes politiques, en particulier sur les politiques sociales et les groupes marginalisés. Certaines des questions que j'ai tenté d'investiguer jusqu'à maintenant sont : quels facteurs influencent les rapports entre les inclus et les exclus ? Comment peut-on mieux comprendre les préférences de l'opinion publique par rapport aux politiques sociales ? Et quels éléments incitent les réformes des programmes sociaux ?
+Ma recherche se concentre sur l’interaction entre l’opinion publique et les réformes politiques, en particulier sur les politiques sociales et les groupes marginalisés. Certaines des questions que j’ai cherché à examiner jusqu’à maintenant sont : quels facteurs influencent les rapports entre les inclus et les exclus ? Comment peut-on mieux comprendre les préférences de l’opinion publique par rapport aux politiques sociales ? Et quels éléments motivent les réformes des programmes sociaux ?
 
-Mes études ont été publiées dans des revues scientifiques telles que _Comparative Political Studies_, _European Journal of Political Research_, et _West European Politics_, et mon travail a été mentionné dans [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/) et [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
+Mes études ont été publiées dans des revues scientifiques telles que _Comparative Political Studies_, _European Journal of Political Research_, et _West European Politics_, et mon travail a été mentionné dans [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean’s](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/) et [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
 
-Pour plus de détails, vous pouvez consulter mon [CV ici](https://anthonykevins.github.io/files/CV_fr.pdf).
+Pour plus de détails, vous pouvez consulter mon [CV ici](/files/CV_fr.pdf).

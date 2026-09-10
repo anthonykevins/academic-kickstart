@@ -11,7 +11,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Senior Lecturer<br><span style='font-size:100%'>(Associate Professor)</span>"
+role = "Senior Lecturer<br>(Associate Professor)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -58,7 +58,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.dk/citations?user=m-LdYYIAAAAJ&hl"
+  link = "https://scholar.google.com/citations?user=m-LdYYIAAAAJ&hl=en"
 
 [[social]]
  icon = "linkedin"
@@ -72,10 +72,10 @@ user_groups = ["Researchers", "Visitors"]
 
 I'm a political scientist interested in the interplay between public opinion, policy-making processes, and government legislation. 
 
-Some questions I've explored in my research include: How can we best understand [social care preferences](https://anthonykevins.github.io/projects/#balancing-social-care-priorities)? What factors shape [attitudes toward the welfare state](https://anthonykevins.github.io/projects/#universalism-and-the-welfare-state)? And why do some citizens want certain groups to have [more or less policy influence](https://anthonykevins.github.io/projects/#preferences-for-differentiated-representation) than others?
+Some questions I've explored in my research include: How can we best understand social care preferences? What factors shape attitudes toward the welfare state? And why do some citizens want certain groups to have more or less policy influence than others?
 
-I've published over two dozen [peer-reviewed studies](https://anthonykevins.github.io/publications/), and you can find my articles in high-impact journals such as _Comparative Political Studies_, the _European Journal of Political Research_, and _West European Politics_. My research has been awarded Best Article Prizes from [_Socio-Economic Review_](https://sase.org/publications/socio-economic-review/ser-best-paper-awards/) and [_Political Studies_](https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners) and discussed in media outlets such as [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
+I've published around thirty peer-reviewed studies, and you can find my articles in high-impact journals such as _Comparative Political Studies_, the _European Journal of Political Research_, and _West European Politics_. My research has been awarded Best Article Prizes from [_Socio-Economic Review_](https://sase.org/publications/socio-economic-review/ser-best-paper-awards/) and [_Political Studies_](https://journals.sagepub.com/page/psx/collections/virtual-special-issues/harrison-prize-winners) and discussed in media outlets such as [The Globe and Mail](https://www.theglobeandmail.com/opinion/big-tent-politics-is-now-all-but-dead/article24944734/), [Maclean's](https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/), and [Le Monde](https://www.lemonde.fr/idees/article/2019/03/22/nous-demandons-des-programmes-sociaux-moins-genereux-lorsque-nos-revenus-diminuent_5439877_3232.html).
 
-I also hold a [five-year appointment](https://ukyoungacademy.org/members/anthony-kevins/) to the [UK Young Academy](https://ukyoungacademy.org/), and have more than a decade of [teaching experience](https://anthonykevins.github.io/files/Teaching_Portfolio.pdf). 
+I also hold a five-year appointment to the [UK Young Academy](https://ukyoungacademy.org/members/anthony-kevins/), and have more than a decade of [teaching experience](/files/Teaching_Portfolio.pdf). 
 
-For more details, check out [my full CV here](https://anthonykevins.github.io/files/CV.pdf).
+For more details, check out [my full CV here](/files/CV.pdf).

@@ -16,7 +16,7 @@ summary = "Explaining Other People’s Stances on Inequality"
 external_link = "https://socialpolicyblog.co.uk/2019/05/08/explaining-other-peoples-stances-on-inequality/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

@@ -35,13 +35,18 @@
 <h6 class="card-subtitle">{{ . | safeHTML }}</h6>
 {{ end }}
     {{ with .Params.bio }}<p class="card-text" itemprop="description">{{. | markdownify | emojify}}</p>{{end}}
-    <ul class="network-icon" aria-hidden="true">
+    {{/* Same defect as widgets/about.html: aria-hidden="true" here removed
+         these profile links from the accessibility tree while leaving them
+         keyboard-focusable (WCAG 4.1.2 / axe aria-hidden-focus). */}}
+    <ul class="network-icon">
       {{ range .Params.social }}
       {{ $pack := or .icon_pack "fas" }}
       {{ $pack_prefix := $pack }}
       {{ if in (slice "fab" "fas" "far" "fal") $pack }}
         {{ $pack_prefix = "fa" }}
       {{ end }}
+      {{ $icon_labels := dict "envelope" "Email" "orcid" "ORCID" "researchgate" "ResearchGate" "google-scholar" "Google Scholar" "linkedin" "LinkedIn" "twitter" "Twitter" "github" "GitHub" "mastodon" "Mastodon" "bluesky" "Bluesky" }}
+      {{ $icon_label := or (index $icon_labels .icon) (.icon | humanize) }}
       {{ $link := .link }}
       {{ $scheme := (urls.Parse $link).Scheme }}
       {{ $target := "" }}
@@ -51,8 +56,8 @@
         {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
       {{ end }}
       <li>
-        <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+        <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ $icon_label }}" title="{{ $icon_label }}">
+          {{ if eq $pack "ai" }}{{ partial "icon_academicons.html" (dict "icon" .icon) }}{{ else }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}" aria-hidden="true"></i>{{ end }}
         </a>
       </li>
       {{ end }}

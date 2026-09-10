@@ -1,6 +1,6 @@
 +++
 # Venue
-title = "Maclean's"
+title = "Maclean’s"
 
 # Date this page was created.
  date = 2019-01-11T00:00:00
@@ -16,7 +16,7 @@ summary = "__Couverture médiatique&#160;:__ This is what’s wrong with Canada�
 external_link = "https://www.macleans.ca/politics/this-is-whats-wrong-with-canadas-right/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

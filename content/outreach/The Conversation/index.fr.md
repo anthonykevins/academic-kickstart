@@ -16,7 +16,7 @@ summary = "Can social care ever really be fixed? Experts react to the latest in 
 external_link = "https://doi.org/10.64628/AB.emwc4f6hh"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

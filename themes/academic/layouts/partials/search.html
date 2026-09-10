@@ -4,17 +4,17 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1>{{ i18n "search" }}</h1>
+          <h2 class="search-title">{{ i18n "search" }}</h2>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="{{ i18n "close_search" | default "Close search" }}" title="{{ i18n "close_search" | default "Close search" }}"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         {{ if eq $.Site.Params.search.engine 1 }}
-        <input name="q" id="search-query" placeholder="{{i18n "search_placeholder"}}" autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        <input aria-label="{{ i18n "search" }}" name="q" id="search-query" placeholder="{{i18n "search_placeholder"}}" autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         {{ else }}
         <!-- Search box will appear here -->
         {{ end }}

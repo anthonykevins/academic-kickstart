@@ -99,7 +99,7 @@
 
         {{ if .Site.Params.search.engine }}
         <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+          <a class="nav-link js-search" href="#" aria-label="{{ i18n "search" }}" title="{{ i18n "search" }}"><i class="fas fa-search" aria-hidden="true"></i></a>
         </li>
         {{ end }}
 
@@ -143,3 +143,13 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container -->
 </nav>
+
+{{/* Skip-link target. tabindex="-1" so the browser moves FOCUS here, not just
+     the scroll position -- without it some browsers scroll but leave focus in
+     the nav, and the next Tab goes back into the menu. */}}
+{{/* Skip-link target AND the page's main landmark. Opening <main> here and
+     closing it at the top of footer_container.html wraps exactly the content
+     region: every layout that builds calls navbar -> content ->
+     footer_container -> footer, in that order.
+     tabindex="-1" so the skip link moves FOCUS here, not just scroll position. */}}
+<main id="content" tabindex="-1">

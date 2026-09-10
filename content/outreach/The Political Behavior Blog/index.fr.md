@@ -16,7 +16,7 @@ summary = "Do Public Consultations Reduce Blame Attribution?"
 external_link = "https://politicalbehavior.wordpress.com/2021/10/11/%EF%BF%BC/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"

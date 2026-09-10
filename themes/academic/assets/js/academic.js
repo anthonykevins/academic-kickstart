@@ -15,6 +15,16 @@
   let $navbar = $('.navbar');
   let navbar_offset = $navbar.innerHeight();
 
+  // The navbar is NOT a fixed height: academic.css sets min-height 100px, with
+  // a max-width:1200px override to 50px, and the rendered height varies with
+  // content wrapping (measured 91px at a 1100px viewport). navbar_offset used
+  // to be computed once at script load and never again -- so after a resize or
+  // a device rotation every anchor scroll was off by the difference, up to
+  // ~50px. Recompute whenever the viewport changes.
+  function refreshNavbarOffset() {
+    navbar_offset = $navbar.innerHeight();
+  }
+
   /**
    * Responsive hash scrolling.
    * Check for a URL hash as an anchor.
@@ -40,6 +50,7 @@
 
   // Make Scrollspy responsive.
   function fixScrollspy() {
+    refreshNavbarOffset();
     let $body = $('body');
     let data = $body.data('bs.scrollspy');
     if (data) {
@@ -344,6 +355,14 @@
    * --------------------------------------------------------------------------- */
 
   $(document).ready(function() {
+    // day_night is disabled in params.toml, so no toggle is rendered and this
+    // whole block was doing nothing but read localStorage on every page load.
+    // Worse, a stale dark_mode=1 value would put the site into dark mode with
+    // no control to get back out. Only run when the feature is actually present.
+    if (!$('.js-dark-toggle').length && !$('body').hasClass('dark')) {
+      return;
+    }
+
     // Set dark mode if user chose it.
     let default_mode = 0;
     if ($('body').hasClass('dark')) {
@@ -446,7 +465,9 @@
     }
 
     // Enable publication filter for publication index page.
-    if ($('.pub-filters-select')) {
+    // NOTE: was `if ($('.pub-filters-select'))` -- a jQuery object is truthy
+    // even when empty, so this ran on every page regardless.
+    if ($('.pub-filters-select').length) {
       filter_publications();
       // Useful for changing hash manually (e.g. in development):
       // window.addEventListener('hashchange', filter_publications, false);

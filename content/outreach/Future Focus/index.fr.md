@@ -16,7 +16,7 @@ summary = "Balancing Social Care Priorities"
 external_link = "https://valonline.org.uk/projects/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
+# To use, add an image named `featured.jpg/png` to your project’s folder. 
 [image]
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"
