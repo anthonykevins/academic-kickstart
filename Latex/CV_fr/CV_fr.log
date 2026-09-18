@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  3 SEP 2026 13:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.14)  18 SEP 2026 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1036,7 +1036,59 @@ ent Wea-ver, Ox-ford Uni-ver-sity Press : 732-766.
 > Step: parse table inner spec.
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
+
+! LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 \end
+          {longtblr}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 \end
+          {longtblr}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 \end
+          {longtblr}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
 > Step: build the whole table.
+
+! LaTeX Error: Unicode character   (U+2028)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 \end
+          {longtblr}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
 [4]
 > Step: init table outer spec.
 > Step: parse table options.
@@ -1046,87 +1098,86 @@ ent Wea-ver, Ox-ford Uni-ver-sity Press : 732-766.
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
+ [5]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 307.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 305.
+(hyperref)                removing `\z@' on input line 307.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 305.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 305.
+(hyperref)                removing `superscript' on input line 307.
 
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/it' aliased to
-(Font)              `OT1/Roboto-LF/light/it' on input line 305.
+(Font)              `OT1/Roboto-LF/light/it' on input line 307.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/it' will be
-(Font)              scaled to size 7.34996pt on input line 305.
+(Font)              scaled to size 7.34996pt on input line 307.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 308.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 308.
+(hyperref)                removing `\mathsurround' on input line 310.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 308.
+(hyperref)                removing `\z@' on input line 310.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--309
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 310.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--311
 
  []
 
-[5]
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/l/n' aliased to
-(Font)              `OT1/Roboto-LF/light/n' on input line 325.
+(Font)              `OT1/Roboto-LF/light/n' on input line 327.
 LaTeX Font Info:    Font shape `OT1/Roboto-LF/light/n' will be
-(Font)              scaled to size 7.34996pt on input line 325.
+(Font)              scaled to size 7.34996pt on input line 327.
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--326
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 313--326
+Underfull \hbox (badness 10000) in paragraph at lines 315--328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--326
+Underfull \hbox (badness 10000) in paragraph at lines 315--328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--326
+Underfull \hbox (badness 10000) in paragraph at lines 315--328
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--328
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--355
+Underfull \hbox (badness 10000) in paragraph at lines 350--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--355
+Underfull \hbox (badness 10000) in paragraph at lines 350--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
 
  []
 
@@ -1140,18 +1191,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19735 strings out of 476025
- 371119 string characters out of 5790016
+ 19734 strings out of 476025
+ 371073 string characters out of 5790016
  1893388 words of memory out of 5000000
- 39785 multiletter control sequences out of 15000+600000
- 560149 words of font info for 149 fonts, out of 8000000 for 9000
+ 39786 multiletter control sequences out of 15000+600000
+ 559994 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,8n,109p,10742b,1073s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Light.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-LightItal
 ic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy5.pfb>
-Output written on CV_fr.pdf (7 pages, 113832 bytes).
+Output written on CV_fr.pdf (7 pages, 114134 bytes).
 PDF statistics:
  362 PDF objects out of 1000 (max. 8388607)
  224 compressed objects within 3 object streams
