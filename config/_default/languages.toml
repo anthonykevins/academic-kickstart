@@ -4,11 +4,11 @@
 
 # Configure the English version of the site.
 [en]
-  languageCode = "en-us"
+  locale = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
 [fr]
- languageCode = "fr"
+ locale = "fr"
  title = "Anthony Kevins"
   [fr.params]
     description = "Ma recherche se concentre sur l’interaction entre l’opinion publique et les réformes politiques, en particulier sur les politiques sociales et les groupes marginalisés."

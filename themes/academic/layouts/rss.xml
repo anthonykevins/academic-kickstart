@@ -6,10 +6,8 @@
     <title>{{ with .Title }}{{ if ne . $.Site.Title }}{{.}} on {{ end }}{{ end }}{{ .Site.Title }}</title>
     <link>{{ .Permalink }}</link>
     <description>Recent content {{ with .Title }}in {{.}} {{ end }}on {{ .Site.Title }}</description>
-    <generator>Hugo -- Academic theme (https://github.com/HugoBlox/theme-academic-cv)</generator>{{ with .Site.LanguageCode }}
-    <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
-    <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
-    <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
+    <generator>Hugo -- Academic theme (https://github.com/HugoBlox/theme-academic-cv)</generator>{{ with .Site.Language.Locale }}
+    <language>{{.}}</language>{{end}}{{ with .Site.Copyright }}
     {{/* footer_section.html substitutes {year}; this did not, so the feed carried
          the literal placeholder. markdownify also decodes the &copy; entity. */}}
     <copyright>{{ replace . "{year}" now.Year | markdownify | plainify }}</copyright>{{end}}{{ if not .Date.IsZero }}
@@ -20,7 +18,6 @@
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Content | html }}</description>
     </item>

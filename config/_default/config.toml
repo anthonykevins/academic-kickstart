@@ -92,8 +92,16 @@ defaultContentLanguageInSubdir = false
 
 [imaging]
   resampleFilter = "lanczos"
-  quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+
+  # `imaging.quality` was deprecated in Hugo 0.163: quality is now set per
+  # output format. Both formats this site emits keep the previous value of 90.
+  # These sub-tables must stay last in the [imaging] block -- any bare key
+  # after them would bind to [imaging.webp], not [imaging].
+  [imaging.jpeg]
+    quality = 90
+  [imaging.webp]
+    quality = 90
 
 # Taxonomies.
 #

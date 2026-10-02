@@ -146,7 +146,7 @@ sections: [
 {{/* Load built-in (Fuse-based) search: CDN libs, then the bridge variables
      academic-search.js expects, then the search script itself. */}}
 {{ if eq .Site.Params.search.engine 1 }}
-  {{ $jsAssets := .Site.Data.assets.js }}
+  {{ $jsAssets := hugo.Data.assets.js }}
   <script src="{{ printf $jsAssets.fuse.url $jsAssets.fuse.version }}" integrity="{{ $jsAssets.fuse.sri }}" crossorigin="anonymous"></script>
   <script src="{{ printf $jsAssets.mark.url $jsAssets.mark.version }}" integrity="{{ $jsAssets.mark.sri }}" crossorigin="anonymous"></script>
   <script>

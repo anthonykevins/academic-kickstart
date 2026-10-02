@@ -7,7 +7,7 @@
      accessible name on the surrounding <a>. Width is derived from the viewBox
      so non-square icons (researchgate and google-scholar are 384x512) keep
      their aspect ratio at any font-size. */}}
-{{- $d := index site.Data.academicons .icon -}}
+{{- $d := index hugo.Data.academicons .icon -}}
 {{- if $d -}}
   {{- $vb := split $d.viewbox " " -}}
   {{- $ratio := div (float (index $vb 2)) (float (index $vb 3)) -}}

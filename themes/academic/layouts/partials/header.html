@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<html lang="{{ .Site.Language.Locale | default "en-us" }}">
 <head>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -8,7 +8,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic {{ .Site.Data.academic.version }}">
+  <meta name="generator" content="Source Themes Academic {{ hugo.Data.academic.version }}">
   {{ hugo.Generator }}
 
   {{ $scr := .Scratch }}
@@ -34,7 +34,7 @@
     {{ $desc = .Params.abstract }}
   {{ else if .IsPage }}
     {{ $desc = .Summary }}
-  {{ else if and .IsNode .Summary }}
+  {{ else if and (not .IsPage) .Summary }}
     {{/* Section/list pages used to skip straight to the site-wide description,
          so a dozen pages shared one string. Use the section's own intro when it
          has one. */}}
@@ -64,9 +64,9 @@
   <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
   {{/* x-default must point at the DEFAULT language's version of this page.
        .Site is language-scoped -- on /fr/ pages .Site.Home.Lang is "fr" -- so
-       take the default language from the first entry in .Sites, which Hugo
+       take the default language from the first entry in hugo.Sites, which Hugo
        orders by language weight (en weight 1, fr weight 2). */}}
-  {{ $defaultLang := (index .Sites 0).Language.Lang }}
+  {{ $defaultLang := (index hugo.Sites 0).Language.Lang }}
   {{ if eq .Lang $defaultLang }}
   <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
   {{ else }}{{ range .Translations }}{{ if eq .Lang $defaultLang }}
@@ -74,8 +74,8 @@
   {{ end }}{{ end }}{{ end }}
 
   {{ partial "css/parse_theme.css" . }}
-  {{ $css := .Site.Data.assets.css }}
-  {{ $js := .Site.Data.assets.js }}
+  {{ $css := hugo.Data.assets.css }}
+  {{ $js := hugo.Data.assets.js }}
   {{ if ne ($scr.Get "primary") "#fff" }}
   <meta name="theme-color" content="#00539f">
   {{ end }}
@@ -162,7 +162,7 @@
 
   <link rel="stylesheet" href="{{ "styles.css" | relLangURL }}">
   {{ if .Site.Params.plugins_css }}
-    {{ $css_comment := printf "/* Source Themes Academic v%s | https://sourcethemes.com/academic/ */\n" .Site.Data.academic.version }}
+    {{ $css_comment := printf "/* Source Themes Academic v%s | https://sourcethemes.com/academic/ */\n" hugo.Data.academic.version }}
     {{ $css_bundle_head := $css_comment | resources.FromString "css/bundle-head.css" }}
     {{ $css_bundle := slice }}
     {{ range .Site.Params.plugins_css }}
@@ -217,7 +217,7 @@
        avatar.jpg at 1200x1200. Update them if you replace that file. */}}
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="1200">
-  <meta property="og:locale" content="{{ .Site.LanguageCode | default "en-us" }}">
+  <meta property="og:locale" content="{{ .Site.Language.Locale | default "en-us" }}">
 
   {{/* Deliberately "summary", not "summary_large_image": the og:image is a
        square portrait, and the large card crops to roughly 1.91:1, which would

@@ -37,7 +37,7 @@ subtitle = ""
     </a>
     <div class="card-text pub-card-body">
       <h3><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/pops.70164">Is sortition the ideal? Examining public reactions to climate assemblies</a></h3>
-      <p class="pub-card-meta">Anthony Kevins and Joshua Robison. (OnlineFirst) <em>Political Psychology</em>.</p>
+      <p class="pub-card-meta">Anthony Kevins and Joshua Robison. (2026) <em>Political Psychology</em>, 47(4): e70164.</p>
     </div>
   </div>
   <div class="card pub-card">
@@ -46,7 +46,7 @@ subtitle = ""
     </a>
     <div class="card-text pub-card-body">
       <h3><a href="https://www.tandfonline.com/doi/epdf/10.1080/01402382.2025.2548167?needAccess=true">How we think about the political stances of others: evidence on projection from Canada, Germany, and the UK</a></h3>
-      <p class="pub-card-meta">Seonghui Lee and Anthony Kevins. (OnlineFirst) <em>West European Politics</em>.</p>
+      <p class="pub-card-meta">Seonghui Lee and Anthony Kevins. (2026) <em>West European Politics</em>, 49(7): 1689-1714.</p>
     </div>
   </div>
   <div class="card pub-card">
@@ -55,7 +55,7 @@ subtitle = ""
     </a>
     <div class="card-text pub-card-body">
       <h3><a href="https://journals.sagepub.com/doi/epub/10.1177/09589287251356978">When Caring Comes at a Cost: Psychological Wellbeing of Unpaid and Paid Carers and the Role of Social Expenditure</a></h3>
-      <p class="pub-card-meta">Naomi Lightman and Anthony Kevins. (OnlineFirst) <em>Journal of European Social Policy</em>.</p>
+      <p class="pub-card-meta">Naomi Lightman and Anthony Kevins. (2026) <em>Journal of European Social Policy</em>, 36(2): 150-164.</p>
     </div>
   </div>
 </div>
