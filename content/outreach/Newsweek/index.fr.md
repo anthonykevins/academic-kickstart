@@ -6,7 +6,7 @@ title = "Newsweek"
  date = 2026-04-14T00:00:00
 
 # Project summary to display on homepage.
-summary = "Mark Carney Scores Major Election Victory in Canada"
+summary = "__Couverture médiatique&#160;:__ Mark Carney Scores Major Election Victory in Canada"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
